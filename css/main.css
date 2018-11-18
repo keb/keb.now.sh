@@ -1,0 +1,12 @@
+body { font-family: 'IBM Plex Mono', monospace; background-color: #fdfdfd; color: #313131; }
+
+a {
+    color: #4e5192;
+    transition: all .06s ease-in-out;
+    text-decoration: none;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    border-bottom: 1px solid transparent;
+}
+a:hover{ color: #5c5fb1; border-color: #3d3f80; }

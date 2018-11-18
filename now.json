@@ -1,4 +1,5 @@
 {
-	"alias": ["keb.now.sh"],
+	"name": "keb.now.sh",
+	"alias": "keb.now.sh",
 	"version": 2
 }

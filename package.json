@@ -1,0 +1,19 @@
+{
+  "name": "keb.now.sh",
+  "version": "1.0.0",
+  "description": "keb site",
+  "main": "null",
+  "scripts": {
+    "deploy": "now && now alias && now rm keb --safe --yes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/kebg/keb.now.sh.git"
+  },
+  "author": "keb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/kebg/keb.now.sh/issues"
+  },
+  "homepage": "https://gitlab.com/kebg/keb.now.sh#README"
+}

@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/kebg/keb.now.sh.git"
+    "url": "git+https://github.com/keb/keb.now.sh.git"
   },
   "author": "keb",
   "license": "MIT",
   "bugs": {
-    "url": "https://gitlab.com/kebg/keb.now.sh/issues"
+    "url": "https://github.com/keb/keb.now.sh/issues"
   },
-  "homepage": "https://gitlab.com/kebg/keb.now.sh#README"
+  "homepage": "https://github.com/keb/keb.now.sh#README"
 }

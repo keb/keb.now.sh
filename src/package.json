@@ -1,9 +1,0 @@
-{
-    "scripts": {
-        "serve": "zola serve --port 2000",
-        "build": "zola build --output-dir public"
-    },
-    "dependencies": {
-        "fs-extra": "^8.1.0"
-    }
-}

@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <p class="h4">
+        <a href="/">keb.now.sh</a>
+    </p>
+    <span class="h5 p0 m0 light-subdue">
+        {{ page.date | date(format="%B %d, %Y", timezone="America/New_York") }}
+    </span>
+    <div class="page-content">
+        {{ page.content | safe }}
+    </div>
+{% endblock content %}

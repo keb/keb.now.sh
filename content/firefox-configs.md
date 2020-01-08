@@ -1,6 +1,6 @@
 +++
 title = "firefox configs"
-date = 2020-01-06
+date = 2019-06-07T23:00:00.000Z
 +++
 
 # firefox configs

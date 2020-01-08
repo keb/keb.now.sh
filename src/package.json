@@ -1,5 +1,0 @@
-{
-    "scripts": {
-        "build": "zola build --output-dir ../dist"
-    }
-}

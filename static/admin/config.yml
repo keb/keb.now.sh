@@ -11,8 +11,8 @@ public_folder: "img"
 
 collections:
   - name: "blog"
-    label: "keb blog"
-    folder: "src/content"
+    label: "keb blogs"
+    folder: "content"
     create: true
     slug: "{{slug}}"
     fields:

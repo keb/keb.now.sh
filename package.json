@@ -4,8 +4,8 @@
   "description": "keb site",
   "main": "null",
   "scripts": {
-  	"build": "zola build --output-dir dist",
-    "deploy": "now ./dist --prod"
+  	"build": "zola build",
+    "deploy": "now ./public --prod"
   },
   "repository": {
     "type": "git",

@@ -6,7 +6,7 @@ date = 2019-06-04T14:20:03.472Z
 
 This is a wishlist of miscellaneous stuff I intend to get.
 
-##### Devices
+### Devices
 * Kobo Clara HD
 * Logitech G203 Prodigy Mouse
 * Thinkpad x220 w/ i5-2540M & 8GB RAM
@@ -18,23 +18,23 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * Sega Genesis Mini
 * Xperia XZ1 Compact
 
-##### Books
+### Books
 * Goodbye, Things by Fumio Sasaki
 * Physical copy of Infinite Jest by David Foster Wallace
 
-##### Software
+### Software
 * VPS Credit from Vultr, DigitalOcean, or Scaleway
 
 
-##### Games
+### Games
 
 
-##### Vinyl
+### Vinyl
 * Diamond Mine by King Creosote & Jon Hopkins Vinyl
 * Yankee Hotel Foxtrot by Wilco Vinyl
 * Under Color of Official Right by Protomartyr Vinyl
 
-##### Misc
+### Misc
 * Yamaha C-40 Guitar
 * Lapsang souchong
 * Mozilla shirt or mug

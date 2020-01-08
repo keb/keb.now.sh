@@ -3,19 +3,24 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 
 # This line should *not* be indented
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 
 # This line should *not* be indented
 media_folder: "static/img" # Media files will be stored in the repo under images/uploads
 public_folder: "img"
+site_url: https://keb.now.sh
+display_url: https://keb.now.sh
+
+media_library:
+  name: kebmedialib
 
 collections:
   - name: "blog"
     label: "keb blogs"
     folder: "content"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{slug}}"
     fields:
-      - { label: "Title", name: "title" }
-      - { label: "Date", name: "date" }
-      - { label: "Content", name: "content" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Content", name: "content", widget: "markdown" }

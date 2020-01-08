@@ -1,6 +1,9 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
+  site_domain: location.hostname
+  base_url: https://api.netlify.com
+  api_root: https://api.github.com
 
 # This line should *not* be indented
 # publish_mode: editorial_workflow
@@ -20,7 +23,7 @@ collections:
     folder: "content"
     create: true
     format: toml-frontmatter
-    slug: "{{year}}-{{slug}}"
+    slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }

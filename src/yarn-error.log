@@ -1,0 +1,35 @@
+Arguments: 
+  C:\bin\scoop\apps\nvm\current\nodejs\nodejs\node.exe C:\bin\scoop\apps\yarn\current\Yarn\bin\yarn.js build
+
+PATH: 
+  C:\bin\cmder\bin;C:\bin\cmder\vendor\conemu-maximus5\ConEmu\Scripts;C:\bin\cmder\vendor\conemu-maximus5;C:\bin\cmder\vendor\conemu-maximus5\ConEmu;c:\programdata\oracle\java\javapath;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\program files\git\cmd;c:\bin\lua\5.1;c:\bin\lua\5.1\clibs;c:\bin\haxe\haxe\;c:\bin\haxe\neko;c:\program files\dotnet\;c:\bin\erl10.0.1\bin;c:\bin\elixir\bin;c:\windows\system32\config\systemprofile\.mix\escripts;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\bin\erl10.0.1\bin;C:\Program Files (x86)\ZeroTier\One\;C:\bin\composer;C:\bin\haxe\haxe\;C:\bin\haxe\neko;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\bin\java\bin;C:\bin\go\bin;C:\apps\vscodium\bin;C:\bin\scoop\apps\yarn\current\Yarn\bin;C:\bin\scoop\apps\yarn\current\global\node_modules\.bin;C:\bin\scoop\apps\postgresql\current\bin;C:\bin\scoop\apps\nvm\current\nodejs\nodejs;C:\bin\scoop\apps\python\current\Scripts;C:\bin\scoop\apps\elixir\current\bin;C:\bin\scoop\shims;C:\Users\kevin\.dotnet\tools;C:\Program Files\dotnet;C:\bin\haxe\haxe;C:\bin\heroku\bin;C:\bin\vscodium\bin;C:\bin\wren;C:\bin\love;C:\bin\zerobrane\bin;C:\Users\kevin\go\bin;C:\bin\scoop\apps\git\current\cmd;C:\bin\scoop\apps\git\current\mingw64;C:\bin\scoop\apps\git\current\usr\bin;C:\bin\cmder
+
+Yarn version: 
+  1.19.2
+
+Node version: 
+  13.3.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  SyntaxError: E:\.dev\keb\keb.now.sh\src\package.json: Unexpected token } in JSON at position 79
+      at JSON.parse (<anonymous>)
+      at C:\bin\scoop\apps\yarn\1.19.2\Yarn\lib\cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (C:\bin\scoop\apps\yarn\1.19.2\Yarn\lib\cli.js:304:30)
+      at C:\bin\scoop\apps\yarn\1.19.2\Yarn\lib\cli.js:315:13
+
+npm manifest: 
+  {
+      "scripts": {
+          "build": "zola build --output-dir /../dist/"
+      },
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

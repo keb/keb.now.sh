@@ -4,7 +4,7 @@
   "description": "keb site",
   "main": "null",
   "scripts": {
-    "deploy": "now && now alias && now rm keb --safe --yes"
+    "deploy": "now ./dist --prod"
   },
   "repository": {
     "type": "git",

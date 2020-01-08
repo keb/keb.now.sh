@@ -1,0 +1,21 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+# This line should *not* be indented
+publish_mode: editorial_workflow
+
+# This line should *not* be indented
+media_folder: "static/img" # Media files will be stored in the repo under images/uploads
+public_folder: "img"
+
+collections:
+  - name: "blog"
+    label: "keb blog"
+    folder: "src/content"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title" }
+      - { label: "Date", name: "date" }
+      - { label: "Content", name: "content" }

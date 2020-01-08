@@ -19,8 +19,9 @@ collections:
     label: "keb blogs"
     folder: "content"
     create: true
+    format: toml-frontmatter
     slug: "{{year}}-{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-      - { label: "Content", name: "content", widget: "markdown" }
+      - { label: "Body", name: "body", widget: "markdown" }

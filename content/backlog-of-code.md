@@ -10,12 +10,12 @@ It has occurred to me that I put far too many projects in the backburner, altern
 
 ### In order of intended completion
 
--   ~~colm~~
-    		* ~~clone existing project repository instead of rewriting; fix bugs and implement new state management pattern~~
-    		* ~~either rename to ettorss or implement rss feed into colm~~ postponed
+-   colm
+    		* clone existing project repository instead of rewriting; fix bugs and implement new state management pattern
+    		* either rename to ettorss or implement rss feed into colm
 
 -   steam friend night 		 *this might be better suited as a rewrite* 		 optionally - add new features 		\* reimplement server in either php or node as the flask backend has proven unwieldy
--   ~~its-drm-free~~
+-   its-drm-free
     -   lit-html based user script
 -   backdog 		 *implement server in node, php, or phoenix* 		 integrate IGDB API
 -   eBay frontend

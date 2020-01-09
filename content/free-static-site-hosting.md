@@ -6,10 +6,10 @@ date = 2019-12-06T15:24:39.126Z
 
 Consider this a sister blog post to my last, but here is a list of free static site hosting platforms I have found.
 
-* https://zeit.co/
-* https://webtask.io/
-* https://carrd.co/
-* https://surge.sh/
-* https://www.netlify.com/
-* https://firebase.google.com/
-* https://neocities.org
+* [zeit.co](https://zeit.co/)
+* [webtask.io](https://webtask.io/)
+* [carrd.co](https://carrd.co/)
+* [surge.sh](https://surge.sh/)
+* [netlify.com](https://www.netlify.com/)
+* [firebase.google.com](https://firebase.google.com/)
+* [neocities.org](https://neocities.org)

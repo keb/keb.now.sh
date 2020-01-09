@@ -1,5 +1,5 @@
 @keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
-.fade-in { animation: fade-in 0.5s; }
+.fade-in { animation: fade-in 0.25s; }
 
 body { font-family: 'IBM Plex Mono', monospace; background-color: #fdfdfd; color: #313131; }
 
@@ -55,3 +55,5 @@ pre { padding: 2em; overflow-x: auto; }
 }
 
 hr { border: 0; border-top: 1px solid #dedede; }
+.controls { position: absolute; top: 0; right: 0; opacity: 0; }
+.controls:hover { opacity: 1; }

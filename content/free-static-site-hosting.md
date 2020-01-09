@@ -13,3 +13,4 @@ Consider this a sister blog post to my last, but here is a list of free static s
 * [netlify.com](https://www.netlify.com/)
 * [firebase.google.com](https://firebase.google.com/)
 * [neocities.org](https://neocities.org)
+* [glitch.me](https://glitch.com/)

@@ -16,8 +16,12 @@ front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
 build:
-  install_dependencies_command: npm install
-  preview_docker_image: node:10
-  mount_path: "/srv"
+  preview_env:
+  - NOW_TOKEN=kifAdAVwOhlVXgPMo6rgJtpL
+  preview_output_directory: public
+  install_dependencies_command: " sudo apt install snapd && sudo snap install --edge
+    zola && sudo apt install nodejs && sudo apt install npm && npm i -g now"
+  preview_docker_image: https://hub.docker.com/_/ubuntu
+  mount_path: "/public"
   working_dir: "/srv"
-  instant_preview_command: npm run forestry:preview
+  instant_preview_command: zola serve

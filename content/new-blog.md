@@ -22,4 +22,4 @@ After setting everything up, I can confidently say things work well. But not wel
 It seems my next step will be to find a CMS that interfaces with Github, which is where the code for this site lives (please see [github.com/keb/keb.now.sh](https://github.com/keb/keb.now.sh) if you're interested).
 ﻿
 
-For now this will do. test.
+For now this will do.

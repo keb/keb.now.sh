@@ -49,6 +49,7 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * Inverted Umbrella
 * BUG-A-SALT
 * Reusable Chopsticks
+* Sonicare Electric Toothbrush
 
 ## Acquired
 

@@ -46,6 +46,7 @@ Currently Playing: **The Legend of Zelda: Breath of the Wild**
 * Mario & Luigi: Bowser's Inside Story
 * Super Mario Galaxy
 * Super Mario Galaxy 2
+* Devil May Cry 3
 * Devil May Cry 4
 * Devil May Cry 5
 * Resident Evil 7

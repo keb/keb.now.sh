@@ -9,6 +9,6 @@ A collection of books by category.
 
 ## JavaScript
 
-[JavaScript Allongre](https://leanpub.com/javascriptallongesix/read)
-[Mostly Adequate Guide](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
-[You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
+* [JavaScript Allongre](https://leanpub.com/javascriptallongesix/read)
+* [Mostly Adequate Guide](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
+* [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)

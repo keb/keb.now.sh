@@ -15,7 +15,7 @@ A collection of (free) web books, guides, and references by category.
 ## HTML/CSS
 * [MarkSheet](https://marksheet.io/)
     * *An introduction to creating webpages with HTML & CSS.*
-* [Learn to Code HTML](https://learn.shayhowe.com/html-css/)
+* [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
 	* *Yet another introduction to creating webpage with HTML & CSS. Great for beginners. Good alternative to the famous Jon Duckett book.*
 * [Mozilla Developer Network: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 	* *Good guide, but may be a bit dense. Great reference material.*
@@ -30,6 +30,8 @@ A collection of (free) web books, guides, and references by category.
 	* *Yet another guide to Functional Programming, using JavaScript.*
 * [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
 	* *A series of books focusing on the underlying core mechanisms of JavaScript.*
+* [Functional Light JS](https://github.com/getify/Functional-Light-JS)
+	* *A pragmatic look at Functional Programming with JavaScript. By Kyle Simpson, writer of the You Don't Know JavaScript series.*
 * [JavaScript for Impatient Programmers](https://exploringjs.com/impatient-js/index.html)
 	* *A modern guide to JavaScript for those with existing programming knowledge.*
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)

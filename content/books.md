@@ -20,7 +20,7 @@ A collection of (free) web books, guides, and references by category.
 	* *Yet another guide to Functional Programming, using JavaScript.*
 * [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
 	* *A series of books focusing on the underlying core mechanisms of JavaScript.*
-* [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html)
+* [JavaScript for Impatient Programmers](https://exploringjs.com/impatient-js/index.html)
 	* *A modern guide to JavaScript for those with existing programming knowledge*
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 	* *A guide to the software engineering principles of Robert C. Martin, using JavaScript.*
@@ -66,6 +66,8 @@ A collection of (free) web books, guides, and references by category.
 ## Game Development
 
 * [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)
+* [BYTEPATH](https://github.com/adnzzzzZ/blog/issues/30)
+	* *A book published as a series of Github issues. Guides the user in creating a game using Lua and Love2D, with plenty of exercises.*
 
 ## General Programming
 

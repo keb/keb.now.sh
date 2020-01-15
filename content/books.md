@@ -10,17 +10,17 @@ A collection of (free) web books, guides, and references by category.
 ## Literature
 
 * [Standard E-Books](https://standardebooks.org/ebooks/)
-	* A collection of literature in the public domain, available in multiple formats, with standardized and readable typography.
+	* *A collection of literature in the public domain, available in multiple formats, with standardized and readable typography.*
 
 ## HTML/CSS
-	* [MarkSheet](https://marksheet.io/)
-    	* *An introduction to creating webpages with HTML & CSS*
-    * [Learn to Code HTML](https://learn.shayhowe.com/html-css/)
-    	* *Yet another introduction to creating webpage with HTML & CSS. Great for beginners. Good alternative to the famous Jon Duckett book.*
-	* [Mozilla Developer Network: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-    	* *Good guide, but may be a bit dense. Great reference material*
-	* [Mozilla Developer Network: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-    	* *Like the HTML guide. Great reference material*
+* [MarkSheet](https://marksheet.io/)
+    * *An introduction to creating webpages with HTML & CSS.*
+* [Learn to Code HTML](https://learn.shayhowe.com/html-css/)
+	* *Yet another introduction to creating webpage with HTML & CSS. Great for beginners. Good alternative to the famous Jon Duckett book.*
+* [Mozilla Developer Network: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+	* *Good guide, but may be a bit dense. Great reference material.*
+* [Mozilla Developer Network: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+	* *Like the HTML guide. Great reference material.*
 
 ## JavaScript
 
@@ -31,18 +31,19 @@ A collection of (free) web books, guides, and references by category.
 * [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
 	* *A series of books focusing on the underlying core mechanisms of JavaScript.*
 * [JavaScript for Impatient Programmers](https://exploringjs.com/impatient-js/index.html)
-	* *A modern guide to JavaScript for those with existing programming knowledge*
+	* *A modern guide to JavaScript for those with existing programming knowledge.*
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 	* *A guide to the software engineering principles of Robert C. Martin, using JavaScript.*
 * [33 JavaScript Concepts](https://github.com/leonardomso/33-js-concepts)
 	* *Essential concepts for the experienced JavaScript developer.*
 * [JavaScript for Cats](http://jsforcats.com/)
-	* *A short, beginner-friendly intro to programming with JavaScript*
+	* *A short, beginner-friendly intro to programming with JavaScript.*
 * [Eloquent JavaScript](https://eloquentjavascript.net/)
-	* *More comprehensive introduction to JavaScript & General Programming*
+	* *More comprehensive introduction to JavaScript & General Programming.*
 * [The Modern JavaScript Tutorial](https://javascript.info/)
-	* *Comprehensive JavaScript reference*
+	* *Comprehensive JavaScript reference.*
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+	* *A collection of design patterns for JavaScript. The section on module patterns is fantastic.*
 * [Mozilla Developer Network: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 	* *The gold standard of JavaScript references.*
 * [MDN: A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
@@ -51,21 +52,21 @@ A collection of (free) web books, guides, and references by category.
 ## PHP
 
 * [PHP Apprentice](https://phpapprentice.com/)
-	* A beginner-friendly introduction to programming in PHP with best practices in mind
+	* *A beginner-friendly introduction to programming in PHP with best practices in mind.*
 * [PHP: The Right Way](https://phptherightway.com/)
-	* Less of a tutorial, more of a collection of PHP best practices
+	* *Less of a tutorial, more of a collection of PHP best practices.*
 
 ## Rust
 
 * [The Rust Programming Language](https://doc.rust-lang.org/book/)
-	* *Official Rust Book*
+	* *Official Rust Book.*
 * [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/)
-	* *An official collection of runnable examples in Rust*
+	* *An official collection of runnable examples in Rust.*
 
 ## Elixir
 
 * [Elixir School](https://elixirschool.com/en/)
-	* *Comprehensive reference for Elixir*
+	* *Comprehensive reference for Elixir.*
 
 ## Haskell
 
@@ -75,7 +76,7 @@ A collection of (free) web books, guides, and references by category.
 ## ML
 
 * [Functional Programming in OCaml](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
-	* *An introduction to Functional Programming with OCaml, adapted from Cornell CS3110*
+	* *An introduction to Functional Programming with OCaml, adapted from Cornell CS3110.*
 
 ## Game Development
 

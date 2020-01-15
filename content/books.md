@@ -12,6 +12,16 @@ A collection of (free) web books, guides, and references by category.
 * [Standard E-Books](https://standardebooks.org/ebooks/)
 	* A collection of literature in the public domain, available in multiple formats, with standardized and readable typography.
 
+## HTML/CSS
+	* [MarkSheet](https://marksheet.io/)
+    	* *An introduction to creating webpages with HTML & CSS*
+    * [Learn to Code HTML](https://learn.shayhowe.com/html-css/)
+    	* *Yet another introduction to creating webpage with HTML & CSS. Great for beginners. Good alternative to the famous Jon Duckett book.*
+	* [Mozilla Developer Network: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+    	* *Good guide, but may be a bit dense. Great reference material*
+	* [Mozilla Developer Network: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+    	* *Like the HTML guide. Great reference material*
+
 ## JavaScript
 
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
@@ -33,6 +43,10 @@ A collection of (free) web books, guides, and references by category.
 * [The Modern JavaScript Tutorial](https://javascript.info/)
 	* *Comprehensive JavaScript reference*
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [Mozilla Developer Network: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+	* *The gold standard of JavaScript references.*
+* [MDN: A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+	* *A great introduction to JavaScript even for those with programming experience outside of JavaScript.*
 
 ## PHP
 

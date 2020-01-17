@@ -65,7 +65,7 @@ A collection of (free) web books, guides, and references by category.
 * [Python 101](https://python101.pythonlibrary.org/)
 	* *A more general introduction to programming with Python. Good for beginners.*
 * [A Byte of Python](https://swaroopch.gitbook.io/byte-of-python/)
-	* *Another intro to programming using Python for those who know "how to save text files."*
+	* *Another intro to programming using Python for those who know "how to save text files." Beginner-friendly.*
 * [Dive Into Python 3](https://diveintopython3.net/)
 	* *As the title suggests, this is a deep dive into Python 3, highlighting differences from Python 2. Good reference.*
 

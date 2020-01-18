@@ -11,6 +11,9 @@ A collection of (free) web books, guides, and references by category.
 
 * [Standard E-Books](https://standardebooks.org/ebooks/)
 	* *A collection of literature in the public domain, available in multiple formats, with standardized and readable typography.*
+    
+* [Electronic Texts of H.P. Lovecraft](http://www.hplovecraft.com/writings/texts/)
+	* *Collecton of HP Lovecraft writings. A browser plugin to improve readability is recommended.*
 
 ## HTML/CSS
 * [MarkSheet](https://marksheet.io/)

@@ -25,3 +25,6 @@ So I have found out about [prose.io](https://prose.io) and it almost perfectly s
 
 **EDIT 2:**
 I have completely ditched Netlify CMS in favor of prose.io. While there is an extra step in that I have to manually add the front-matter to every content file, the control I have over the site repository is refreshing, the editor is leagues ahead of Netlify CMS, and the speed is really remarkable. Using the `page.slug` variable from zola, I'm able to quickly reference the appropriate URL for any given content `.md` file in prose.io. Consider me almost perfectly satisfied. As I said before, I may consider contributing to prose.io in the future. It truly is a great project, and I'm sad to see its current state.
+
+**EDIT 3:**
+After using prose.io for about a week and loving its editor, I've decided to just use the built-in Markdown editor included with Github, due to the constant authorization issues I have with prose.io

@@ -6,6 +6,8 @@ date = 2019-12-06T15:24:39.126Z
 
 Consider this a sister blog post to my last, but here is a list of free static site hosting platforms I have found.
 
+* [github pages](https://pages.github.com/)
+* [gitlab pages](https://docs.gitlab.com/ee/user/project/pages/)
 * [zeit.co](https://zeit.co/)
 * [webtask.io](https://webtask.io/)
 * [carrd.co](https://carrd.co/)

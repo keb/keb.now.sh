@@ -103,6 +103,7 @@ Currently Playing: **The Legend of Zelda: Breath of the Wild**
 * Donkey Kong Country: Tropical Freeze
 * Metroid Prime
 * Metroid Prime 2
+* Metroid Prime 3
 * Final Fantasy V
 * Parasite Eve
 * Breath of Fire III

@@ -114,6 +114,7 @@ Currently Playing: **The Legend of Zelda: Breath of the Wild**
 
 * Dishonored (+ DLC)
 * Resident Evil 4
+* Dead Space
 * Final Fantasy XII
 * Metal Gear Solid 2: Sons of Liberty
 * Metal Gear Solid 3: Subsistence

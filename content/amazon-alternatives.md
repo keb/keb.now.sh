@@ -13,3 +13,6 @@ date = 2019-08-28T14:23:56.056Z
 
 ## home
 * [overstock](https://www.overstock.com/)
+
+## electronics
+* [newegg](https://newegg.com)

@@ -60,6 +60,8 @@ A collection of (free) web books, guides, and references by category.
 	* *A beginner-friendly introduction to programming in PHP with best practices in mind.*
 * [PHP: The Right Way](https://phptherightway.com/)
 	* *Less of a tutorial, more of a collection of PHP best practices.*
+* [2018 Guide to building secure PHP](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software)
+	* *A guide to common PHP vulnerabilities.
 
 ## Python
 

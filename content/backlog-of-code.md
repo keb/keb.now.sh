@@ -17,8 +17,11 @@ It has occurred to me that I put far too many projects in the backburner, altern
     * reimplement server in either php or node as the flask backend has proven unwieldy
 -   ~~its-drm-free~~ Done!
     -   lit-html based user script
-- otto
+- otto/etto
 	* refactor so that all instances share action functions in prototype
+- markov lyric generator
+	* kanye-themed
+	* svelte or redom
 -   backdog
 	* implement server in node, php, or phoenix
     * integrate IGDB API

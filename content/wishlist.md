@@ -44,7 +44,6 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * Olive Chinos
 * Bidet
 * Buckwheat pillow
-* Timex Weekender
 * Coffee Bean Grinder
 * Inverted Umbrella
 * BUG-A-SALT
@@ -53,6 +52,7 @@ This is a wishlist of miscellaneous stuff I intend to get.
 
 ## Acquired
 
+* ~~Timex Weekender~~
 * ~~PDP Wired USB GameCube-style controller for Nintendo Switch~~
 * ~~Set of lightweight, wireless earbuds or earpads~~
 * ~~Discover HaxeFlixel Book~~

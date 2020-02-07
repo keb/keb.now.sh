@@ -107,6 +107,8 @@ A collection of (free) web books, guides, and references by category.
 ## General Programming
 
 * [Crafting Interpreters](https://www.craftinginterpreters.com/contents.html)
+* [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
+	* *A legendary text book. Not an easy read. Also see the [JavaScript Adaptation](https://sicp.comp.nus.edu.sg/)*
 
 ## Math
 

@@ -7,6 +7,11 @@ date = 2020-01-14
 
 A collection of (free) web books, guides, and references by category.
 
+## Misc.
+
+* [Project Gutenberg](https://www.gutenberg.org/)
+	* *An online library of over 60,000 public domain books, ranging on topics from literature, to cookbooks, and history.*
+
 ## Literature
 
 * [Standard E-Books](https://standardebooks.org/ebooks/)

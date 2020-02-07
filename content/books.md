@@ -101,12 +101,14 @@ A collection of (free) web books, guides, and references by category.
 * [Harvard CS50 Introduction to Game Development](https://cs50.harvard.edu/games/)
 	* *A free course with lectures, slides, and source code on developing games using Love2D.*
 * [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)
+	* *A collection of game development-related design patterns. By the great Robert Nystrom.*
 * [BYTEPATH](https://github.com/adnzzzzZ/blog/issues/30)
 	* *A book published as a series of Github issues. Guides the user in creating a game using Lua and Love2D, with plenty of exercises.*
 
 ## General Programming
 
 * [Crafting Interpreters](https://www.craftinginterpreters.com/contents.html)
+	* *A work-in-progress book on designing your own language interpreter. By Robert Nystrom, creator of programming languages such as Wren, Finch, and Magpie.*
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
 	* *A legendary text book. Not an easy read. Also see the [JavaScript Adaptation](https://sicp.comp.nus.edu.sg/)*
 

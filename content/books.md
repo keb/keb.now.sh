@@ -98,6 +98,8 @@ A collection of (free) web books, guides, and references by category.
 
 ## Game Development
 
+* [Harvard CS50 Introduction to Game Development](https://cs50.harvard.edu/games/)
+	* *A free course with lectures, slides, and source code on developing games using Love2D.*
 * [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)
 * [BYTEPATH](https://github.com/adnzzzzZ/blog/issues/30)
 	* *A book published as a series of Github issues. Guides the user in creating a game using Lua and Love2D, with plenty of exercises.*

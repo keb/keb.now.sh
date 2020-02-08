@@ -11,6 +11,8 @@ A collection of (free) web books, guides, and references by category.
 
 * [Project Gutenberg](https://www.gutenberg.org/)
 	* *An online library of over 60,000 public domain books, ranging on topics from literature, to cookbooks, and history.*
+* [Wikibooks](https://en.wikibooks.org/wiki/Main_Page)
+	* *As the title suggests, these are open-content wiki-like textbooks on a myriad of subjects.*
 
 ## Literature
 
@@ -19,6 +21,11 @@ A collection of (free) web books, guides, and references by category.
     
 * [Electronic Texts of H.P. Lovecraft](http://www.hplovecraft.com/writings/texts/)
 	* *Collecton of HP Lovecraft writings. A browser plugin or feature to improve readability is recommended (e.g. Firefox Reader Mode).*
+
+## Cooking
+
+* [The Wikimedia Cookbook](https://en.wikibooks.org/wiki/Cookbook:Table_of_Contents)
+	* *A collection of recipes from a number of nationalities and cultures. Editable open-content.*
 
 ## HTML/CSS
 * [MarkSheet](https://marksheet.io/)

@@ -16,7 +16,7 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * LDK Game or similar retro handheld
 * Dualshock 4
 * Sega Genesis Mini
-* Xperia XZ1 Compact
+* Xperia XZ1 Compact or Google Pixel 1 or Sharp Aquos R2 compact
 
 ### Books
 * Goodbye, Things by Fumio Sasaki

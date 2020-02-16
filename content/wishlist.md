@@ -27,7 +27,9 @@ This is a wishlist of miscellaneous stuff I intend to get.
 
 
 ### Games
-
+* [GOG Wishlist](https://www.gog.com/u/kebg/wishlist)
+* [Itch Wishlist](https://itch.io/c/426557/wishlist)
+* [Steam Wishlist](https://store.steampowered.com/wishlist/id/kebsteam/)
 
 ### Vinyl
 * Diamond Mine by King Creosote & Jon Hopkins Vinyl

@@ -2,10 +2,10 @@
 
 {% block content %}
     <div class="controls px1">
-        <a href="https://github.com/keb/keb.now.sh/tree/master/content">github</a>
+        <a href="https://github.com/keb/keb.now.sh/new/master/content">new</a>
     </div>
 
-    <div class="flex flex-wrap">
+    <header class="flex flex-wrap">
         <div class="col col-12 md-col-3">
             <img src="{{ get_url(path="img/pic.jpg") }}" alt="pic" class="rounded">
         </div>
@@ -24,27 +24,30 @@
                 <li><a href="https://steamcommunity.com/id/kebsteam">steamcommunity.com/id/kebsteam</a></li>
             </ul>
         </div>
-    </div>
+    </header>
 
     <div class="my2" style="border-bottom: 1px solid #dedede;"></div>
 
     {% for post in paginator.pages %}
-        <div>
-            <h2 class="mb1">
-                <a href="{{ post.permalink }}">{{ post.title }}</a>
-            </h2>
-            <span class="h5 p0 m0 light-subdue">
+        <article>
+            <header>
+                <h2 class="mb1">
+                    <a href="{{ post.permalink }}">{{ post.title }}</a>
+                </h2>
+            </header>
+
+            <small class="h5 p0 m0 light-subdue">
                 {{ post.date | date(format="%B %d, %Y", timezone="America/New_York") }}
-            </span>
-        </div>
+            </small>
+        </article>
     {% endfor %}
 
-    <div class="py3">
+    <nav class="py3">
         {% if paginator.previous %}
             <a href="{{ paginator.previous }}">← previous</a>
         {% endif %}
         {% if paginator.next %}
             <a href="{{ paginator.next }}">next →</a>
         {% endif %}
-    </div>
+    </nav>
 {% endblock content %}

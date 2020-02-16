@@ -4,13 +4,13 @@
     <div class="controls px1">
         <a href="https://github.com/keb/keb.now.sh/edit/master/content/{{ page.slug }}.md">edit</a>
     </div>
-    <p class="h4">
+    <header class="h4 py2">
         <a href="/">keb.now.sh</a>
-    </p>
-    <span class="h5 p0 m0 light-subdue">
+    </header>
+    <small class="h5 p0 m0 light-subdue">
         {{ page.date | date(format="%B %d, %Y", timezone="America/New_York") }}
-    </span>
-    <div class="page-content">
+    </small>
+    <article class="page-content">
         {{ page.content | safe }}
-    </div>
+    </article>
 {% endblock content %}

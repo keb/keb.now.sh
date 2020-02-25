@@ -17,6 +17,7 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * Dualshock 4
 * Sega Genesis Mini
 * Xperia XZ1 Compact or Google Pixel 2 or Sharp Aquos R2 compact
+* TP-Link AC1750 (w/ openwrt)
 
 ### Books
 * Goodbye, Things by Fumio Sasaki

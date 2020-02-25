@@ -72,3 +72,4 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * ~~French Press~~
 * ~~Meat thermometer~~
 * ~~No Passion All Technique by Protomartyr Vinyl~~
+* ~~Fake Switch Pro Controller~~

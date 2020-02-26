@@ -7,13 +7,12 @@ date = 2019-06-04T14:20:03.472Z
 This is a wishlist of miscellaneous stuff I intend to get.
 
 ### Devices
-* Kobo Clara HD
 * Logitech G203 Prodigy Mouse
 * Thinkpad x220 w/ i5-2540M & 8GB RAM
 * NVIDIA Shield TV
 * Sega Saturn
 * SNES Classic (Get from [here](https://store.nintendo.com/ng3/browse/subcategory.jsp?categoryId=cat990247))
-* LDK Game or similar retro handheld
+* PLAYGO or similar retro handheld
 * Dualshock 4
 * Sega Genesis Mini
 * Xperia XZ1 Compact or Google Pixel 2 or Sharp Aquos R2 compact
@@ -25,7 +24,6 @@ This is a wishlist of miscellaneous stuff I intend to get.
 
 ### Software
 * VPS Credit from Vultr, DigitalOcean, or Scaleway
-
 
 ### Games
 * [GOG Wishlist](https://www.gog.com/u/kebg/wishlist)
@@ -50,11 +48,11 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * Coffee Bean Grinder
 * Inverted Umbrella
 * BUG-A-SALT
-* Reusable Chopsticks
 * Sonicare Electric Toothbrush
 
 ## Acquired
 
+* ~~Reusable Chopsticks~~
 * ~~Timex Weekender~~
 * ~~PDP Wired USB GameCube-style controller for Nintendo Switch~~
 * ~~Set of lightweight, wireless earbuds or earpads~~

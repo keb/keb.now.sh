@@ -14,6 +14,7 @@ Currently Playing: **The Legend of Zelda: Breath of the Wild**
 * Anodyne
 * Anodyne 2
 * Hob
+* Super Mario Odyssey
 * Minit
 * Control
 * Ghost Trick: Phantom Detective

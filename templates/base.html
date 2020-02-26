@@ -7,6 +7,7 @@
     <link rel="shortcut icon" href="{{ get_url(path="img/favicon.png") }}" type="image/x-icon">
     <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono" rel="stylesheet"> 
     <link rel="stylesheet" href="{{ get_url(path="css/basscss.min.css") }}">
+    <link rel="stylesheet" href="{{ get_url(path="css/dark-mode.css") }}">
     <link rel="stylesheet" href="{{ get_url(path="css/main.css") }}">
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <title>
@@ -20,8 +21,13 @@
     </title>
 </head>
 <body>
+    <div>
+          <input style="display: none;" type="checkbox" id="darkSwitch" />
+          <label class="dark-mode-btn" for="darkSwitch">🌒</label>
+    </div>
     <main class="fade-in max-width-3 mx-auto">
         {% block content %}{% endblock content %}
     </main>
+    <script src="{{ get_url(path="js/dark-mode-switch.min.js") }}"></script>
 </body>
 </html>

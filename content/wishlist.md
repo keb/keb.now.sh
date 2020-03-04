@@ -23,7 +23,7 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * Physical copy of Infinite Jest by David Foster Wallace
 
 ### Software
-* VPS Credit from Vultr, DigitalOcean, or Scaleway
+* VPS Credit from Vultr, DigitalOcean, or Scaleway (preferably Scaleway)
 
 ### Games
 * [GOG Wishlist](https://www.gog.com/u/kebg/wishlist)

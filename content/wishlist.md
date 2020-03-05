@@ -49,6 +49,7 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * Inverted Umbrella
 * BUG-A-SALT
 * Sonicare Electric Toothbrush
+* XPOWER A-2 Airrow Pro Multi-Use Electric Computer Duster
 
 ## Acquired
 

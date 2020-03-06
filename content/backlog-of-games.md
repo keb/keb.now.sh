@@ -92,8 +92,8 @@ Currently Playing: **The Legend of Zelda: Breath of the Wild**
 * Front Mission Series: Gun Hazard
 * Paper Mario: The Thousand-Year Door
 * Final Fantasy XV
-* Yakuza Kiwami
 * Yakuza 0
+* Yakuza Kiwami
 * Bayonetta 2
 * LISA
 * Corpse Party

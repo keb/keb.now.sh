@@ -22,6 +22,7 @@ Currently Playing: **The Legend of Zelda: Breath of the Wild**
 * Castlevania: Symphony of the Night
 * Bloodstained: Curse of the Moon
 * Bloodstained: Ritual of the Night
+* Dark Souls 3 DLC
 * Shadow of Mordor
 * The Legend of Zelda: A Link Between Worlds
 * The Legend of Zelda: Majora's Mask
@@ -114,6 +115,7 @@ Currently Playing: **The Legend of Zelda: Breath of the Wild**
 
 ### List of intended replays
 
+* Dark Souls Remastered
 * Dishonored (+ DLC)
 * Resident Evil 4
 * Dead Space

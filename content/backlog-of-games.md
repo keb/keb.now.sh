@@ -110,6 +110,7 @@ Currently Playing: **The Legend of Zelda: Breath of the Wild**
 * Breath of Fire III
 * Breath of Fire IV
 * Breath of Fire V
+* Disco Elysium
 
 ### List of intended replays
 

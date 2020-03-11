@@ -36,6 +36,7 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * Under Color of Official Right by Protomartyr Vinyl
 
 ### Misc
+* Deception: Murder in Hong Kong Board Game
 * Yamaha C-40 Guitar
 * Lapsang souchong
 * Mozilla shirt or mug

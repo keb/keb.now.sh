@@ -1,8 +1,8 @@
 +++
-title = "backlog of games"
+title = "game backlog"
 date = 2019-06-02T14:21:19.433Z
 +++
-# backlog of games
+# game backlog
 
 Currently Playing: **The Legend of Zelda: Breath of the Wild**
 

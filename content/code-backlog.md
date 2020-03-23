@@ -1,9 +1,9 @@
 +++
-title = "backlog of code"
+title = "code backlog"
 date = 2019-08-01T14:22:56.653Z
 +++
 
-# backlog of code
+# code backlog
 
 It has occurred to me that I put far too many projects in the backburner, alternating between multiple projects whilst completing none of them. For this reason, I think I should start a priority queue for my projects and include notes/thoughts on each project.
 

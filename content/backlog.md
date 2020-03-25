@@ -23,6 +23,12 @@ Currently Playing: **The Legend of Zelda: Breath of the Wild**
 * Bloodstained: Curse of the Moon
 * Bloodstained: Ritual of the Night
 * Dark Souls 3 DLC
+* Resident Evil 7
+* Resident Evil 2 Remake
+* Resident Evil 3
+* Resident Evil: Code Veronica
+* Resident Evil: Revelations
+* Resident Evil: Revelations 2
 * Shadow of Mordor
 * The Legend of Zelda: A Link Between Worlds
 * The Legend of Zelda: Majora's Mask
@@ -51,7 +57,6 @@ Currently Playing: **The Legend of Zelda: Breath of the Wild**
 * Devil May Cry 3
 * Devil May Cry 4
 * Devil May Cry 5
-* Resident Evil 7
 * Silent Hill 4
 * Haunting Ground
 * Vagrant Story
@@ -64,11 +69,6 @@ Currently Playing: **The Legend of Zelda: Breath of the Wild**
 * Final Fantasy XIII
 * Final Fantasy XIII-2
 * Lightning Returns: Final Fantasy XIII
-* Resident Evil 2 Remake
-* Resident Evil 3
-* Resident Evil: Code Veronica
-* Resident Evil: Revelations
-* Resident Evil: Revelations 2
 * Pikmin
 * Pikmin 2
 * Pikmin 3

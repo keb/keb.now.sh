@@ -7,6 +7,14 @@ body {
     color: #313131;
 }
 
+.discord-tag {
+    font-size: 0.75em;
+    opacity: 0.35;
+    transition: all 0.1s ease;
+}
+
+.keb-header:hover > .discord-tag { opacity: 1; }
+
 main { padding: 2em; }
 
 .line {

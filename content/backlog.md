@@ -38,6 +38,8 @@ Currently Playing: **The Legend of Zelda: Breath of the Wild**
 * Sekiro: Shadows Die Twice
 * Earthbound
 * Mother 3
+* OMORI
+* Knuckle Sandwich
 * Okami
 * Persona 4
 * Persona 5

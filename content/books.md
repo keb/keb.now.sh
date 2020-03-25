@@ -66,6 +66,13 @@ A collection of (free) web books, guides, and references by category.
 * [MDN: A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 	* *A great introduction to JavaScript even for those with programming experience outside of JavaScript.*
 
+## C#
+
+* [Intro to C#](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/)
+	* *An introduction to programming using the C# language.*
+* [Tour of C#](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+	* *A brief crash course on C# intended for those with some programming experience.*
+
 ## PHP
 
 * [PHP Apprentice](https://phpapprentice.com/)
@@ -119,6 +126,8 @@ A collection of (free) web books, guides, and references by category.
 
 ## General Programming
 
+* [Learn X in Y Minutes](https://learnxinyminutes.com/)
+	* *A collection of "tours" for every popular programming language. Intended for those with programming experience to quickly learn new languages.*
 * [Crafting Interpreters](https://www.craftinginterpreters.com/contents.html)
 	* *A work-in-progress book on designing your own language interpreter. By Robert Nystrom, creator of programming languages such as Wren, Finch, and Magpie.*
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html)

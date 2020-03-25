@@ -40,6 +40,8 @@ Currently Playing: **The Legend of Zelda: Breath of the Wild**
 * Mother 3
 * OMORI
 * Knuckle Sandwich
+* Ib
+* OFF
 * Okami
 * Persona 4
 * Persona 5

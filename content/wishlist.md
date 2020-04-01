@@ -44,9 +44,7 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * Wikimedia shirt or mug
 * All-Natural Japanese Futon + Tatami Mat
 * Olive Chinos
-* Bidet
 * Buckwheat pillow
-* Coffee Bean Grinder
 * Inverted Umbrella
 * BUG-A-SALT
 * Sonicare Electric Toothbrush

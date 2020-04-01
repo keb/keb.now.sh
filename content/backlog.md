@@ -23,6 +23,7 @@ Currently Playing: **The Legend of Zelda: Breath of the Wild**
 * Bloodstained: Curse of the Moon
 * Bloodstained: Ritual of the Night
 * Dark Souls 3 DLC
+* DOOM (2016)
 * Resident Evil 7
 * Resident Evil 2 Remake
 * Resident Evil 3

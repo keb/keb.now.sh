@@ -24,6 +24,7 @@ This is a wishlist of miscellaneous stuff I intend to get.
 
 ### Software
 * VPS Credit from Vultr, DigitalOcean, or Scaleway (preferably Scaleway)
+* Sublime Merge license
 
 ### Games
 * [GOG Wishlist](https://www.gog.com/u/kebg/wishlist)

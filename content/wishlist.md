@@ -7,7 +7,6 @@ date = 2019-06-04T14:20:03.472Z
 This is a wishlist of miscellaneous stuff I intend to get.
 
 ### Devices
-* Logitech G203 Prodigy Mouse
 * Thinkpad x220 w/ i5-2540M & 8GB RAM
 * NVIDIA Shield TV
 * Sega Saturn
@@ -55,6 +54,8 @@ This is a wishlist of miscellaneous stuff I intend to get.
 
 ## Acquired
 
+
+* ~~Logitech G203 Prodigy Mouse~~
 * ~~Reusable Chopsticks~~
 * ~~Timex Weekender~~
 * ~~PDP Wired USB GameCube-style controller for Nintendo Switch~~

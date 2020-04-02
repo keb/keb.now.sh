@@ -65,6 +65,8 @@ A collection of (free) web books, guides, and references by category.
 	* *The gold standard of JavaScript references.*
 * [MDN: A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 	* *A great introduction to JavaScript even for those with programming experience outside of JavaScript.*
+* [How to manage HTML DOM with vanilla JavaScript only](https://htmldom.dev/)
+	* *As the title implies, a collection of "common tasks of managing HTML DOM with vanilla JavaScript.*
 * [Mixu's Node book](http://book.mixu.net/node/single.html)
 	* *A dated (2012), but beginner friendly introduction to server-side JavaScript with Node.js.*
 

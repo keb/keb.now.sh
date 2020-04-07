@@ -7,7 +7,7 @@ date = 2019-06-04T14:20:03.472Z
 This is a wishlist of miscellaneous stuff I intend to get.
 
 ### Devices
-* Thinkpad x220 w/ i5-2540M & 8GB RAM
+* Thinkpad x220 w/ i5-2540M & 8GB RAM **OR** ThinkPad X1 Carbon 4th Gen
 * NVIDIA Shield TV
 * Sega Saturn
 * SNES Classic (Get from [here](https://store.nintendo.com/ng3/browse/subcategory.jsp?categoryId=cat990247))

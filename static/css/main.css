@@ -2,7 +2,7 @@
 .fade-in { animation: fade-in 0.25s; }
 
 body {
-    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'IBM Plex Mono', "Lucida Console", Monaco, monospace;
     background-color: #fdfdfd;
     color: #313131;
 }
@@ -59,7 +59,7 @@ code:not([class]) { font-size: 16px; background: #363636; color: white; padding:
 .page-content p,
 .page-content ul,
 .page-content table {
-    font-family: 'Georgia', serif;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     font-size: 17px;
     line-height: 28.5px;
 }

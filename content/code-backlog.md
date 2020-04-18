@@ -28,6 +28,7 @@ It has occurred to me that I put far too many projects in the backburner, altern
 -   eBay frontend
     -   use eBay search api to create a prettier SPA frontend for eBay that makes it easier to filter results
 -   last.fm alternative
+	* use listenbrainz.org
 -   rofi for windows
 -   haxeflixel unnamed project
 	* complete textbook

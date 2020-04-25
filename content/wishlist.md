@@ -7,7 +7,7 @@ date = 2019-06-04T14:20:03.472Z
 This is a wishlist of miscellaneous stuff I intend to get.
 
 ### Devices
-* Thinkpad x220 w/ i5-2540M & 8GB RAM **OR** ThinkPad X1 Carbon 4th Gen or 6th Gen
+* Thinkpad x220 w/ i5-2540M & 8GB RAM **OR** ThinkPad X1 Carbon 4th Gen or 6th Gen & Laptop Stand
 * PolyMega Retro Game Station
 * NVIDIA Shield TV
 * Sega Saturn
@@ -18,6 +18,7 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * Xperia XZ1 Compact or Galaxy S10e or Galaxy 9 or maybe a Google Pixel 1 if in good condition
 * TP-Link AC1750 (w/ openwrt)
 * Logitech G305
+* KVM Switch to switch between desktop & laptop for workstation
 
 ### Books
 * Goodbye, Things by Fumio Sasaki

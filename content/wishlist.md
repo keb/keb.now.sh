@@ -38,6 +38,7 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * Diamond Mine by King Creosote & Jon Hopkins Vinyl
 * Yankee Hotel Foxtrot by Wilco Vinyl
 * Under Color of Official Right by Protomartyr Vinyl
+* Hounds of Love by Kate Bush Vinyl
 
 ### Misc
 * Deception: Murder in Hong Kong Board Game

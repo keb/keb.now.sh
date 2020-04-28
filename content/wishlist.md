@@ -17,7 +17,6 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * Sega Genesis Mini
 * Xperia XZ1 Compact or Galaxy S10e or Galaxy 9 or maybe a Google Pixel 1 if in good condition
 * TP-Link AC1750 (w/ openwrt)
-* Logitech G305
 * KVM Switch to switch between desktop & laptop for workstation
 
 ### Books
@@ -56,6 +55,7 @@ This is a wishlist of miscellaneous stuff I intend to get.
 
 ## Acquired
 
+* ~~Logitech G305~~
 * ~~The Making of Prince of Persia: Journals 1985-1993~~
 * ~~Logitech G203 Prodigy Mouse~~
 * ~~Reusable Chopsticks~~

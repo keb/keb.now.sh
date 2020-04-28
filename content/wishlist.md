@@ -23,7 +23,6 @@ This is a wishlist of miscellaneous stuff I intend to get.
 ### Books
 * Goodbye, Things by Fumio Sasaki
 * Physical copy of Infinite Jest by David Foster Wallace
-* The Making of Prince of Persia: Journals 1985-1993
 
 ### Software
 * VPS Credit from Vultr, DigitalOcean, or Scaleway (preferably Scaleway)
@@ -57,7 +56,7 @@ This is a wishlist of miscellaneous stuff I intend to get.
 
 ## Acquired
 
-
+* ~~The Making of Prince of Persia: Journals 1985-1993~~
 * ~~Logitech G203 Prodigy Mouse~~
 * ~~Reusable Chopsticks~~
 * ~~Timex Weekender~~

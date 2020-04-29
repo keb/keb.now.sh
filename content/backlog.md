@@ -122,6 +122,7 @@ Currently Playing: **The Legend of Zelda: Breath of the Wild**
 ### List of intended replays
 
 * Dark Souls Remastered
+* Vanquish (PC)
 * Dishonored (+ DLC)
 * Resident Evil 4
 * Dead Space

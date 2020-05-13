@@ -8,7 +8,7 @@ Currently Playing: **The Legend of Zelda: Breath of the Wild**
 
 ---
 
-### In order of intended play
+## In order of intended play
 
 * Celeste
 * Anodyne
@@ -119,7 +119,7 @@ Currently Playing: **The Legend of Zelda: Breath of the Wild**
 * Disco Elysium
 * Lucah: Born of a Dream
 
-### List of intended replays
+## List of intended replays
 
 * Dark Souls Remastered
 * Vanquish (PC)
@@ -133,7 +133,7 @@ Currently Playing: **The Legend of Zelda: Breath of the Wild**
 * The Legend of Zelda: Windwaker
 * Tactics Ogre: Let Us Cling Together
 
-### Completed
+## Completed
 
 * Inside - **6/10**
 * Dragon Quest III - **5/10**
@@ -142,6 +142,6 @@ Currently Playing: **The Legend of Zelda: Breath of the Wild**
 * Resident Evil 0 - **7/10**
 * Resident Evil HD Remaster - **10/10**
 
-### Abandoned
+## Abandoned
 
 *Nothing here yet.*

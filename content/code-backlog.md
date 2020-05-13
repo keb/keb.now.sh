@@ -9,7 +9,7 @@ It has occurred to me that I put far too many projects in the backburner, altern
 
 ---
 
-### In order of intended completion
+## In order of intended completion
 
 -   steam friend night
 	* this might be better suited as a rewrite
@@ -35,7 +35,7 @@ It has occurred to me that I put far too many projects in the backburner, altern
 -   fuzzget
 	* write tests
 
-### Misc ideas
+## Misc ideas
 
 -   write.as blog ActivityPub aggregator
 	* A simple webapp that aggregates latest write.as blogs/posts
@@ -54,7 +54,7 @@ It has occurred to me that I put far too many projects in the backburner, altern
 	* host rocket.chat instance
     * host gitea instance
 
-### Joke Apps
+## Joke Apps
 
 -   Fake Harry Potter quiz, where every result is a character not from the Harry Potter universe
 -   A static page with a drawing of "Metaduck"

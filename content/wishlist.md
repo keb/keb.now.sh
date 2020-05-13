@@ -6,7 +6,7 @@ date = 2019-06-04T14:20:03.472Z
 
 This is a wishlist of miscellaneous stuff I intend to get.
 
-### Devices
+## Devices
 * Thinkpad x220 w/ i5-2540M & 8GB RAM **OR** ThinkPad X1 Carbon 4th Gen or 6th Gen & Laptop Stand
 * PolyMega Retro Game Station
 * NVIDIA Shield TV
@@ -19,27 +19,27 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * TP-Link AC1750 (w/ openwrt)
 * KVM Switch to switch between desktop & laptop for workstation
 
-### Books
+## Books
 * Goodbye, Things by Fumio Sasaki
 * Physical copy of Infinite Jest by David Foster Wallace
 
-### Software
+## Software
 * VPS Credit from Vultr, DigitalOcean, or Scaleway (preferably Scaleway)
 * Sublime Merge license
 
-### Games
+## Games
 * [GOG Wishlist](https://www.gog.com/u/kebg/wishlist)
 * [Itch Wishlist](https://itch.io/c/426557/wishlist)
 * [Steam Wishlist](https://store.steampowered.com/wishlist/id/kebsteam/)
 * Nier: Automata Game of the Yorha Edition (PS4)
 
-### Vinyl
+## Vinyl
 * Diamond Mine by King Creosote & Jon Hopkins Vinyl
 * Yankee Hotel Foxtrot by Wilco Vinyl
 * Under Color of Official Right by Protomartyr Vinyl
 * Hounds of Love by Kate Bush Vinyl
 
-### Misc
+## Misc
 * Deception: Murder in Hong Kong Board Game
 * Yamaha C-40 Guitar
 * Lapsang souchong

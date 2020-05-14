@@ -47,6 +47,6 @@ Has the bitterness of a hoppy beer, but distinctively honey flavor that is not o
 
 I love stouts, porters, and any kind of coffee-flavored dark beers, so this flavor was right up my alley. This near-perfectly replicates the flavor of a coffee stout in candy form. Easily my favorite of the three flavors, so much that I've probably already eaten most of these from the bag. If you're trying to convince someone who already likes coffee caramels (or similar candies) to try some dark beers, this might be a good stepping stone. I wouldn't mind if Brew Candy made bags full of this stuff. More please. **9/10**.
 
-### Conclusion
+## Conclusion
 
 Overall, this was a fun taste test. I've never written reviews for food items (or much anything really), so excuse me if you think this review sucks. I want to give a big thanks to my very thoughtful friend who gave me the opportunity to try these, and I look forward to finishing the rest of the bag. If you'd like to leave a comment, just scroll down and leave one in the non-existent comment box below! Or, you know, just e-mail me at [keb@disroot.org](mailto:keb@disroot.org).

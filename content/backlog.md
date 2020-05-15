@@ -118,6 +118,7 @@ Currently Playing: **The Legend of Zelda: Breath of the Wild**
 * Breath of Fire V
 * Disco Elysium
 * Lucah: Born of a Dream
+* Robotrek
 
 ## List of intended replays
 

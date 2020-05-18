@@ -21,7 +21,7 @@ It has occurred to me that I put far too many projects in the backburner, altern
 	* ~~refactor so that all instances share action functions in prototype~~ Done! etto has replaced otto
 - markov lyric generator
 	* kanye-themed
-	* svelte or redom
+	* svelte or domvm or snabbdom
 -   backdog
 	* implement server in node, php, or phoenix
     * integrate IGDB API

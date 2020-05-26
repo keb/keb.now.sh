@@ -19,3 +19,5 @@ I enjoy this trend of creating minimal, programmer-friendly static content blog 
 * [commentpara.de](https://commentpara.de/)
 * [rwtxt.com](https://rwtxt.com/)
 * [distbin.com](https://distbin.com/)
+* [itty.bitty.site](https://itty.bitty.site/edit)
+* [bearblog.dev](https://bearblog.dev/)

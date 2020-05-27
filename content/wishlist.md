@@ -15,6 +15,7 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * PLAYGO or similar retro handheld
 * Dualshock 4
 * Sega Genesis Mini
+* TurboGrafx-16 mini
 * Xperia XZ1 Compact or Galaxy S10e or Galaxy 9 or maybe a Google Pixel 1 if in good condition
 * TP-Link AC1750 (w/ openwrt)
 * KVM Switch to switch between desktop & laptop for workstation

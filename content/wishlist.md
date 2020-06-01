@@ -37,7 +37,6 @@ This is a wishlist of miscellaneous stuff I intend to get.
 ## Vinyl
 * Diamond Mine by King Creosote & Jon Hopkins Vinyl
 * Yankee Hotel Foxtrot by Wilco Vinyl
-
 * Hounds of Love by Kate Bush Vinyl
 
 ## Misc

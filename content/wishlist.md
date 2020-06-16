@@ -48,7 +48,6 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * Wikimedia shirt or mug
 * All-Natural Japanese Futon + Tatami Mat
 * Olive Chinos
-* Buckwheat pillow
 * Inverted Umbrella
 * BUG-A-SALT
 * Sonicare Electric Toothbrush
@@ -56,6 +55,7 @@ This is a wishlist of miscellaneous stuff I intend to get.
 
 ## Acquired
 
+* ~~Buckwheat pillow~~ Thanks Iris!
 * ~~Under Color of Official Right by Protomartyr Vinyl~~
 * ~~Logitech G305~~
 * ~~The Making of Prince of Persia: Journals 1985-1993~~

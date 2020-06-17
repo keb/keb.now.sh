@@ -49,6 +49,8 @@ A collection of (free) web books, guides, and references by category.
 	* *A pragmatic look at Functional Programming with JavaScript. By Kyle Simpson, writer of the You Don't Know JavaScript series.*
 * [JavaScript for Impatient Programmers](https://exploringjs.com/impatient-js/index.html)
 	* *A modern guide to JavaScript for those with existing programming knowledge.*
+* [Deep JavaScript](https://exploringjs.com/deep-js/)
+	* *More JavaScript knowledge by the great Dr. Axel Rauschmayer.*
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 	* *A guide to the software engineering principles of Robert C. Martin, using JavaScript.*
 * [33 JavaScript Concepts](https://github.com/leonardomso/33-js-concepts)

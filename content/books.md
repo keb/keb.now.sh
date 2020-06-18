@@ -27,6 +27,11 @@ A collection of (free) web books, guides, and references by category.
 * [The Wikimedia Cookbook](https://en.wikibooks.org/wiki/Cookbook:Table_of_Contents)
 	* *A collection of recipes from a number of nationalities and cultures. Editable open-content.*
 
+## Electrical Engineering
+
+* [All About Circuits](https://www.allaboutcircuits.com/textbook/)
+	* *"Starts from the very basic fundamentals of electricity, and builds up to quite complex circuits and their workings."*
+
 ## HTML/CSS
 * [MarkSheet](https://marksheet.io/)
     * *An introduction to creating webpages with HTML & CSS.*

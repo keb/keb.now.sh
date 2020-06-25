@@ -19,6 +19,7 @@ Currently Playing: **The Legend of Zelda: Breath of the Wild**
 * Control
 * Ghost Trick: Phantom Detective
 * Dishonored II
+* Prey
 * Castlevania: Symphony of the Night
 * Bloodstained: Curse of the Moon
 * Bloodstained: Ritual of the Night

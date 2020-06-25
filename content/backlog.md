@@ -120,6 +120,7 @@ Currently Playing: **The Legend of Zelda: Breath of the Wild**
 * Lucah: Born of a Dream
 * Robotrek
 * Lost Odyssey
+* OneShot
 
 ## List of intended replays
 

@@ -13,6 +13,7 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * Sega Saturn
 * SNES Classic (Get from [here](https://store.nintendo.com/ng3/browse/subcategory.jsp?categoryId=cat990247))
 * PLAYGO or similar retro handheld
+* PSP2000 or Vita
 * Dualshock 4
 * Sega Genesis Mini
 * TurboGrafx-16 mini

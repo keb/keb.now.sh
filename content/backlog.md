@@ -146,7 +146,7 @@ date = 2019-06-02T14:21:19.433Z
 * The Witcher 3: Wild Hunt - **9/10**
   * Great dialogue, great graphics, great characterization. One of the most fleshed out open-world 3D games ever created.
 * Resident Evil 2 - **9/10**
-  * A successor to the legendary survival horror video game that hits all the marks and improves upon the original in every way imaginable.
+  * A successor to the legendary survival horror video game that hits all the marks and improves upon the gameplay of the original.
 * Resident Evil 0 - **7/10**
   * A good rendition of the ol' Resident Evil formula with worthy visuals and level design. Some clunky new mechanics made its way into this game.
 * Resident Evil HD Remaster - **10/10**

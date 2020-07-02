@@ -141,7 +141,7 @@ date = 2019-06-02T14:21:19.433Z
 
 * Inside - **6/10**
   * A 2D adventure reminiscent of Limbo. Bleak, haunting presentation with glimpses of a more personal message, tied together with mediocre gameplay.
-* Dragon Quest III - **5/10**
+* Dragon Quest III (SNES) - **5/10**
   * A classic 2D JRPG that influenced a decade of role-playing games to come. Charming dialogue and world-building, undercut by turn-based gameplay that has not aged well, and a ridiculous need for grind.
 * The Witcher 3: Wild Hunt - **9/10**
   * Great dialogue, great graphics, great characterization. One of the most fleshed out open-world 3D games ever created.

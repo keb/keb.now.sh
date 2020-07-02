@@ -4,7 +4,10 @@ date = 2019-06-02T14:21:19.433Z
 +++
 # game backlog
 
-Currently Playing: **The Legend of Zelda: Breath of the Wild** & **Ghost Trick: Phantom Detective**
+## Currently playing 
+
+* **The Legend of Zelda: Breath of the Wild**
+* **Ghost Trick: Phantom Detective**
 
 ---
 

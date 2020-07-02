@@ -4,7 +4,7 @@ date = 2019-06-02T14:21:19.433Z
 +++
 # game backlog
 
-Currently Playing: **The Legend of Zelda: Breath of the Wild**
+Currently Playing: **The Legend of Zelda: Breath of the Wild** & **Ghost Trick: Phantom Detective**
 
 ---
 
@@ -17,7 +17,6 @@ Currently Playing: **The Legend of Zelda: Breath of the Wild**
 * Super Mario Odyssey
 * Minit
 * Control
-* Ghost Trick: Phantom Detective
 * Dishonored II
 * Prey
 * Castlevania: Symphony of the Night

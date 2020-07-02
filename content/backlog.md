@@ -139,17 +139,17 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Completed
 
-* Inside - **6/10**
+* Inside - **3/5**
   * A 2D adventure reminiscent of Limbo. Bleak, haunting presentation with glimpses of a more personal message, tied together with mediocre gameplay.
-* Dragon Quest III (SNES) - **5/10**
+* Dragon Quest III (SNES) - **2/5**
   * A classic 2D JRPG that influenced a decade of role-playing games to come. Charming dialogue and world-building, undercut by turn-based gameplay that has not aged well, and a ridiculous need for grind.
-* The Witcher 3: Wild Hunt - **9/10**
+* The Witcher 3: Wild Hunt - **4/5**
   * Great dialogue, great graphics, great characterization. One of the most fleshed out open-world 3D games ever created.
-* Resident Evil 2 - **9/10**
+* Resident Evil 2 - **4/5**
   * A successor to the legendary survival horror video game that hits all the marks and improves upon the gameplay of the original.
-* Resident Evil 0 - **7/10**
+* Resident Evil 0 - **3/5**
   * A good rendition of the ol' Resident Evil formula with worthy visuals and level design. Some clunky new mechanics made its way into this game.
-* Resident Evil HD Remaster - **10/10**
+* Resident Evil HD Remaster - **5/5**
   * The definitive way to play the greatest survival horror game of all time.
 
 ## Abandoned

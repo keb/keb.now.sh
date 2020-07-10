@@ -6,12 +6,11 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing 
 
-* **The Legend of Zelda: Breath of the Wild**
+* **Celeste**
 * **Ghost Trick: Phantom Detective**
 
 ## In order of intended play
 
-* Celeste
 * Anodyne
 * Anodyne 2
 * Hob
@@ -139,6 +138,8 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Completed
 
+* The Legend of Zelda: Breath of the Wild - **4/5**
+  * A landmark in open-world 3D game development. After over a decade of sticking to a proven formula, Nintendo took inspiration from the series' roots and reinvented the series whilst making bold innovations to the genre.
 * Inside - **3/5**
   * A 2D adventure reminiscent of Limbo. Bleak, haunting presentation with glimpses of a more personal message, tied together with mediocre gameplay.
 * Dragon Quest III (SNES) - **2/5**

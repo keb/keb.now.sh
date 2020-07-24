@@ -67,13 +67,17 @@ date = 2019-06-02T14:21:19.433Z
 * Metroid Prime - *16h*
 * Metroid Prime 2 - *20h*
 * Metroid Prime 3 - *16h*
+* Live A Live - *20h*
 * Phoenix Wright: Ace Attorney − Trials and Tribulations - *24h*
 * Apollo Justice: Ace Attorney - *22h*
 * Mario & Luigi: Superstar Saga - *21h*
 * Mario & Luigi: Partners in Time - *20h*
 * Mario & Luigi: Bowser's Inside Story - *25h*
 * Chrono Trigger - *30h*
+* Secret of Mana - *25h*
+* Trials of Mana (1996) - *24h*
 * The Legend of Zelda: Majora's Mask - *30h*
+* Lufia II: Rise of the Sinistrals - *27h*
 * Disco Elysium - *29h*
 * Earthbound - *32h*
 * Mother 3 - *30h*
@@ -100,6 +104,7 @@ date = 2019-06-02T14:21:19.433Z
 * Final Fantasy XIII - *62h*
 * Final Fantasy XIII-2 - *42h*
 * Lightning Returns: Final Fantasy XIII - *47h*
+* Breath of Fire II - *40h*
 * Breath of Fire III - *46h*
 * Breath of Fire IV - *43h*
 * Breath of Fire V - *31h*

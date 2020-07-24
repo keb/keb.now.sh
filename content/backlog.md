@@ -46,6 +46,7 @@ date = 2019-06-02T14:21:19.433Z
 * Metal Arms: Glitch in the System - *14h*
 * Resident Evil 2 Remake - *14h*
 * Super Mario Odyssey - *15h*
+* Illusion of Gaia - *14h*
 * Dishonored II - *16h*
 * Moon Remix RPG - *17h*
 * Front Mission Series: Gun Hazard - *18h*

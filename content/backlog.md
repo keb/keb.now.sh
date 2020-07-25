@@ -17,6 +17,8 @@ date = 2019-06-02T14:21:19.433Z
 * Ib - *05h*
 * OFF - *04h*
 * AM2R - *06h*
+* Mega Man X2 - *05h*
+* Mega Man X3 - *06h*
 * Bloodstained: Curse of the Moon - *04h*
 * Bloodstained: Ritual of the Night - *20h*
 * Anodyne - *07h*

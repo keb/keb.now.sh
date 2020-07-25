@@ -85,6 +85,7 @@ date = 2019-06-02T14:21:19.433Z
 * Thronebreaker: The Witcher Tales - *32h*
 * Alundra - *32h*
 * Vagrant Story - *33h*
+* Odin Sphere Leifthrasir - *33h*
 * Zero Escape: Virtue's Last Reward - *35h*
 * Paper Mario: The Thousand-Year Door - *35h*
 * Final Fantasy V - *37h*

@@ -88,6 +88,7 @@ date = 2019-06-02T14:21:19.433Z
 * Alundra - *32h*
 * Vagrant Story - *33h*
 * Odin Sphere Leifthrasir - *33h*
+* Darksiders II: Deathinitive Edition
 * Zero Escape: Virtue's Last Reward - *35h*
 * Paper Mario: The Thousand-Year Door - *35h*
 * Final Fantasy V - *37h*

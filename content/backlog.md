@@ -6,13 +6,14 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing 
 
+* **Minit**
 * **Ghost Trick: Phantom Detective**
 
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
 
-* Minit - *02h*
+
 * Ib - *05h*
 * OFF - *04h*
 * AM2R - *06h*

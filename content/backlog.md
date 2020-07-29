@@ -148,7 +148,7 @@ date = 2019-06-02T14:21:19.433Z
 ## Completed
 
 * Celeste - **4/5**
-  * A fantastic modern platformer with a great soundtrack that is at times brutally unforgiving. The story presents a nice message but without much subtlety, and is sometimes excruciatingly on the nose.
+  * A fantastic modern platformer that is at times brutally unforgiving. The story presents a nice message but without much subtlety, and is sometimes excruciatingly on the nose. Great soundtrack.
 * The Legend of Zelda: Breath of the Wild - **4/5**
   * A landmark in open-world 3D game development. After over a decade of sticking to a proven formula, Nintendo took inspiration from the series' roots and reinvented the series whilst making bold innovations to the genre.
 * Inside - **3/5**

@@ -17,6 +17,7 @@ date = 2019-06-02T14:21:19.433Z
 * Ib - *05h*
 * OFF - *04h*
 * AM2R - *06h*
+* Ganpuru: Gunman's Proof - *04h*
 * Mega Man X2 - *05h*
 * Mega Man X3 - *06h*
 * Bloodstained: Curse of the Moon - *04h*
@@ -24,17 +25,20 @@ date = 2019-06-02T14:21:19.433Z
 * Bloodstained: Curse of the Moon 2 - *10h*
 * Anodyne - *07h*
 * Anodyne 2 - *10h*
+* The Twisted Tales of Spike McFang - *06h*
 * OneShot - *07h*
 * Donkey Kong Country 2: Diddy's Kong Quest  - *07h*
 * Donkey Kong Country 3: Dixie Kong's Double Trouble! - *08h*
 * Hob - *10h*
 * Silent Hill 4 - *09h*
+* Beyond Oasis - *06h*
 * Haunting Ground - *09h*
 * Resident Evil 3 - *08h*
 * Resident Evil: Code Veronica - *15h*
 * Resident Evil: Revelations - *13h*
 * Resident Evil: Revelations 2 - *15h*
 * Resident Evil 7 - *12h*
+* Crusader of Centy - *10h*
 * Parasite Eve - *12h*
 * Control - *13h*
 * Castlevania: Symphony of the Night - *13h*

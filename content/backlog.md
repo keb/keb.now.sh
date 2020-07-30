@@ -21,6 +21,7 @@ date = 2019-06-02T14:21:19.433Z
 * Mega Man X3 - *06h*
 * Bloodstained: Curse of the Moon - *04h*
 * Bloodstained: Ritual of the Night - *20h*
+* Bloodstained: Curse of the Moon 2 - *10h*
 * Anodyne - *07h*
 * Anodyne 2 - *10h*
 * OneShot - *07h*

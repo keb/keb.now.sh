@@ -6,14 +6,13 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing 
 
-* **Ib - *05h***
-* **Ghost Trick: Phantom Detective - *12h***
+* OFF - *04h*
+* Ghost Trick: Phantom Detective - *12h*
 
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
 
-* OFF - *04h*
 * AM2R - *06h*
 * Ganpuru: Gunman's Proof - *04h*
 * Mega Man X2 - *05h*
@@ -150,6 +149,8 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Completed
 
+* Ib - **3/5**
+  * An RPG Maker modern classic. A horror game with a creepy atmosphere and multiple endings. Cute plot, and inconsistent visuals. Freeware.
 * Minit - **2/5**
   * A game about swords and corporate greed. But mostly a cute indie game that minifies Majora's Mask time travel mechanic to a mere 60 seconds. The gimmick is stretched thin quickly and the game barely does it any justice aside from extract tedium from it. The monochrome graphics, while an obvious stylistic choice, are grating to look at. Decent chiptune music. Fortunately the game does not outstay its welcome.
 * Celeste - **4/5**

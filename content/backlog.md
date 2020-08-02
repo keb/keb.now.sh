@@ -17,6 +17,7 @@ date = 2019-06-02T14:21:19.433Z
 * Ganpuru: Gunman's Proof - *04h*
 * Mega Man X2 - *05h*
 * Mega Man X3 - *06h*
+* Mega Man Unlimited
 * Bloodstained: Curse of the Moon - *04h*
 * Bloodstained: Ritual of the Night - *20h*
 * Bloodstained: Curse of the Moon 2 - *10h*

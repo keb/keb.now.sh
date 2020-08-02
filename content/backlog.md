@@ -15,6 +15,7 @@ date = 2019-06-02T14:21:19.433Z
 
 * No Players Online
 * AM2R - *06h*
+* Bleed 2 - *02h*
 * Ganpuru: Gunman's Proof - *04h*
 * Mega Man X2 - *05h*
 * Mega Man X3 - *06h*

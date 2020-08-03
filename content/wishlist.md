@@ -9,6 +9,7 @@ This is a wishlist of miscellaneous stuff I intend to get.
 ## Devices
 * Thinkpad x220 w/ i5-2540M & 8GB RAM **OR** ThinkPad X1 Carbon 4th Gen or 6th Gen & Laptop Stand
 * PolyMega Retro Game Station
+* Analogue Super NT
 * NVIDIA Shield TV
 * Sega Saturn
 * SNES Classic (Get from [here](https://store.nintendo.com/ng3/browse/subcategory.jsp?categoryId=cat990247))
@@ -23,7 +24,7 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * Physical copy of Infinite Jest by David Foster Wallace
 
 ## Software
-* VPS Credit from Vultr, DigitalOcean, or Scaleway
+* VPS Credit from Linode
 * Sublime Merge license
 
 ## Games

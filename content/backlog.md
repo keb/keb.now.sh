@@ -149,6 +149,7 @@ date = 2019-06-02T14:21:19.433Z
 * Super Mario Galaxy
 * Super Metroid
 * Jak 3
+* Celeste (finish B-Sides)
 
 ## Completed
 

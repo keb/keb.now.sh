@@ -14,6 +14,7 @@ date = 2019-06-02T14:21:19.433Z
 *Numbers in italics are estimated hours to complete.*
 
 * No Players Online
+* Furi - *07h*
 * AM2R - *06h*
 * Bleed 2 - *02h*
 * Ganpuru: Gunman's Proof - *04h*

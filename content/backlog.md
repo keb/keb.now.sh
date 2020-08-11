@@ -80,6 +80,8 @@ date = 2019-06-02T14:21:19.433Z
 * Live A Live - *20h*
 * Phoenix Wright: Ace Attorney − Trials and Tribulations - *24h*
 * Apollo Justice: Ace Attorney - *22h*
+* The Evil Within - *20h*
+* The Evil Within 2 - *19h*
 * Mario & Luigi: Superstar Saga - *21h*
 * Mario & Luigi: Partners in Time - *20h*
 * Mario & Luigi: Bowser's Inside Story - *25h*

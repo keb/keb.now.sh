@@ -28,6 +28,7 @@ date = 2019-06-02T14:21:19.433Z
 * Anodyne 2 - *10h*
 * The Twisted Tales of Spike McFang - *06h*
 * OneShot - *07h*
+* Yoku's Island Express - *08h*
 * Donkey Kong Country 2: Diddy's Kong Quest  - *07h*
 * Donkey Kong Country 3: Dixie Kong's Double Trouble! - *08h*
 * Hob - *10h*

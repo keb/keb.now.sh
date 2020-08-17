@@ -137,6 +137,7 @@ date = 2019-06-02T14:21:19.433Z
 * Koudelka - *14h*
 * Shadow Hearts - *31h*
 * Shadow Hearts: Covenant - *52h*
+* Suikoden II - *42h*
 * OMORI
 * Knuckle Sandwich
 * Final Fantasy XV - *53h*

@@ -123,6 +123,7 @@ date = 2019-06-02T14:21:19.433Z
 * Breath of Fire III - *46h*
 * Breath of Fire IV - *43h*
 * Breath of Fire V - *31h*
+* Dragon's Dogma: Dark Arisen - *58h*
 * Yakuza 0 - *60h*
 * Xenogears - *65h*
 * Lost Odyssey - *65h*

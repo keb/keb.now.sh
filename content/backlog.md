@@ -139,6 +139,7 @@ date = 2019-06-02T14:21:19.433Z
 * Shadow Hearts - *31h*
 * Shadow Hearts: Covenant - *52h*
 * Suikoden II - *42h*
+* Treasure of the Rudras - *30h*
 * OMORI
 * Knuckle Sandwich
 * Final Fantasy XV - *53h*

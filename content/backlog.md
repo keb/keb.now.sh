@@ -163,7 +163,7 @@ date = 2019-06-02T14:21:19.433Z
 * Celeste (finish B-Sides)
 
 ## Completed
-* OFF - *3/5*
+* OFF - **3/5**
   * Another RPG Maker cult favorite that is unrelenting in fulfilling its author's vision. A tough one to place; uses the bog standard out-of-the-box RPG Maker turn-based combat, even keeping the included stock sound effects. The game is translated from French, and at times it felt the translator was leaning a little too heavy on a thesaurus (specifically for the Judge character). The visuals are particularly inspired, being highly surreal and carrying with them a street art-like quality that reminds me of the schizophrenic line art and harsh contrasting colors of Jet Grind Radio. Some confusing use of overly compressed public domain art. OFF seems to relish in its own weirdness a little too much at times, and the gameplay and puzzles suffer for it. An interesting exercise in world-building (which is fitting, given the game's plot).
 * Ib - **3/5**
   * An RPG Maker modern classic. A horror game with a creepy atmosphere and multiple endings. Cute plot, and inconsistent visuals. Freeware.

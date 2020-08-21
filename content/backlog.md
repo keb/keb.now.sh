@@ -12,6 +12,7 @@ date = 2019-06-02T14:21:19.433Z
 
 *Numbers in italics are estimated hours to complete.*
 
+* Haunted PS1 Demo Disc 2020
 * Furi - *07h*
 * AM2R - *06h*
 * Bleed 2 - *02h*

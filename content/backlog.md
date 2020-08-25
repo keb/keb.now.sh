@@ -6,7 +6,7 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing 
 
-* No Players Online
+
 
 ## In order of intended play
 
@@ -164,6 +164,8 @@ date = 2019-06-02T14:21:19.433Z
 * Celeste (finish B-Sides)
 
 ## Completed
+* No Players Online - **4/5**
+  * An interesting (and free!) take on interactive horror that pays homage to first person shooters of the early 00s, and the all too common experience of revisiting a once beloved online multiplayer game, only to find that the servers are completely empty. The concept of haunted digital spaces inhabited by some tormented cyber entity is not a new one, but No Players Online does a great job and inspiring player curiosity and meta-commentary of just what this game actually is.
 * OFF - **3/5**
   * Another RPG Maker cult favorite that is unrelenting in fulfilling its author's vision. A tough one to place; uses the bog standard out-of-the-box RPG Maker turn-based combat, even keeping the included stock sound effects. The game is translated from French, and at times it felt the translator was leaning a little too heavy on a thesaurus (specifically for the Judge character). The visuals are particularly inspired, being highly surreal and carrying with them a street art-like quality that reminds me of the schizophrenic line art and harsh contrasting colors of Jet Grind Radio. Some confusing use of overly compressed public domain art. OFF seems to relish in its own weirdness a little too much at times, and the gameplay and puzzles suffer for it. An interesting exercise in world-building (which is fitting, given the game's plot).
 * Ib - **3/5**

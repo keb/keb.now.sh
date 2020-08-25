@@ -27,6 +27,8 @@ A collection of (free) web books, guides, and references by category.
 	* *Good guide, but may be a bit dense. Great reference material.*
 * [Mozilla Developer Network: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 	* *Like the HTML guide. Great reference material.*
+* [HTML Tips](https://thomasorus.com/html-tips.html)
+	* *A collection of beginner and advanced tips on HTML & CSS by [Thomasorus](https://github.com/thomasorus).*
 
 ## JavaScript
 

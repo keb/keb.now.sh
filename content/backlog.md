@@ -25,6 +25,7 @@ date = 2019-06-02T14:21:19.433Z
 * Bloodstained: Curse of the Moon 2 - *10h*
 * Anodyne - *07h*
 * Anodyne 2 - *10h*
+* Misao - *03h*
 * The Twisted Tales of Spike McFang - *06h*
 * OneShot - *07h*
 * Yoku's Island Express - *08h*

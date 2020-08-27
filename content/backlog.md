@@ -99,9 +99,12 @@ date = 2019-06-02T14:21:19.433Z
 * Alundra - *32h*
 * Vagrant Story - *33h*
 * Odin Sphere Leifthrasir - *33h*
-* Darksiders II: Deathinitive Edition
+* Darksiders II: Deathinitive Edition - *29h*
 * Zero Escape: Virtue's Last Reward - *35h*
 * Paper Mario: The Thousand-Year Door - *35h*
+* Shadowrun Returns - *15h*
+* Shadowrun: Dragonfall - *30h*
+* Shadowrun: Hong Kong - *30h*
 * Final Fantasy V - *37h*
 * Prey + DLC - *40h*
 * Radiant Historia - *40h*

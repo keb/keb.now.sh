@@ -116,6 +116,10 @@ A collection of (free) web books, guides, and references by category.
 * [Functional Programming in OCaml](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
 	* *An introduction to Functional Programming with OCaml, adapted from Cornell CS3110.*
 
+## Racket
+* [Beautiful Racket](https://beautifulracket.com/)
+	* *"An introduction to language-oriented programming using Racket."*
+
 ## Game Development
 
 * [Harvard CS50 Introduction to Game Development](https://cs50.harvard.edu/games/)

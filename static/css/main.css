@@ -83,5 +83,5 @@ code:not([class]) { font-size: 16px; background: #363636; color: white; padding:
 }
 
 hr { border: 0; border-top: 1px solid #dedede; }
-.controls { position: fixed; top: 0; left: 0; opacity: 0; }
+.controls { position: fixed; bottom: 0; right: 0; opacity: 0; }
 .controls:hover { opacity: 1; }

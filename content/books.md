@@ -129,6 +129,11 @@ A collection of (free) web books, guides, and references by category.
 * [BYTEPATH](https://github.com/adnzzzzZ/blog/issues/30)
 	* *A book published as a series of Github issues. Guides the user in creating a game using Lua and Love2D, with plenty of exercises.*
 
+## Game Design
+
+* [Riot Games Game Design Curriculum](https://www.riotgames.com/en/urf-academy/curriculum-guide)
+	* *"Riot Games’ Game Design Curriculum is an entry-level course that teaches high school students the fundamental elements of game design using a framework and interactive workshops created by our own game designers."*
+
 ## Math
 
 * [Calculus Made Easy](http://calculusmadeeasy.org/)

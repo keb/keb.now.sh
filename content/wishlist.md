@@ -22,6 +22,8 @@ This is a wishlist of miscellaneous stuff I intend to get.
 ## Books
 * Goodbye, Things by Fumio Sasaki
 * Physical copy of Infinite Jest by David Foster Wallace
+* Game Programming Patterns by Bob Nystrom
+* Crafting Interpreters by Bob Nystrom
 
 ## Software
 * VPS Credit from Linode

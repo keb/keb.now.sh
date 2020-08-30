@@ -6,13 +6,12 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing 
 
-* Haunted PS1 Demo Disc 2020
+* Furi - *07h*
 
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
 
-* Furi - *07h*
 * AM2R - *06h*
 * Bleed 2 - *02h*
 * Ghost Trick: Phantom Detective - *12h*
@@ -193,6 +192,9 @@ date = 2019-06-02T14:21:19.433Z
   * The definitive way to play the greatest survival horror game of all time.
 
 ## Abandoned
+
+* Haunted PS1 Demo Disc 2020
+  * A collection of mostly short, mostly surreal, mostly walking simulator horror indie games from itch. Some gems (Neko Yume, Tasty Ramen), but it's hard to have patience for generic horror games that are even sometimes completely broken. Still, the concept and the effort is admirable. I'd like to see more "demo disc" releases in the future.
 
 * Night In The Woods
   * A game with fantastic visuals, animation, and music that places more emphasis on its narrative and (unfortunately) uninteresting characters than its gameplay, which is practically non-existent at least for the first couple hours of playtime. The humor of this game regularly falls flat and can be called anything but timeless -- much of it is equivalent to the quirky randomness you'd probably encounter everyday from browsing your Twitter feed. Like many from this era of narrative-driven indie games, you're probably better off watching a YouTube walkthrough. Or skip altogether.

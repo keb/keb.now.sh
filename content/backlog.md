@@ -107,6 +107,10 @@ date = 2019-06-02T14:21:19.433Z
 * Final Fantasy V - *37h*
 * Prey + DLC - *40h*
 * Radiant Historia - *40h*
+* Fire Emblem: Shadow Dragon - *25h*
+* Fire Emblem: Mystery of the Emblem (SNES/DS Remake) - *57h* 
+* Fire Emblem: Genealogy - *58h*
+* Fire Emblem: Thracia 776 - *38h*
 * Fire Emblem Awakening - *40h*
 * Fire Emblem Fates - *43h*
 * Fire Emblem Echoes: Shadows of Valentia - *46h*

@@ -31,6 +31,7 @@ date = 2019-06-02T14:21:19.433Z
 * Donkey Kong Country 2: Diddy's Kong Quest  - *07h*
 * Donkey Kong Country 3: Dixie Kong's Double Trouble! - *08h*
 * Hob - *10h*
+* Frogger: Helmet Chaos (PSP/DS)
 * Silent Hill 4 - *09h*
 * Beyond Oasis - *06h*
 * Haunting Ground - *09h*

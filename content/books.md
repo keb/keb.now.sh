@@ -127,7 +127,9 @@ A collection of (free) web books, guides, and references by category.
 * [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)
 	* *A collection of game development-related design patterns. By the great Robert Nystrom.*
 * [BYTEPATH](https://github.com/adnzzzzZ/blog/issues/30)
-	* *A book published as a series of Github issues. Guides the user in creating a game using Lua and Love2D, with plenty of exercises.*
+	* *A book published as a series of Github issues. Guides the user in creating a game using Lua and Love2D, with plenty of exercises. Intended for those with programming experience.*
+* [How to LÖVE](https://sheepolution.com/learn/book/contents)
+	* *A gentle introduction to programming **and** game development using Lua and the Love2D game library.*
 
 ## Game Design
 

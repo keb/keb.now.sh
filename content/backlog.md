@@ -14,6 +14,7 @@ date = 2019-06-02T14:21:19.433Z
 
 * AM2R - *06h*
 * Bleed 2 - *02h*
+* Sayonara Wild Hearts - *03h*
 * Ghost Trick: Phantom Detective - *12h*
 * Ganpuru: Gunman's Proof - *04h*
 * Mega Man X2 - *05h*

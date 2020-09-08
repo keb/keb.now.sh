@@ -152,6 +152,12 @@ date = 2019-06-02T14:21:19.433Z
 * Knuckle Sandwich
 * Final Fantasy XV - *53h*
 
+## Co-Op (No particular order)
+
+* Outland
+* Pit People
+* J.J. Squawkers
+
 ## List of intended replays
 
 * Dark Souls Remastered

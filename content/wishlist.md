@@ -20,9 +20,7 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * Sony Trinitron
 
 ## Books
-* Goodbye, Things by Fumio Sasaki
 * Physical copy of Infinite Jest by David Foster Wallace
-* Game Programming Patterns by Bob Nystrom
 * Crafting Interpreters by Bob Nystrom
 
 ## Software
@@ -56,6 +54,8 @@ This is a wishlist of miscellaneous stuff I intend to get.
 
 ## Acquired
 
+* ~~Goodbye, Things by Fumio Sasaki~~
+* ~~Game Programming Patterns by Bob Nystrom~~
 * ~~* PSP2000 or Vita~~ Thanks Stevo!!
 * ~~Buckwheat pillow~~ Thanks Iris!
 * ~~Under Color of Official Right by Protomartyr Vinyl~~

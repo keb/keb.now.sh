@@ -18,6 +18,7 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * Xperia XZ1 Compact or Galaxy S10e
 * KVM Switch to switch between desktop & laptop for workstation
 * Sony Trinitron
+* 2 Raspberry Pis
 
 ## Books
 * Physical copy of Infinite Jest by David Foster Wallace

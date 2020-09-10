@@ -179,38 +179,39 @@ date = 2019-06-02T14:21:19.433Z
 * Celeste (finish B-Sides)
 
 ## Completed
-* Furi - **4/5**
+
+### Furi - **4/5**
   * A hack-n-slash/bullet hell boss rush with a French-anime art style that hearkens back to cyberpunk samurai cartoons you maybe watched as a kid. The mixture of parry-centric swordplay with bullet hell works very well and makes for some exhilirating combat. Some of the bosses have a few poorly designed phases, but overall, the game has great focus and delivers what it promises. The acid-house electronic music also complements the gameplay fantastically. The writing and "cutscenes" are typical anime dreck.
 
-* No Players Online - **4/5**
+### No Players Online - **4/5**
   * An interesting (and free!) take on interactive horror that pays homage to first person shooters of the early 00s, and the all too common experience of revisiting a once beloved online multiplayer game, only to find that the servers are completely empty. The concept of haunted digital spaces inhabited by some tormented cyber entity is not a new one, but No Players Online does a great job of inspiring player curiosity and meta-commentary of just what this game actually is. "Completing" the game involves taking part in a kind of scavenger hunt ARG for clues, some of which involve downloading a completely different itch.io title to progress, and calling a phone number (that is now inactive, although the prerecorded message is now on Bandcamp).
-* OFF - **3/5**
+### OFF - **3/5**
   * Another RPG Maker cult favorite that is unrelenting in fulfilling its author's vision. A tough one to place; uses the bog standard out-of-the-box RPG Maker turn-based combat, even keeping the included stock sound effects. The game is translated from French, and at times it felt the translator was leaning a little too heavy on a thesaurus (specifically for the Judge character). The visuals are particularly inspired, being highly surreal and carrying with them a street art-like quality that reminds me of the schizophrenic line art and harsh contrasting colors of Jet Grind Radio. Some confusing use of overly compressed public domain art. OFF seems to relish in its own weirdness a little too much at times, and the gameplay and puzzles suffer for it. An interesting exercise in world-building (which is fitting, given the game's plot).
-* Ib - **3/5**
+### Ib - **3/5**
   * An RPG Maker modern classic. A horror game with a creepy atmosphere and multiple endings. Cute plot, and inconsistent visuals. Freeware.
-* Minit - **2/5**
+### Minit - **2/5**
   * A game about swords and corporate greed. But mostly a cute indie game that minifies Majora's Mask time travel mechanic to a mere 60 seconds. The gimmick is stretched thin quickly and the game barely does it any justice aside from extract tedium from it. The monochrome graphics, while an obvious stylistic choice, are grating to look at. Decent chiptune music. Fortunately the game does not outstay its welcome.
-* Celeste - **4/5**
+### Celeste - **4/5**
   * A fantastic modern platformer that is at times brutally unforgiving. The story presents a nice message but without much subtlety, and is sometimes excruciatingly on the nose. Great soundtrack.
-* The Legend of Zelda: Breath of the Wild - **4/5**
+### The Legend of Zelda: Breath of the Wild - **4/5**
   * A landmark in open-world 3D game development. After over a decade of sticking to a proven formula, Nintendo took inspiration from the series' roots and reinvented the series whilst making bold innovations to the genre.
-* Inside - **3/5**
+### Inside - **3/5**
   * A 2D adventure reminiscent of Limbo. Bleak, haunting presentation with glimpses of a more personal message, tied together with mediocre gameplay.
-* Dragon Quest III (SNES) - **2/5**
+### Dragon Quest III (SNES) - **2/5**
   * A classic 2D JRPG that influenced a decade of role-playing games to come. Charming dialogue and world-building, undercut by turn-based gameplay that has not aged well, and a ridiculous need for grind.
-* The Witcher 3: Wild Hunt - **4/5**
+### The Witcher 3: Wild Hunt - **4/5**
   * Great dialogue, great graphics, great characterization. One of the most fleshed out open-world 3D games ever created.
-* Resident Evil 2 - **4/5**
+### Resident Evil 2 - **4/5**
   * A successor to the legendary survival horror video game that hits all the marks and improves upon the gameplay of the original.
-* Resident Evil 0 - **3/5**
+### Resident Evil 0 - **3/5**
   * A good rendition of the ol' Resident Evil formula with worthy visuals and level design. Some clunky new mechanics made its way into this game.
-* Resident Evil HD Remaster - **5/5**
+### Resident Evil HD Remaster - **5/5**
   * The definitive way to play the greatest survival horror game of all time.
 
 ## Abandoned
 
-* Haunted PS1 Demo Disc 2020
+### Haunted PS1 Demo Disc 2020
   * A collection of mostly short, mostly surreal, mostly walking simulator horror indie games from itch. Some gems (Neko Yume, Tasty Ramen), but it's hard to have patience for generic horror games that are even sometimes completely broken. Still, the concept and the effort is admirable. I'd like to see more "demo disc" releases in the future.
 
-* Night In The Woods
+### Night In The Woods
   * A game with fantastic visuals, animation, and music that places more emphasis on its narrative and (unfortunately) uninteresting characters than its gameplay, which is practically non-existent at least for the first couple hours of playtime. The humor of this game regularly falls flat and can be called anything but timeless -- much of it is equivalent to the quirky randomness you'd probably encounter everyday from browsing your Twitter feed. Like many from this era of narrative-driven indie games, you're probably better off watching a YouTube walkthrough. Or skip altogether.

@@ -56,6 +56,7 @@ date = 2019-06-02T14:21:19.433Z
 * Corpse Party - *12h*
 * Metal Arms: Glitch in the System - *14h*
 * Resident Evil 2 Remake - *14h*
+* Yooka-Laylee and the Impossible Lair - *15h*
 * Super Mario Odyssey - *15h*
 * Illusion of Gaia - *14h*
 * Noita - *14h*

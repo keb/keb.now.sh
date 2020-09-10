@@ -19,6 +19,9 @@ date = 2019-06-02T14:21:19.433Z
 * Mega Man X2 - *05h*
 * Mega Man X3 - *06h*
 * Mega Man Unlimited
+* Super Castlevania IV - *05h*
+* Castlevania: Symphony of the Night - *13h*
+* Castlevania: Aria of Sorrow - *08h*
 * Bloodstained: Curse of the Moon - *04h*
 * Bloodstained: Ritual of the Night - *20h*
 * Bloodstained: Curse of the Moon 2 - *10h*
@@ -43,7 +46,6 @@ date = 2019-06-02T14:21:19.433Z
 * Crusader of Centy - *10h*
 * Parasite Eve - *12h*
 * Control - *13h*
-* Castlevania: Symphony of the Night - *13h*
 * DOOM (2016) - *13h*
 * Lucah: Born of a Dream - *11h*
 * Dino Crisis - *09h*

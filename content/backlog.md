@@ -155,6 +155,7 @@ date = 2019-06-02T14:21:19.433Z
 ## Co-Op (No particular order)
 
 * Outland
+* God's Trigger
 * Divinity: Original Sin 2
 * Pit People
 * J.J. Squawkers

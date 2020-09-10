@@ -6,13 +6,12 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing 
 
-* Furi - *07h*
+* AM2R - *06h*
 
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
 
-* AM2R - *06h*
 * Bleed 2 - *02h*
 * Sayonara Wild Hearts - *03h*
 * Ghost Trick: Phantom Detective - *12h*
@@ -180,6 +179,9 @@ date = 2019-06-02T14:21:19.433Z
 * Celeste (finish B-Sides)
 
 ## Completed
+* Furi - **4/5**
+  * A hack-n-slash/bullet hell boss rush with a French-anime art that hearkens back to the cyberpunk samurai cartoons you may have watched as a kid. The mixture of parry-centric swordplay with bullet hell works very well, making for some exhilirating combat. Some of the bosses have a few poorly designed phases, but overall, the game has great focus and delivers what it promises. The acid-house electronic music also complements the gameplay fantastically. The writing and "cutscenes" are typical anime dreck.
+
 * No Players Online - **4/5**
   * An interesting (and free!) take on interactive horror that pays homage to first person shooters of the early 00s, and the all too common experience of revisiting a once beloved online multiplayer game, only to find that the servers are completely empty. The concept of haunted digital spaces inhabited by some tormented cyber entity is not a new one, but No Players Online does a great job of inspiring player curiosity and meta-commentary of just what this game actually is. "Completing" the game involves taking part in a kind of scavenger hunt ARG for clues, some of which involve downloading a completely different itch.io title to progress, and calling a phone number (that is now inactive, although the prerecorded message is now on Bandcamp).
 * OFF - **3/5**

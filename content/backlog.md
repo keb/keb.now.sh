@@ -47,6 +47,7 @@ date = 2019-06-02T14:21:19.433Z
 * Parasite Eve - *12h*
 * Control - *13h*
 * DOOM (2016) - *13h*
+* Odallus: The Dark Call - *07h*
 * Lucah: Born of a Dream - *11h*
 * Dino Crisis - *09h*
 * Dino Crisis 2 - *09h*

@@ -19,6 +19,11 @@ date = 2019-06-02T14:21:19.433Z
 * Mega Man X2 - *05h*
 * Mega Man X3 - *06h*
 * Mega Man Unlimited
+* Sonic the Hedgehog - *03h*
+* Sonic the Hedgehog 2 - *04h*
+* Sonic the Hedgehog 3 - *04h*
+* Sonic CD - *04h*
+* Sonic Mania - *09h*
 * Super Castlevania IV - *05h*
 * Castlevania: Symphony of the Night - *13h*
 * Castlevania: Aria of Sorrow - *08h*

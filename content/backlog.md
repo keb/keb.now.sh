@@ -24,6 +24,7 @@ date = 2019-06-02T14:21:19.433Z
 * Sonic the Hedgehog 3 - *04h*
 * Sonic CD - *04h*
 * Sonic Mania - *09h*
+* Sonic Generations - *11h*
 * Super Castlevania IV - *05h*
 * Castlevania: Symphony of the Night - *13h*
 * Castlevania: Aria of Sorrow - *08h*

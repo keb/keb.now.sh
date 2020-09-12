@@ -164,7 +164,6 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Co-Op (No particular order)
 
-* Outland
 * God's Trigger
 * Divinity: Original Sin 2
 * Pit People
@@ -190,6 +189,9 @@ date = 2019-06-02T14:21:19.433Z
 * Celeste (finish B-Sides)
 
 ## Completed
+
+### Outland
+  * **3/5** - (Co-Op) A 2D metroidvania-lite action platformer with a distinct visual style influenced by Southeast Asian mythology. The character abilities are all rather generic for this brand of game, and the enemy variety is severely lacking. This game's primary gimmick is its mix of platforming with the polarity system and bullethell style of gameplay, pretty plainly lifted off Ikaruga. Overall the game is challenging enough to be satisfying, especially with another player. Note that online multiplayer suffers from noticeable input lag.
 
 ### Furi
   * **3/5** - A hack-n-slash/bullet hell boss rush with a French-anime art style that hearkens back to cyberpunk samurai cartoons you maybe watched as a kid. The mixture of parry-centric swordplay with bullet hell works very well and makes for some exhilirating combat. Some of the bosses have a few poorly designed phases, but overall, the game has good focus and delivers what it promises. The acid-house/synthwave electronic music also complements the gameplay fantastically. The writing and "cutscenes" are typical anime dreck.

@@ -6,11 +6,12 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="description" content="plumber killer" >
     <link rel="shortcut icon" href="{{ get_url(path="img/favicon.png") }}" type="image/x-icon">
-    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono" rel="stylesheet"> 
     <link rel="stylesheet" href="{{ get_url(path="css/basscss.min.css") }}">
     <link rel="stylesheet" href="{{ get_url(path="css/dark-mode.css") }}">
     <link rel="stylesheet" href="{{ get_url(path="css/main.css") }}">
-    <!-- <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script> -->
+    {% block rss %}
+      <link rel="alternate" type="application/atom+xml" title="RSS" href='{{ get_url(path="atom.xml", trailing_slash=false) }}'>
+    {% endblock %}
     <title>
         {% if section.title %}
             {{ section.title }}

@@ -2,10 +2,13 @@
 .fade-in { animation: fade-in 0.25s; }
 
 body {
-    font-family: 'IBM Plex Mono', "Lucida Console", Monaco, monospace;
+    font-family: monospace;
+    font-size: 17px;
     background-color: #fdfdfd;
     color: #313131;
 }
+
+h1, h2, h3, h4, h5, h6 { font-weight: 400; }
 
 .discord-tag {
     font-size: 0.75em;
@@ -64,17 +67,6 @@ code:not([class]) { font-size: 16px; background: #363636; color: white; padding:
     line-height: 28.5px;
 }
 
-@media (max-width: 768px) {
-    main { padding: 0.9em; }
-
-    .page-content p,
-    .page-content ul,
-    .page-content table {
-        font-size: 16px;
-        line-height: 26.5px;
-    }
-}
-
 .page-content img {
     max-width: 85%;
     display: block;
@@ -85,3 +77,53 @@ code:not([class]) { font-size: 16px; background: #363636; color: white; padding:
 hr { border: 0; border-top: 1px solid #dedede; }
 .controls { position: fixed; bottom: 0; right: 0; opacity: 0; }
 .controls:hover { opacity: 1; }
+
+.zola-anchor {
+    position: absolute;
+    margin-left: -1em;
+    opacity: 0.1;
+    border-bottom: 0;
+    box-shadow: 0 0 0;
+}
+
+h1 > .zola-anchor { display: none; }
+
+.zola-anchor:hover,
+h2:hover > .zola-anchor,
+h3:hover > .zola-anchor,
+h4:hover > .zola-anchor,
+h5:hover > .zola-anchor,
+h6:hover > .zola-anchor {
+    opacity: 1;
+    border-bottom: 0;
+    box-shadow: 0 0 0;
+}
+
+.toc ul { margin: 0; padding-right: 0; padding-left: 12px; padding-top: 0.2em; }
+.toc li { text-overflow: ellipsis; overflow-x: hidden; padding-bottom: 0.2em; }
+
+
+@media (max-width: 768px) {
+    main { padding: 1.4em; }
+    .page-content p,
+    .page-content ul,
+    .page-content table {
+        font-size: 16px;
+        line-height: 26.5px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .toc-header { display: none; }
+    .toc {
+        opacity: 0.25;
+        position: fixed;
+        top: 14%;
+        left: 1%;
+        white-space: nowrap;
+        max-width: 15%;
+        max-height: 600px;
+        overflow-y: hidden;
+    }
+    .toc:hover { opacity: 0.8; overflow-y: auto; }
+}

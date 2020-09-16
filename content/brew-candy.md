@@ -49,4 +49,4 @@ I love stouts, porters, and any kind of coffee-flavored dark beers, so this flav
 
 ## Conclusion
 
-Overall, this was a fun taste test. I've never written reviews for food items (or much anything really), so excuse me if you think this review sucks. I want to give a big thanks to my very thoughtful friend who gave me the opportunity to try these, and I look forward to finishing the rest of the bag. If you'd like to leave a comment, just scroll down and leave one in the non-existent comment box below! Or, you know, just e-mail me at [keb@disroot.org](mailto:keb@disroot.org).
+Overall, this was a fun taste test. I've never written reviews for food items (or much anything really), so excuse me if you think this review sucks. I want to give a big thanks to my very thoughtful friend who gave me the opportunity to try these, and I look forward to finishing the rest of the bag. If you'd like to leave a comment, just scroll down and leave one in the non-existent comment box below! Or, you know, just e-mail me at [keb@sheev.net](mailto:keb@sheev.net).

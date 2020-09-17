@@ -50,6 +50,7 @@ date = 2019-06-02T14:21:19.433Z
 * Resident Evil: Revelations 2 - *15h*
 * Resident Evil 7 - *12h*
 * Crusader of Centy - *10h*
+* STAR WARS Republic Commando - *10h*
 * Parasite Eve - *12h*
 * Control - *13h*
 * DOOM (2016) - *13h*
@@ -57,16 +58,19 @@ date = 2019-06-02T14:21:19.433Z
 * Lucah: Born of a Dream - *11h*
 * Dino Crisis - *09h*
 * Dino Crisis 2 - *09h*
+* Invisible, Inc. - *10h*
 * Rayman 2: The Great Escape - *09h*
 * Marvelous: Another Treasure Island - *13h*
 * Beyond Good & Evil - *12h*
 * Corpse Party - *12h*
 * Rocket: Robot on Wheels - *10h*
 * Metal Arms: Glitch in the System - *14h*
+* Fight'N Rage - *10h*
 * Resident Evil 2 Remake - *14h*
 * Yooka-Laylee and the Impossible Lair - *15h*
 * Super Mario Odyssey - *15h*
 * Illusion of Gaia - *14h*
+* Sphinx and the Cursed Mummy - *14h*
 * Noita - *14h*
 * Dishonored II - *16h*
 * Moon Remix RPG - *17h*
@@ -98,6 +102,7 @@ date = 2019-06-02T14:21:19.433Z
 * Mario & Luigi: Partners in Time - *20h*
 * Mario & Luigi: Bowser's Inside Story - *25h*
 * Treasure Hunter G - *22h*
+* Brigador - *24h*
 * Chrono Trigger - *30h*
 * Secret of Mana - *25h*
 * Trials of Mana (1996) - *24h*
@@ -168,7 +173,11 @@ date = 2019-06-02T14:21:19.433Z
 
 * Warhammer: Vermintide 2
 * God's Trigger
+* Divinity: Original Sin - Enhanced Edition
 * Divinity: Original Sin 2
+* Icewind Dale
+* Neverwinter Nights
+* Baldur's Gate 2
 * Pit People
 * J.J. Squawkers
 

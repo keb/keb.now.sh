@@ -61,6 +61,7 @@ date = 2019-06-02T14:21:19.433Z
 * Marvelous: Another Treasure Island - *13h*
 * Beyond Good & Evil - *12h*
 * Corpse Party - *12h*
+* Rocket: Robot on Wheels - *10h*
 * Metal Arms: Glitch in the System - *14h*
 * Resident Evil 2 Remake - *14h*
 * Yooka-Laylee and the Impossible Lair - *15h*

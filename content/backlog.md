@@ -36,6 +36,10 @@ date = 2019-06-02T14:21:19.433Z
 * Misao - *03h*
 * The Twisted Tales of Spike McFang - *06h*
 * OneShot - *07h*
+* The Legend of the Mystical Ninja - *05h*
+* Ganbare Goemon 2: Kiteretsu Shougun Magginesu - *05h*
+* Ganbare Goemon 3: Shishijyūrokubei no Karakuri Manji Katame - *08h*
+* Ganbare Goemon Kirakira Douchū: Boku ga Dancer ni Natta Wake - *05h*
 * Yoku's Island Express - *08h*
 * Donkey Kong Country 2: Diddy's Kong Quest  - *07h*
 * Donkey Kong Country 3: Dixie Kong's Double Trouble! - *08h*

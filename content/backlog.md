@@ -96,6 +96,7 @@ date = 2019-06-02T14:21:19.433Z
 * Mario & Luigi: Superstar Saga - *21h*
 * Mario & Luigi: Partners in Time - *20h*
 * Mario & Luigi: Bowser's Inside Story - *25h*
+* Treasure Hunter G - *22h*
 * Chrono Trigger - *30h*
 * Secret of Mana - *25h*
 * Trials of Mana (1996) - *24h*

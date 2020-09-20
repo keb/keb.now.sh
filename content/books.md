@@ -15,6 +15,8 @@ A collection of (free) web books, guides, and references by category.
 	* *A book on designing your own language interpreter. By Robert Nystrom, creator of programming languages such as Wren, Finch, and Magpie.*
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
 	* *A legendary text book. Not an easy read. Also see the [JavaScript Adaptation](https://sicp.comp.nus.edu.sg/).*
+* [Nature of Code](https://natureofcode.com/)
+	* *"This book focuses on a range of programming strategies and techniques behind computer simulations of natural systems, from elementary concepts in mathematics and physics to more advanced algorithms that enable sophisticated visual results."*
 
 ## HTML/CSS
 * [MarkSheet](https://marksheet.io/)

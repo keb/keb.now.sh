@@ -190,6 +190,7 @@ date = 2019-06-02T14:21:19.433Z
 
 * Dark Souls Remastered
 * Vanquish (PC)
+* Bayonetta (PC)
 * Dishonored (+ DLC)
 * Resident Evil 4
 * Dead Space

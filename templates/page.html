@@ -11,7 +11,6 @@
         {{ page.date | date(format="%B %d, %Y", timezone="America/New_York") }}
     </small>
 
-    
         {% for h1 in page.toc %}
             {% if h1.children %}
                 <div class="toc h5 py1">
@@ -52,7 +51,10 @@
     <article class="page-content">
         {{ page.content | safe }}
     </article>
-    <footer class="py2">
-        <a href="#">return to top</a>
+
+    <footer class="mt2">
+        <small>
+            <a href="#">return to top</a>
+        </small>
     </footer>
 {% endblock content %}

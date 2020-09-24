@@ -48,6 +48,7 @@ date = 2019-06-02T14:21:19.433Z
 * Frogger: Helmet Chaos (PSP/DS)
 * Silent Hill 4 - *09h*
 * Beyond Oasis - *06h*
+* Wizorb - *06h*
 * Haunting Ground - *09h*
 * Resident Evil 3 - *08h*
 * Resident Evil: Code Veronica - *15h*
@@ -110,6 +111,7 @@ date = 2019-06-02T14:21:19.433Z
 * Treasure Hunter G - *22h*
 * Brigador - *24h*
 * Chrono Trigger - *30h*
+* Rain World - *29h*
 * Secret of Mana - *25h*
 * Trials of Mana (1996) - *24h*
 * The Legend of Zelda: Majora's Mask - *30h*

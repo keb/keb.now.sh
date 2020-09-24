@@ -82,6 +82,7 @@ date = 2019-06-02T14:21:19.433Z
 * Front Mission Series: Gun Hazard - *18h*
 * Bayonetta 2 - *13h*
 * Robotrek - *15h*
+* Dustforce - *30h*
 * Devil May Cry 3 - *17h*
 * Devil May Cry 4 - *15h*
 * Devil May Cry 5 - *16h*

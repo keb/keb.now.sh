@@ -179,6 +179,7 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Co-Op (No particular order)
 
+* Nioh
 * Warhammer: Vermintide 2
 * God's Trigger
 * Divinity: Original Sin - Enhanced Edition

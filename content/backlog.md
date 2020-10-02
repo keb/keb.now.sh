@@ -88,6 +88,7 @@ date = 2019-06-02T14:21:19.433Z
 * Devil May Cry 4 - *15h*
 * Devil May Cry 5 - *16h*
 * Terranigma - *19h*
+* Valdis Story: Abyssal City - *16h*
 * Toki Tori 2+ - *16h*
 * The Legend of Zelda: A Link Between Worlds - *20h*
 * Super Mario Galaxy 2 - *20h*

@@ -186,6 +186,7 @@ date = 2019-06-02T14:21:19.433Z
 * Shadowrun Returns - *15h*
 * Shadowrun: Dragonfall - *30h*
 * Shadowrun: Hong Kong - *30h*
+* Fae Tactics - *36h*
 * Final Fantasy V - *37h*
 * XCOM: Enemy Within - *38h*
 * Prey + DLC - *40h*

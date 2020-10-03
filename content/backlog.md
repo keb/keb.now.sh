@@ -12,7 +12,11 @@ date = 2019-06-02T14:21:19.433Z
 
 *Numbers in italics are estimated hours to complete.*
 
+* Kirby's Adventure (or Nightmare in Dreamland) - *04h*
+* Kirby's Halloween Adventure 1.2 (ROM Hack)
 * Bleed 2 - *02h*
+* ABZU - *02h*
+* DISTRAINT - *02h*
 * Sayonara Wild Hearts - *03h*
 * Ghost Trick: Phantom Detective - *12h*
 * Ganpuru: Gunman's Proof - *04h*
@@ -25,6 +29,8 @@ date = 2019-06-02T14:21:19.433Z
 * Sonic CD - *04h*
 * Sonic Mania - *09h*
 * Sonic Generations - *11h*
+* Freedom Planet - *08h*
+* Katamari Damacy REROLL - *05h*
 * Super Castlevania IV - *05h*
 * Castlevania: Symphony of the Night - *13h*
 * Castlevania: Aria of Sorrow - *08h*
@@ -33,7 +39,11 @@ date = 2019-06-02T14:21:19.433Z
 * Bloodstained: Curse of the Moon 2 - *10h*
 * Anodyne - *07h*
 * Anodyne 2 - *10h*
+* Absolute Drift - *04h*
 * Misao - *03h*
+* Piku Niku - *03h*
+* FTL - *12h*
+* Into the Breach - *17h*
 * The Twisted Tales of Spike McFang - *06h*
 * OneShot - *07h*
 * The Legend of the Mystical Ninja - *05h*
@@ -44,8 +54,10 @@ date = 2019-06-02T14:21:19.433Z
 * Donkey Kong Country 2: Diddy's Kong Quest  - *07h*
 * Donkey Kong Country 3: Dixie Kong's Double Trouble! - *08h*
 * Hob - *10h*
+* Hellbade - *08h*
 * Transistor - *09h*
 * Frogger: Helmet Chaos (PSP/DS)
+* Infested Planet - *10h*
 * Silent Hill 4 - *09h*
 * Beyond Oasis - *06h*
 * Wizorb - *06h*
@@ -75,12 +87,14 @@ date = 2019-06-02T14:21:19.433Z
 * Resident Evil 2 Remake - *14h*
 * Yooka-Laylee and the Impossible Lair - *15h*
 * Super Mario Odyssey - *15h*
+* A Hat in Time - *13h*
 * Illusion of Gaia - *14h*
 * Sphinx and the Cursed Mummy - *14h*
 * Noita - *14h*
 * Dishonored II - *16h*
 * Moon Remix RPG - *17h*
 * Front Mission Series: Gun Hazard - *18h*
+* Geometry Wars 3: Dimensions Evolved - *14h*
 * Bayonetta 2 - *13h*
 * Robotrek - *15h*
 * Dustforce - *30h*
@@ -102,6 +116,7 @@ date = 2019-06-02T14:21:19.433Z
 * Metroid Prime 2 - *20h*
 * Metroid Prime 3 - *16h*
 * Live A Live - *20h*
+* Chroma Squad - *18h*
 * Phoenix Wright: Ace Attorney − Trials and Tribulations - *24h*
 * Apollo Justice: Ace Attorney - *22h*
 * The Evil Within - *20h*
@@ -174,9 +189,15 @@ date = 2019-06-02T14:21:19.433Z
 * Suikoden II - *42h*
 * Treasure of the Rudras - *30h*
 * Renowned Explorers: International Society - *20h*
+* Dragon Age: Origins - *70h*
+* DuckTales Remastered - *04h*
 * OMORI
 * Knuckle Sandwich
 * Final Fantasy XV - *53h*
+* Binary Domain - *10h*
+* Blades of Time - *10h*
+* Cargo Commander - *12h*
+* Dead Rising 2: Off the Record - *18h*
 
 ## Co-Op (No particular order)
 
@@ -193,6 +214,7 @@ date = 2019-06-02T14:21:19.433Z
 
 ## List of intended replays
 
+* Cave Story+
 * Dark Souls Remastered
 * Vanquish (PC)
 * Bayonetta (PC)
@@ -210,6 +232,8 @@ date = 2019-06-02T14:21:19.433Z
 * Super Metroid
 * Jak 3
 * Celeste (finish B-Sides)
+* Bastion
+* Dead Space
 
 ## Completed
 

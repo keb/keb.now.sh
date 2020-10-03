@@ -16,10 +16,12 @@ date = 2019-06-02T14:21:19.433Z
 * Kirby's Halloween Adventure 1.2 (ROM Hack)
 * Bleed 2 - *02h*
 * ABZU - *02h*
+* Super Cyborg - *02h*
 * DISTRAINT - *02h*
 * Sayonara Wild Hearts - *03h*
 * Shatter - *03h*
 * Shelter 2 - *02h*
+* Tobe's Vertical Adventure - *03h*
 * Ghost Trick: Phantom Detective - *12h*
 * Ganpuru: Gunman's Proof - *04h*
 * Mega Man X2 - *05h*
@@ -45,8 +47,11 @@ date = 2019-06-02T14:21:19.433Z
 * Misao - *03h*
 * Piku Niku - *03h*
 * The Twisted Tales of Spike McFang - *06h*
+* Snake Pass - *05h*
+* The Final Station - *05h*
 * OneShot - *07h*
 * Runestone Keeper - *06h*
+* Super Time Force Ultra *06h*
 * Shantae and the Pirate's Curse - *09h*
 * The Legend of the Mystical Ninja - *05h*
 * Ganbare Goemon 2: Kiteretsu Shougun Magginesu - *05h*
@@ -55,7 +60,9 @@ date = 2019-06-02T14:21:19.433Z
 * Yoku's Island Express - *08h*
 * Donkey Kong Country 2: Diddy's Kong Quest  - *07h*
 * Donkey Kong Country 3: Dixie Kong's Double Trouble! - *08h*
+* Super House of Dead Ninjas - *07h*
 * Hob - *10h*
+* Tokyo 42 - *11h*
 * Hellbade - *08h*
 * Transistor - *09h*
 * Frogger: Helmet Chaos (PSP/DS)
@@ -89,15 +96,22 @@ date = 2019-06-02T14:21:19.433Z
 * Primordia - *07h*
 * Rakuen - *08h*
 * Rochard - *06h*
+* Sine Mora - *06h*
+* Stories: The Path of Destinies - *08h*
 * The Sexy Brutale - *07h*
+* Strider - *08h*
 * Prince of Persia (2008) *14h*
 * Invisible, Inc. - *10h*
 * Mana Spark - *10h*
+* Super Puzzle Platformer Deluxe - *09h*
 * Rayman 2: The Great Escape - *09h*
+* The Cat Lady - *09h*
 * Marvelous: Another Treasure Island - *13h*
 * Beyond Good & Evil - *12h*
 * Corpse Party - *12h*
 * Rocket: Robot on Wheels - *10h*
+* They Bleed Pixels - *11h*
+* Wuppo: Definitive Edition - *11h*
 * Metal Arms: Glitch in the System - *14h*
 * Fight'N Rage - *10h*
 * Killer is Dead - *10h*
@@ -105,9 +119,12 @@ date = 2019-06-02T14:21:19.433Z
 * Yooka-Laylee and the Impossible Lair - *15h*
 * Super Mario Odyssey - *15h*
 * A Hat in Time - *13h*
+* VA-11 Hall-A - *13h*
 * Illusion of Gaia - *14h*
 * Sphinx and the Cursed Mummy - *14h*
 * Noita - *14h*
+* Sid Meier's Pirates! - *13h*
+* Thumper - *15h*
 * Dishonored II - *16h*
 * Moon Remix RPG - *17h*
 * Front Mission Series: Gun Hazard - *18h*
@@ -117,11 +134,13 @@ date = 2019-06-02T14:21:19.433Z
 * Rogue Legacy - *17h*
 * Bayonetta 2 - *13h*
 * Robotrek - *15h*
+* Volgarr the Viking - *14h*
 * Dustforce - *30h*
 * Devil May Cry 3 - *17h*
 * Devil May Cry 4 - *15h*
 * Devil May Cry 5 - *16h*
 * Terranigma - *19h*
+* Skulls of the Shogun - *16h*
 * Valdis Story: Abyssal City - *16h*
 * Toki Tori 2+ - *16h*
 * The Legend of Zelda: A Link Between Worlds - *20h*
@@ -153,6 +172,7 @@ date = 2019-06-02T14:21:19.433Z
 * The Legend of Zelda: Majora's Mask - *30h*
 * Lufia II: Rise of the Sinistrals - *27h*
 * Disco Elysium - *29h*
+* The Surge - *28h*
 * Earthbound - *32h*
 * Mother 3 - *30h*
 * Hollow Knight - *32h*
@@ -167,6 +187,7 @@ date = 2019-06-02T14:21:19.433Z
 * Shadowrun: Dragonfall - *30h*
 * Shadowrun: Hong Kong - *30h*
 * Final Fantasy V - *37h*
+* XCOM: Enemy Within - *38h*
 * Prey + DLC - *40h*
 * Radiant Historia - *40h*
 * Fire Emblem: Shadow Dragon - *25h*
@@ -178,6 +199,7 @@ date = 2019-06-02T14:21:19.433Z
 * Fire Emblem Echoes: Shadows of Valentia - *46h*
 * Sekiro: Shadows Die Twice - *42h*
 * Risen - *36h*
+* Valkyria Chronicles - *39h*
 * Okami - *42h*
 * Chrono Cross - *43h*
 * Final Fantasy VII - *52h*
@@ -200,6 +222,7 @@ date = 2019-06-02T14:21:19.433Z
 * Final Fantasy X - *70h*
 * Final Fantasy Tactics: Advance - *73h*
 * Dark Cloud 2 - *71h*
+* The Last Remnant - *75h*
 * Dragon Quest VIII - *80h*
 * Dragon Quest XI - *80h*
 * Persona 4 - *85h*
@@ -237,6 +260,8 @@ date = 2019-06-02T14:21:19.433Z
 * J.J. Squawkers
 * Lovers in a Dangerous Spacetime
 * Cat Quest II
+* Spacelords
+* Wyv and Keep: The Temple of the Lost Idol
 
 ## List of intended replays
 

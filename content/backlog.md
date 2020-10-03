@@ -18,6 +18,8 @@ date = 2019-06-02T14:21:19.433Z
 * ABZU - *02h*
 * DISTRAINT - *02h*
 * Sayonara Wild Hearts - *03h*
+* Shatter - *03h*
+* Shelter 2 - *02h*
 * Ghost Trick: Phantom Detective - *12h*
 * Ganpuru: Gunman's Proof - *04h*
 * Mega Man X2 - *05h*
@@ -42,10 +44,10 @@ date = 2019-06-02T14:21:19.433Z
 * Absolute Drift - *04h*
 * Misao - *03h*
 * Piku Niku - *03h*
-* FTL - *12h*
-* Into the Breach - *17h*
 * The Twisted Tales of Spike McFang - *06h*
 * OneShot - *07h*
+* Runestone Keeper - *06h*
+* Shantae and the Pirate's Curse - *09h*
 * The Legend of the Mystical Ninja - *05h*
 * Ganbare Goemon 2: Kiteretsu Shougun Magginesu - *05h*
 * Ganbare Goemon 3: Shishijyūrokubei no Karakuri Manji Katame - *08h*
@@ -59,15 +61,20 @@ date = 2019-06-02T14:21:19.433Z
 * Frogger: Helmet Chaos (PSP/DS)
 * Infested Planet - *10h*
 * Silent Hill 4 - *09h*
+* Out There Somewhere - *02h*
 * Beyond Oasis - *06h*
 * Wizorb - *06h*
+* RUINER - *06h*
 * Haunting Ground - *09h*
+* Marlow Briggs - *07h*
 * Resident Evil 3 - *08h*
 * Resident Evil: Code Veronica - *15h*
 * Resident Evil: Revelations - *13h*
 * Resident Evil: Revelations 2 - *15h*
 * Resident Evil 7 - *12h*
 * Crusader of Centy - *10h*
+* Oddworld: Abe's Oddysee (New & Tasty) - *10h*
+* Oddworld: Stranger's Wrath - *15h*
 * STAR WARS Republic Commando - *10h*
 * Parasite Eve - *12h*
 * Control - *13h*
@@ -76,7 +83,16 @@ date = 2019-06-02T14:21:19.433Z
 * Lucah: Born of a Dream - *11h*
 * Dino Crisis - *09h*
 * Dino Crisis 2 - *09h*
+* Momodora III - *02h*
+* Momodora: Reverie Under the Moonlight - *05h*
+* Mr. Shifty - *05h*
+* Primordia - *07h*
+* Rakuen - *08h*
+* Rochard - *06h*
+* The Sexy Brutale - *07h*
+* Prince of Persia (2008) *14h*
 * Invisible, Inc. - *10h*
+* Mana Spark - *10h*
 * Rayman 2: The Great Escape - *09h*
 * Marvelous: Another Treasure Island - *13h*
 * Beyond Good & Evil - *12h*
@@ -84,6 +100,7 @@ date = 2019-06-02T14:21:19.433Z
 * Rocket: Robot on Wheels - *10h*
 * Metal Arms: Glitch in the System - *14h*
 * Fight'N Rage - *10h*
+* Killer is Dead - *10h*
 * Resident Evil 2 Remake - *14h*
 * Yooka-Laylee and the Impossible Lair - *15h*
 * Super Mario Odyssey - *15h*
@@ -95,6 +112,9 @@ date = 2019-06-02T14:21:19.433Z
 * Moon Remix RPG - *17h*
 * Front Mission Series: Gun Hazard - *18h*
 * Geometry Wars 3: Dimensions Evolved - *14h*
+* FTL - *12h*
+* Into the Breach - *17h*
+* Rogue Legacy - *17h*
 * Bayonetta 2 - *13h*
 * Robotrek - *15h*
 * Dustforce - *30h*
@@ -157,6 +177,7 @@ date = 2019-06-02T14:21:19.433Z
 * Fire Emblem Fates - *43h*
 * Fire Emblem Echoes: Shadows of Valentia - *46h*
 * Sekiro: Shadows Die Twice - *42h*
+* Risen - *36h*
 * Okami - *42h*
 * Chrono Cross - *43h*
 * Final Fantasy VII - *52h*
@@ -194,10 +215,13 @@ date = 2019-06-02T14:21:19.433Z
 * OMORI
 * Knuckle Sandwich
 * Final Fantasy XV - *53h*
+* Not The Robots - *05h*
 * Binary Domain - *10h*
 * Blades of Time - *10h*
 * Cargo Commander - *12h*
 * Dead Rising 2: Off the Record - *18h*
+* My Time At Portia - *98h*
+* Stardew Valley
 
 ## Co-Op (No particular order)
 
@@ -211,6 +235,8 @@ date = 2019-06-02T14:21:19.433Z
 * Baldur's Gate 2
 * Pit People
 * J.J. Squawkers
+* Lovers in a Dangerous Spacetime
+* Cat Quest II
 
 ## List of intended replays
 
@@ -234,6 +260,7 @@ date = 2019-06-02T14:21:19.433Z
 * Celeste (finish B-Sides)
 * Bastion
 * Dead Space
+* METAL GEAR RISING: REVENGEANCE
 
 ## Completed
 

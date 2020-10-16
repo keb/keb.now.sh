@@ -10,14 +10,16 @@ I enjoy this trend of creating minimal, programmer-friendly static content blog 
 * [write.as](https://write.as/)
     * [writefreely.org](https://writefreely.org/)
     * [writeas.org](https://writeas.org/)
-* [txti.es](http://txti.es/)
+* [bearblog.dev](https://bearblog.dev/)
+* [rwtxt.com](https://rwtxt.com/)
+
+## Misc.
 * [telegra.ph](http://telegra.ph/)
+* [txti.es](http://txti.es/)
 * [txt.fyi](https://txt.fyi/)
 * [verbatim.link](https://verbatim.link/)
 * [pastery.net](https://www.pastery.net/)
 * [ix.io](http://ix.io/)
 * [commentpara.de](https://commentpara.de/)
-* [rwtxt.com](https://rwtxt.com/)
-* [distbin.com](https://distbin.com/)
 * [itty.bitty.site](https://itty.bitty.site/edit)
-* [bearblog.dev](https://bearblog.dev/)
+

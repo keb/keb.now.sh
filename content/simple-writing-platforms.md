@@ -13,6 +13,8 @@ I enjoy this trend of creating minimal, programmer-friendly static content blog 
 * [bearblog.dev](https://bearblog.dev/)
 * [rwtxt.com](https://rwtxt.com/)
 
+You can also consider using a federated [Plume](https://the-federation.info/plume) instance, or hosting your own.
+
 ## Misc.
 * [telegra.ph](http://telegra.ph/)
 * [txti.es](http://txti.es/)

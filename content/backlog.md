@@ -170,6 +170,7 @@ date = 2019-06-02T14:21:19.433Z
 * Secret of Mana - *25h*
 * Trials of Mana (1996) - *24h*
 * The Legend of Zelda: Majora's Mask - *30h*
+* The Missing Link (Ocarina of Time romhack)
 * Lufia II: Rise of the Sinistrals - *27h*
 * Disco Elysium - *29h*
 * The Surge - *28h*

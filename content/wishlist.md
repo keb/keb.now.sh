@@ -18,7 +18,6 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * Xperia XZ1 Compact or Galaxy S10e
 * KVM Switch to switch between desktop & laptop for workstation
 * Sony Trinitron
-* 2 Raspberry Pis
 
 ## Books
 * Physical copy of Infinite Jest by David Foster Wallace
@@ -55,6 +54,7 @@ This is a wishlist of miscellaneous stuff I intend to get.
 
 ## Acquired
 
+* ~~Raspberry Pi 4~~
 * ~~Goodbye, Things by Fumio Sasaki~~
 * ~~Game Programming Patterns by Bob Nystrom~~
 * ~~* PSP2000 or Vita~~ Thanks Stevo!!

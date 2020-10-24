@@ -132,6 +132,7 @@ date = 2019-06-02T14:21:19.433Z
 * Into the Breach - *17h*
 * Rogue Legacy - *17h*
 * Bayonetta 2 - *13h*
+* Kirby Mass Attack - *13h*
 * Robotrek - *15h*
 * Volgarr the Viking - *14h*
 * Dustforce - *30h*
@@ -155,6 +156,7 @@ date = 2019-06-02T14:21:19.433Z
 * Metroid Prime 3 - *16h*
 * Live A Live - *20h*
 * Chroma Squad - *18h*
+* Contact - *18h*
 * Phoenix Wright: Ace Attorney − Trials and Tribulations - *24h*
 * Apollo Justice: Ace Attorney - *22h*
 * The Evil Within - *20h*
@@ -222,6 +224,7 @@ date = 2019-06-02T14:21:19.433Z
 * Yakuza Kiwami - *30h*
 * Final Fantasy X - *70h*
 * Final Fantasy Tactics: Advance - *73h*
+* Fantasy Tactics A2: Grimoire of the Rift - *79h*
 * Dark Cloud 2 - *71h*
 * The Last Remnant - *75h*
 * Dragon Quest VIII - *80h*
@@ -233,9 +236,14 @@ date = 2019-06-02T14:21:19.433Z
 * Shadow Hearts: Covenant - *52h*
 * Suikoden II - *42h*
 * Treasure of the Rudras - *30h*
+* Castlevania: Portrait of Ruin - *13h*
+* Castlevania: Order of Ecclesia - *13h*
 * Renowned Explorers: International Society - *20h*
+* The Legend of Zelda: Phantom Hourglass - *20h*
+* The Legend of Zelda: Spirit Tracks - *26h*
 * Dragon Age: Origins - *70h*
 * DuckTales Remastered - *04h*
+* Metroid: Samus Returns - *13h*
 * OMORI
 * Knuckle Sandwich
 * Final Fantasy XV - *53h*

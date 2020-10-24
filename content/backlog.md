@@ -22,6 +22,7 @@ date = 2019-06-02T14:21:19.433Z
 * Shelter 2 - *02h*
 * Tobe's Vertical Adventure - *03h*
 * Ghost Trick: Phantom Detective - *12h*
+* Skygunner - *03h*
 * Ganpuru: Gunman's Proof - *04h*
 * Mega Man X2 - *05h*
 * Mega Man X3 - *06h*

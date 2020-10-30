@@ -6,13 +6,12 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing 
 
-* Bleed 2 - *02h*
+* ABZU - *02h*
 
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
 
-* ABZU - *02h*
 * Super Cyborg - *02h*
 * DISTRAINT - *02h*
 * Sayonara Wild Hearts - *03h*
@@ -296,6 +295,9 @@ date = 2019-06-02T14:21:19.433Z
 * METAL GEAR RISING: REVENGEANCE
 
 ## Completed
+
+### Bleed 2
+  * **3/5** - A very fun, and very short indie platformer/bullet-hell shmup. Bleed 2 continues in the tradition of the original with responsive controls and super fluid & hyperactive gameplay. The story mode can be completed in about an hour. Bleed 2's story mode is forgiving with checkpoints, so I recommend playing on the hardest difficulty. Nice retro graphics and a slick visual style, although with some questionably artistic decisions in regards to character design.
 
 ### Kirby's Adventure
   * **2/5** - Kirby's Adventure is a fantastic platformer that released near the end of the NES's lifecycle. It has great level design, sound design, gameplay, and arguably the best visuals & art design of any game on the NES -- they are so good, that this game still looks great to this day. However, the poor NES could *barely* handle the sheer amount of enemies and effects going on at once. As a result, if you're playing this on the NES or a cycle-accurate emulator (like Mesen), the game will suffer from horrendous slowdown which in turn causes button inputs to be dropped entirely, making the game massively frustrating at times, to flatout unplayable during the most chaotic sections. Kirby's Adventure was remade in 2002 for the Gameboy Advance as "Kirby: Nightmare in Dreamland" without the slowdown or performance issues. While I do prefer the visuals of the original NES game, I'd recommend the GBA remake based on my experience with the original. Or you might better off playing using a romhack or different emulator that solves the input-dropping issues (I used Mesen). If not for these performance issues, this game would be an easy 4/5.

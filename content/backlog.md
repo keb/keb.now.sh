@@ -207,6 +207,7 @@ date = 2019-06-02T14:21:19.433Z
 * Final Fantasy VIII - *58h*
 * Rogue Galaxy - *50h*
 * Final Fantasy Tactics - *58h*
+* Octopath Traveler - *60h*
 * Chaos Seed - *60h*
 * Final Fantasy XIII - *62h*
 * Final Fantasy XIII-2 - *42h*

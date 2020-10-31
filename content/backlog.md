@@ -295,7 +295,7 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Completed
 
-## ABZU
+### ABZU
   * **2/5** - ABZU is a beautifully stylish visual experience. The gameplay, however, consists solely of opening doors, and it's as boring as it sounds. Character movement only begins to become fun during the last 15 minutes of this 1.5 hour journey.
 
 ### Bleed 2

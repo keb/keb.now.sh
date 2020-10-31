@@ -6,14 +6,12 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing 
 
-* ABZU - *02h*
+* DISTRAINT - *02h*
 
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
 
-* Super Cyborg - *02h*
-* DISTRAINT - *02h*
 * Sayonara Wild Hearts - *03h*
 * Shatter - *03h*
 * Shelter 2 - *02h*
@@ -296,6 +294,9 @@ date = 2019-06-02T14:21:19.433Z
 * METAL GEAR RISING: REVENGEANCE
 
 ## Completed
+
+## ABZU
+  * **2/5** - ABZU is a beautifully stylish visual experience. The gameplay, however, consists solely of opening doors, and it's as boring as it sounds. Character movement only begins to become fun during the last 15 minutes of this 1.5 hour journey.
 
 ### Bleed 2
   * **3/5** - A very fun, and very short indie platformer/bullet-hell shmup. Bleed 2 continues in the tradition of the original with responsive controls and super fluid & hyperactive gameplay. The story mode can be completed in about an hour. Bleed 2's story mode is forgiving with checkpoints, so I recommend playing on the hardest difficulty. Nice retro graphics and a slick visual style, although with some questionably artistic decisions in regards to character design.

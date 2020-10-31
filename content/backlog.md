@@ -6,13 +6,12 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing 
 
-* DISTRAINT - *02h*
+* Sayonara Wild Hearts - *03h*
 
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
 
-* Sayonara Wild Hearts - *03h*
 * Shatter - *03h*
 * Shelter 2 - *02h*
 * Tobe's Vertical Adventure - *03h*
@@ -294,6 +293,9 @@ date = 2019-06-02T14:21:19.433Z
 * METAL GEAR RISING: REVENGEANCE
 
 ## Completed
+
+### DISTRAINT
+  * **3/5** - Cool style, cool art, good job mimicking the psychological horror style made popular by games like Silent Hill. Story is pretty boring and uninteresting. Characters are not fleshed out enough to care about. Overall a decent, short adventure game experience.
 
 ### ABZU
   * **2/5** - ABZU is a beautifully stylish visual experience. The gameplay, however, consists solely of opening doors, and it's as boring as it sounds. Character movement only begins to become fun during the last 15 minutes of this 1.5 hour journey.

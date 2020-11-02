@@ -205,6 +205,7 @@ date = 2019-06-02T14:21:19.433Z
 * Final Fantasy Tactics - *58h*
 * Octopath Traveler - *60h*
 * Chaos Seed - *60h*
+* Demon's Souls - *40h*
 * Final Fantasy XIII - *62h*
 * Final Fantasy XIII-2 - *42h*
 * Lightning Returns: Final Fantasy XIII - *47h*

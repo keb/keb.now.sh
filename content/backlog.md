@@ -6,13 +6,12 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing 
 
-* Shelter 2 - *02h*
+* Tobe's Vertical Adventure - *03h*
 
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
 
-* Tobe's Vertical Adventure - *03h*
 * Ghost Trick: Phantom Detective - *12h*
 * Skygunner - *03h*
 * Ganpuru: Gunman's Proof - *04h*
@@ -360,6 +359,9 @@ date = 2019-06-02T14:21:19.433Z
   * **5/5** - The definitive way to play the greatest survival horror game of all time.
 
 ## Abandoned
+
+### Shelter 2
+  * Shelter 2 is a game that is needlessly open-world with half-baked, barely functioning mechanics that can't hold the weight of an ultimately meaningless gameplay loop.
 
 ### Haunted PS1 Demo Disc 2020
   * A collection of mostly short, mostly surreal, mostly walking simulator horror indie games from itch. Some gems (Neko Yume, Tasty Ramen), but it's hard to have patience for generic horror games that are even sometimes completely broken. Still, the concept and the effort is admirable. I'd like to see more "demo disc" releases in the future.

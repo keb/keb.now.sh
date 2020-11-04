@@ -6,13 +6,12 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing 
 
-* Shatter - *03h*
+* Shelter 2 - *02h*
 
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
 
-* Shelter 2 - *02h*
 * Tobe's Vertical Adventure - *03h*
 * Ghost Trick: Phantom Detective - *12h*
 * Skygunner - *03h*
@@ -293,6 +292,9 @@ date = 2019-06-02T14:21:19.433Z
 * METAL GEAR RISING: REVENGEANCE
 
 ## Completed
+
+### Shatter
+  * **4/5** - A modern re-interpretation of Breakout/Arkanoid-type games. It's very, very fun.
 
 ### Sayonara Wild Hearts
   * **2/5** - While the art and music complement each other nicely, Sayonara Wild Hearts feels like a videogame created by a music video director for the sole purpose of being featured in award show trailers and E3 show reels. It *looks* and *sounds* amazing, but at its best plays like an awful REZ ripoff, and at its worst (which makes up for most of the playtime) plays like an on-rails, QTE-laden, endless runner with flimsy rhythm game elements that ultimately don't really matter unless you really want to chase high scores. Perhaps this is a great game to show to friends and family who have passing interest in videogames, only for the fact that it's so flashy and visually appealing.

@@ -6,17 +6,16 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing 
 
-* Tobe's Vertical Adventure - *03h*
+* Skygunner - *03h*
 
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
 
-* Ghost Trick: Phantom Detective - *12h*
-* Skygunner - *03h*
 * Ganpuru: Gunman's Proof - *04h*
 * Mega Man X2 - *05h*
 * Mega Man X3 - *06h*
+* Ghost Trick: Phantom Detective - *12h*
 * Mega Man Unlimited
 * Sonic the Hedgehog - *03h*
 * Sonic the Hedgehog 2 - *04h*
@@ -359,6 +358,9 @@ date = 2019-06-02T14:21:19.433Z
   * **5/5** - The definitive way to play the greatest survival horror game of all time.
 
 ## Abandoned
+
+### Tobe's Vertical Adventure
+  * A cute indie puzzle platformer with good pixelart, grating music, and bad controls. Would make an ideal mobile game.
 
 ### Shelter 2
   * Shelter 2 is a game that is needlessly open-world with half-baked, barely functioning mechanics that can't hold the weight of an ultimately meaningless gameplay loop.

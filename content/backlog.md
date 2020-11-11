@@ -172,6 +172,7 @@ date = 2019-06-02T14:21:19.433Z
 * Thronebreaker: The Witcher Tales - *32h*
 * Alundra - *32h*
 * Vagrant Story - *33h*
+* The Last Story - *27h*
 * Odin Sphere Leifthrasir - *33h*
 * Darksiders II: Deathinitive Edition - *29h*
 * Zero Escape: Virtue's Last Reward - *35h*

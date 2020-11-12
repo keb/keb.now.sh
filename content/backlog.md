@@ -25,6 +25,7 @@ date = 2019-06-02T14:21:19.433Z
 * Sonic Generations - *11h*
 * Freedom Planet - *08h*
 * Katamari Damacy REROLL - *05h*
+* Axelay - *02h*
 * Super Castlevania IV - *05h*
 * Castlevania: Symphony of the Night - *13h*
 * Castlevania: Aria of Sorrow - *08h*

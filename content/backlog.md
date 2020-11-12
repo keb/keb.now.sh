@@ -238,6 +238,7 @@ date = 2019-06-02T14:21:19.433Z
 * Dragon Age: Origins - *70h*
 * DuckTales Remastered - *04h*
 * Metroid: Samus Returns - *13h*
+* Energy Breaker (Japan) - *35h*
 * OMORI
 * Knuckle Sandwich
 * Final Fantasy XV - *53h*

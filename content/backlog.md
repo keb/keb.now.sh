@@ -15,6 +15,7 @@ date = 2019-06-02T14:21:19.433Z
 * Ganpuru: Gunman's Proof - *04h*
 * Mega Man X2 - *05h*
 * Mega Man X3 - *06h*
+* Gunstar Heroes - *02h*
 * Ghost Trick: Phantom Detective - *12h*
 * Mega Man Unlimited
 * Sonic the Hedgehog - *03h*
@@ -27,6 +28,7 @@ date = 2019-06-02T14:21:19.433Z
 * Katamari Damacy REROLL - *05h*
 * Axelay - *02h*
 * Super Castlevania IV - *05h*
+* Castlevania: Bloodlines - *04h*
 * Castlevania: Symphony of the Night - *13h*
 * Castlevania: Aria of Sorrow - *08h*
 * Bloodstained: Curse of the Moon - *04h*
@@ -190,6 +192,7 @@ date = 2019-06-02T14:21:19.433Z
 * Ogre Battle: The March of the Black Queen - *25h*
 * Ogre Battle 64: Person of Lordly Caliber - *66h*
 * Radiant Historia - *40h*
+* Shining Force II - *31h*
 * Fire Emblem: Shadow Dragon - *25h*
 * Fire Emblem: Mystery of the Emblem (SNES/DS Remake) - *57h* 
 * Fire Emblem: Genealogy - *58h*

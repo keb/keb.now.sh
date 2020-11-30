@@ -47,6 +47,7 @@ date = 2019-06-02T14:21:19.433Z
 * Super Time Force Ultra *06h*
 * Shantae and the Pirate's Curse - *09h*
 * Titanfall 2 - *08h*
+* Demon's Crest - *06h*
 * The Legend of the Mystical Ninja - *05h*
 * Ganbare Goemon 2: Kiteretsu Shougun Magginesu - *05h*
 * Ganbare Goemon 3: Shishijyūrokubei no Karakuri Manji Katame - *08h*

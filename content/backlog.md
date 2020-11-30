@@ -18,6 +18,7 @@ date = 2019-06-02T14:21:19.433Z
 * Gunstar Heroes - *02h*
 * Ghost Trick: Phantom Detective - *12h*
 * Mega Man Unlimited
+* ReCore - *19h*
 * Sonic the Hedgehog - *03h*
 * Sonic the Hedgehog 2 - *04h*
 * Sonic the Hedgehog 3 - *04h*
@@ -145,6 +146,7 @@ date = 2019-06-02T14:21:19.433Z
 * Shadow of Mordor - *20h*
 * Donkey Kong Country Returns (Wii U) - *20h*
 * Donkey Kong Country: Tropical Freeze - *20h*
+* Sunset Overdrive - *18h*
 * Pikmin - *09h*
 * Pikmin 2 - *20h*
 * Pikmin 3 - *16h*

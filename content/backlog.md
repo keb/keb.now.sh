@@ -281,6 +281,7 @@ date = 2019-06-02T14:21:19.433Z
 
 ## List of intended replays
 
+* Final Fantasies [Versions](https://www.reddit.com/r/FinalFantasy/wiki/whichversion#wiki_final_fantasy_vi)
 * Cave Story+
 * Dark Souls Remastered
 * Vanquish (PC)
@@ -288,6 +289,7 @@ date = 2019-06-02T14:21:19.433Z
 * Dishonored (+ DLC)
 * Resident Evil 4
 * Dead Space
+* Final Fantasy VI Relocalization Project
 * Final Fantasy XII
 * Metal Gear Solid 2: Sons of Liberty
 * Metal Gear Solid 3: Subsistence

@@ -26,6 +26,7 @@ date = 2019-06-02T14:21:19.433Z
 * Sonic Mania - *09h*
 * Sonic Generations - *11h*
 * Freedom Planet - *08h*
+* Brutal Doom
 * Katamari Damacy REROLL - *05h*
 * Axelay - *02h*
 * Super Castlevania IV - *05h*

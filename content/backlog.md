@@ -58,6 +58,7 @@ date = 2019-06-02T14:21:19.433Z
 * Donkey Kong Country 3: Dixie Kong's Double Trouble! - *08h*
 * Super House of Dead Ninjas - *07h*
 * Hob - *10h*
+* Quake 4 - *10h*
 * Tokyo 42 - *11h*
 * Hellbade - *08h*
 * Transistor - *09h*

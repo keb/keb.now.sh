@@ -4,15 +4,14 @@ date = 2019-06-02T14:21:19.433Z
 +++
 # game backlog
 
-## Currently playing 
+## Currently playing
 
-* Skygunner - *03h*
+* Ganpuru: Gunman's Proof
 
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
 
-* Ganpuru: Gunman's Proof - *04h*
 * Mega Man X2 - *05h*
 * Mega Man X3 - *06h*
 * Gunstar Heroes - *02h*
@@ -375,6 +374,9 @@ date = 2019-06-02T14:21:19.433Z
   * **5/5** - The definitive way to play the greatest survival horror game of all time.
 
 ## Abandoned
+
+### Skygunner
+  * Skygunner is a difficult game to place... and a difficult game in general. Underneath its bad anime art and cutesy exterior lies a deceivingly complex game where your performance is better measured by the amount of "cash" you obtain by the end of a mission, rather than if you completed the mission at all -- infact, completing missions is not the challenge here. Cash is essentially your score for a given mission, which can be increased further by multipliers which can be obtained by completing objectives quicker, and dispatching enemy fighters with missile chains. The catch is that every use of a weapon *lowers* your overall cash, so you must be conservative with how often you fire your weapons. The result of all of this is a bipolar difficulty curve and controls that betray your best interests -- Skygunner demands that you be precise, but in an effort to be accessible, gives the player a glossy, over-simplified control scheme. There's a brilliant game in here somewhere, but it will take the time and patience of a high-score chaser or an aerial combat enthusiast to find.
 
 ### Tobe's Vertical Adventure
   * A cute indie puzzle platformer with good pixelart, grating music, and bad controls. Would make an ideal mobile game.

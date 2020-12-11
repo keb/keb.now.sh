@@ -60,6 +60,7 @@ date = 2019-06-02T14:21:19.433Z
 * Hob - *10h*
 * Quake 4 - *10h*
 * Tokyo 42 - *11h*
+* Monolith - *17h*
 * Hellbade - *08h*
 * Transistor - *09h*
 * Frogger: Helmet Chaos (PSP/DS)

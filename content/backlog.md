@@ -101,6 +101,7 @@ date = 2019-06-02T14:21:19.433Z
 * Prince of Persia (2008) *14h*
 * Invisible, Inc. - *10h*
 * Mana Spark - *10h*
+* Snatcher - *09h*
 * Super Puzzle Platformer Deluxe - *09h*
 * Rayman 2: The Great Escape - *09h*
 * The Cat Lady - *09h*

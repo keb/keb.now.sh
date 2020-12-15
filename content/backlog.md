@@ -159,6 +159,7 @@ date = 2019-06-02T14:21:19.433Z
 * Live A Live - *20h*
 * Chroma Squad - *18h*
 * Contact - *18h*
+* Ori and the Will of the Wisps - *14h*
 * Phoenix Wright: Ace Attorney − Trials and Tribulations - *24h*
 * Apollo Justice: Ace Attorney - *22h*
 * The Evil Within - *20h*

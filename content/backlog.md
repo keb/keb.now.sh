@@ -6,7 +6,7 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing
 
-* Ganpuru: Gunman's Proof
+* DOOM (2016)
 
 ## In order of intended play
 
@@ -83,7 +83,6 @@ date = 2019-06-02T14:21:19.433Z
 * STAR WARS Republic Commando - *10h*
 * Parasite Eve - *12h*
 * Control - *13h*
-* DOOM (2016) - *13h*
 * Odallus: The Dark Call - *07h*
 * Lucah: Born of a Dream - *11h*
 * Dino Crisis - *09h*
@@ -379,6 +378,9 @@ date = 2019-06-02T14:21:19.433Z
   * **5/5** - The definitive way to play the greatest survival horror game of all time.
 
 ## Abandoned
+
+### Ganpuru: Gunman's Proof
+  * Ganpuru is a game released late in the Super Famicom's lifespan. A Japan-only game, Ganpuru's visuals draw heavily from The Legend of Zelda: A Link to the Past. And by "heavily" I mean it straight rips off the visuals from Zelda. Despite it's Zelda-esque appearance, Ganpuru actually plays very little like Zelda's RPG-lite gameplay, and instead feels more like a retro twin-stick shooter. My issue with Ganpuru is it's minimal gameplay loop is stretched ridiculously thin. By the second dungeon, the game already feels stale, despite it introducing more weapons for the player to use. Despite its shortcomings, Ganpuru seems like a game designed and targeted toward children, and that's likely the audience that would enjoy this game the most.
 
 ### Skygunner
   * Skygunner is a difficult game to place... and a difficult game in general. Underneath its bad anime art and cutesy exterior lies a deceivingly complex game where your performance is better measured by the amount of "cash" you obtain by the end of a mission, rather than if you completed the mission at all -- infact, completing missions is not the challenge here. Cash is essentially your score for a given mission, which can be increased further by multipliers which can be obtained by completing objectives quicker, and dispatching enemy fighters with missile chains. The catch is that every use of a weapon *lowers* your overall cash, so you must be conservative with how often you fire your weapons. The result of all of this is a bipolar difficulty curve and controls that betray your best interests -- Skygunner demands that you be precise, but in an effort to be accessible, gives the player a glossy, over-simplified control scheme. There's a brilliant game in here somewhere, but it will take the time and patience of a high-score chaser or an aerial combat enthusiast to find.

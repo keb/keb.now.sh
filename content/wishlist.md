@@ -55,7 +55,7 @@ This is a wishlist of miscellaneous stuff I intend to get.
 
 ## Acquired
 
-* ~~Physical copy of Infinite Jest by David Foster Wallace~~
+* ~~Physical copy of Infinite Jest by David Foster Wallace~~ Thanks Rob!
 * ~~Raspberry Pi 4~~
 * ~~Goodbye, Things by Fumio Sasaki~~
 * ~~Game Programming Patterns by Bob Nystrom~~

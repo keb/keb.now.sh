@@ -14,8 +14,6 @@ date = 2019-06-02T14:21:19.433Z
 
 * Gunstar Heroes - *02h*
 * Ghost Trick: Phantom Detective - *12h*
-* Mega Man X3 - *06h*
-* Mega Man Unlimited
 * ReCore - *19h*
 * Sonic the Hedgehog - *03h*
 * Sonic the Hedgehog 2 - *04h*
@@ -44,6 +42,8 @@ date = 2019-06-02T14:21:19.433Z
 * The Final Station - *05h*
 * OneShot - *07h*
 * Runestone Keeper - *06h*
+* Mega Man X3 - *06h*
+* Mega Man Unlimited
 * Mega Man 7
 * Mega Man 9
 * Mega Man 10
@@ -315,7 +315,7 @@ date = 2019-06-02T14:21:19.433Z
 ## Completed
 
 ### Mega Man X2
-  * **3/5** - A good follow-up to influential Mega Man X, albeit, as formulaic as you'd expect from a Mega Man game. What makes X2 more interesting than the original is the addition of the mid-air dash ability, which dramatically changes X's mobility and thus the pace and approach for every boss fight. Highly recommended.
+  * **3/5** - A good follow-up to the influential Mega Man X, albeit, as formulaic as you'd expect from a Mega Man game. What makes X2 more interesting than the original is the addition of the mid-air dash ability, which dramatically changes X's mobility and thus the pace and approach for every boss fight. Highly recommended.
 
 ### Shatter
   * **4/5** - A modern re-interpretation of Breakout/Arkanoid-type games. It's very, very fun.

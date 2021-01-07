@@ -12,10 +12,9 @@ date = 2019-06-02T14:21:19.433Z
 
 *Numbers in italics are estimated hours to complete.*
 
-* Mega Man X2 - *05h*
-* Mega Man X3 - *06h*
 * Gunstar Heroes - *02h*
 * Ghost Trick: Phantom Detective - *12h*
+* Mega Man X3 - *06h*
 * Mega Man Unlimited
 * ReCore - *19h*
 * Sonic the Hedgehog - *03h*
@@ -315,14 +314,17 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Completed
 
+### Mega Man X2
+  * **3/5** - A good follow-up to influential Mega Man X, albeit, as formulaic as you'd expect from a Mega Man game. What makes X2 more interesting than the original is the addition of the mid-air dash ability, which dramatically changes X's mobility and thus the pace and approach for every boss fight. Highly recommended.
+
 ### Shatter
   * **4/5** - A modern re-interpretation of Breakout/Arkanoid-type games. It's very, very fun.
 
 ### Sayonara Wild Hearts
-  * **2/5** - While the art and music complement each other nicely, Sayonara Wild Hearts feels like a videogame created by a music video director for the sole purpose of being featured in award show trailers and E3 show reels. It *looks* and *sounds* amazing, but at its best plays like an awful REZ ripoff, and at its worst (which makes up for most of the playtime) plays like an on-rails, QTE-laden, endless runner with flimsy rhythm game elements that ultimately don't really matter unless you really want to chase high scores. Perhaps this is a great game to show to friends and family who have passing interest in videogames, only for the fact that it's so flashy and visually appealing.
+  * **1/5** - While the art and music complement each other nicely, Sayonara Wild Hearts feels like a videogame created by a music video director for the sole purpose of being featured in award show trailers and E3 show reels. It *looks* and *sounds* amazing, but at its best plays like an awful REZ ripoff, and at its worst (which makes up for most of the playtime) plays like an on-rails, QTE-laden, endless runner with flimsy rhythm game elements that ultimately don't really matter unless you really want to chase high scores. Perhaps this is a great game to show to friends and family who have passing interest in videogames, only for the fact that it's so flashy and visually appealing.
 
 ### DISTRAINT
-  * **3/5** - Cool style, cool art, good job mimicking the psychological horror style made popular by games like Silent Hill. I get strong Yuri Norstein vibes. Story is pretty boring and uninteresting. Characters are not fleshed out enough to care about. Overall a decent, short adventure game experience.
+  * **2/5** - Cool style, cool art, good job mimicking the psychological horror style made popular by games like Silent Hill. I get strong Yuri Norstein vibes. Story is pretty boring and uninteresting. Characters are not fleshed out enough to care about. Overall a decent, short adventure game experience.
 
 ### ABZU
   * **2/5** - ABZU is a beautifully stylish visual experience. The gameplay, however, consists solely of opening doors, and it's as boring as it sounds. Character movement only begins to become fun during the last 15 minutes of this 1.5 hour journey.

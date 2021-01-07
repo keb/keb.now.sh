@@ -45,6 +45,10 @@ date = 2019-06-02T14:21:19.433Z
 * The Final Station - *05h*
 * OneShot - *07h*
 * Runestone Keeper - *06h*
+* Mega Man 7
+* Mega Man 9
+* Mega Man 10
+* Mega Man 11
 * Super Time Force Ultra *06h*
 * Shantae and the Pirate's Curse - *09h*
 * Titanfall 2 - *08h*

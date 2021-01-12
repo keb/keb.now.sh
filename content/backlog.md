@@ -15,6 +15,7 @@ date = 2019-06-02T14:21:19.433Z
 * Gunstar Heroes - *02h*
 * Ghost Trick: Phantom Detective - *12h*
 * ReCore - *19h*
+* Cyberpunk 2077 - *70h*
 * Sonic the Hedgehog - *03h*
 * Sonic the Hedgehog 2 - *04h*
 * Sonic the Hedgehog 3 - *04h*
@@ -265,6 +266,7 @@ date = 2019-06-02T14:21:19.433Z
 * Blades of Time - *10h*
 * Cargo Commander - *12h*
 * Dead Rising 2: Off the Record - *18h*
+* Deus Ex: Mankind Divided - *30h*
 * My Time At Portia - *98h*
 * Stardew Valley
 

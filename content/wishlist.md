@@ -13,7 +13,6 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * NVIDIA Shield TV
 * Sega Saturn
 * SNES Classic (Get from [here](https://store.nintendo.com/ng3/browse/subcategory.jsp?categoryId=cat990247))
-* Sega Genesis Mini
 * TurboGrafx-16 mini
 * Xperia XZ1 Compact or Galaxy S10e
 * KVM Switch to switch between desktop & laptop for workstation
@@ -55,6 +54,7 @@ This is a wishlist of miscellaneous stuff I intend to get.
 
 ## Acquired
 
+* ~~Sega Genesis Mini~~
 * ~~Physical copy of Infinite Jest by David Foster Wallace~~ Thanks Rob!
 * ~~Raspberry Pi 4~~
 * ~~Goodbye, Things by Fumio Sasaki~~

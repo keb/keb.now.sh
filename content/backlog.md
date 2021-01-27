@@ -134,6 +134,7 @@ date = 2019-06-02T14:21:19.433Z
 * FTL - *12h*
 * Into the Breach - *17h*
 * Rogue Legacy - *17h*
+* Dead Cells - *26h*
 * Bayonetta 2 - *13h*
 * Kirby Mass Attack - *13h*
 * Robotrek - *15h*

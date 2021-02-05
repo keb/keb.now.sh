@@ -118,6 +118,8 @@ date = 2019-06-02T14:21:19.433Z
 * Fight'N Rage - *10h*
 * Killer is Dead - *10h*
 * Resident Evil 2 Remake - *14h*
+* Trine 4 - *10h*
+* Valfaris - *09h*
 * Yooka-Laylee and the Impossible Lair - *15h*
 * Super Mario Odyssey - *15h*
 * A Hat in Time - *13h*
@@ -214,6 +216,7 @@ date = 2019-06-02T14:21:19.433Z
 * Sekiro: Shadows Die Twice - *42h*
 * Risen - *36h*
 * Valkyria Chronicles - *39h*
+* Valkyria Chronicles 4 - *40h*
 * Okami - *42h*
 * Chrono Cross - *43h*
 * Final Fantasy VII - *52h*

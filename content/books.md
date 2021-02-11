@@ -18,7 +18,7 @@ A collection of (free) web books, guides, and references by category.
 * [Nature of Code](https://natureofcode.com/book/)
 	* *"This book focuses on a range of programming strategies and techniques behind computer simulations of natural systems, from elementary concepts in mathematics and physics to more advanced algorithms that enable sophisticated visual results."*
 
-# Network Programming
+## Network Programming
 
 * [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
 	* *"This document should give the average competent C programmer the edge s/he needs to get a grip on this networking noise."*

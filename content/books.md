@@ -107,6 +107,8 @@ A collection of (free) web books, guides, and references by category.
 	* *Official Rust Book.*
 * [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/)
 	* *An official collection of runnable examples in Rust.*
+* [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
+	* *"A collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem."*
 
 ## Elixir
 

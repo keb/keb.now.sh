@@ -50,10 +50,10 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * Inverted Umbrella
 * BUG-A-SALT
 * Sonicare Electric Toothbrush
-* XPOWER A-2 Airrow Pro Multi-Use Electric Computer Duster
 
 ## Acquired
 
+* ~~XPOWER A-2 Airrow Pro Multi-Use Electric Computer Duster~~
 * ~~Sega Genesis Mini~~
 * ~~Physical copy of Infinite Jest by David Foster Wallace~~ Thanks Rob!
 * ~~Raspberry Pi 4~~

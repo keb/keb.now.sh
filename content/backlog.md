@@ -173,6 +173,7 @@ date = 2019-06-02T14:21:19.433Z
 * Mario & Luigi: Superstar Saga - *21h*
 * Mario & Luigi: Partners in Time - *20h*
 * Mario & Luigi: Bowser's Inside Story - *25h*
+* Wargroove - *20h*
 * Treasure Hunter G - *22h*
 * Brigador - *24h*
 * Chrono Trigger - *30h*

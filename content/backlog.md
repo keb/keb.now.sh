@@ -108,6 +108,7 @@ date = 2019-06-02T14:21:19.433Z
 * Super Puzzle Platformer Deluxe - *09h*
 * Rayman 2: The Great Escape - *09h*
 * The Cat Lady - *09h*
+* Due Process (Multiplayer)
 * Marvelous: Another Treasure Island - *13h*
 * Beyond Good & Evil - *12h*
 * Corpse Party - *12h*

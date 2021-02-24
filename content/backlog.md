@@ -119,6 +119,7 @@ date = 2019-06-02T14:21:19.433Z
 * Fight'N Rage - *10h*
 * Killer is Dead - *10h*
 * Resident Evil 2 Remake - *14h*
+* Samorost 3 - *05h*
 * Trine 4 - *10h*
 * Valfaris - *09h*
 * Yooka-Laylee and the Impossible Lair - *15h*

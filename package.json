@@ -1,23 +1,5 @@
 {
-  "name": "keb.now.sh",
-  "version": "1.0.0",
-  "description": "keb site",
-  "main": "null",
-  "scripts": {
-    "build": "zola build",
-    "deploy": "now ./public --prod"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/keb/keb.now.sh.git"
-  },
-  "author": "keb",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/keb/keb.now.sh/issues"
-  },
-  "homepage": "https://github.com/keb/keb.now.sh#README",
-  "dependencies": {
-    "now": "^16.7.1"
+  "devDependencies": {
+    "vercel": "^21.3.2"
   }
 }

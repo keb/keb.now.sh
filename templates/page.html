@@ -14,10 +14,6 @@
         {% for h1 in page.toc %}
             {% if h1.children %}
                 <div class="toc h5 py1">
-                    <div class="toc-header pb1">
-                        <div class="h3">{{ h1.title }}</div>
-                        <span class="light-subdue">table of contents</span>
-                    </div>
                     <ul>
                         {% for h2 in h1.children %}
                             <li>

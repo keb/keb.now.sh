@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <header class="h4 py2">
+        <a href="/">keb.now.sh</a>
+    </header>
+    <h1>archive</h1>
+    {% set section = get_section(path="_index.md") %}
+    {% for post in section.pages %}
+        <div class="archive-link">
+            <span>{{ post.date | date(format="%Y.%m.%d", timezone="America/New_York") }}</span>
+            -
+            <span><a href="{{ post.permalink }}">{{ post.title }}</a></span>
+        </div>
+    {% endfor %}
+{% endblock content %}

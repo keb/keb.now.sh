@@ -34,7 +34,7 @@
 
     <div class="line"></div>
 
-    {% for post in paginator.pages %}
+    {% for post in section.pages | slice(start=0, end=6) %}
         <article>
             <header>
                 <h2 class="mb1">
@@ -49,11 +49,6 @@
     {% endfor %}
 
     <nav class="py3">
-        {% if paginator.previous %}
-            <a href="{{ paginator.previous }}">← previous</a>
-        {% endif %}
-        {% if paginator.next %}
-            <a href="{{ paginator.next }}">next →</a>
-        {% endif %}
+        <a href="/archive/">archive →</a>
     </nav>
 {% endblock content %}

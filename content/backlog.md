@@ -284,7 +284,6 @@ date = 2019-06-02T14:21:19.433Z
 * Warhammer: Vermintide 2
 * God's Trigger
 * Divinity: Original Sin - Enhanced Edition
-* Divinity: Original Sin 2
 * Icewind Dale
 * Neverwinter Nights
 * Baldur's Gate 2
@@ -322,6 +321,9 @@ date = 2019-06-02T14:21:19.433Z
 * METAL GEAR RISING: REVENGEANCE
 
 ## Completed
+
+### Divinity: Original Sin 2
+  * **4/5** - Divinity: Original Sin 2 is a flawed game, but it's a game that wears its flaws on its sleeve. The first chapter can be a slog, and the amount of players in your party affect the experience greatly. Combat, while difficult from the onset, lures you into a false sense of security midway through the game before the difficulty curve spikes in the penultimate chapter to the point where you're wondering if you can even finish the game. So while DOS2 is still a messy, unbalanced, unforgiving Eurogame like its predecessors, its polish, clever gameplay, and sheer ambition make it shine above other modern RPGs.
 
 ### Mega Man X2
   * **3/5** - A good follow-up to the influential Mega Man X, albeit, as formulaic as you'd expect from a Mega Man game. What makes X2 more interesting than the original is the addition of the mid-air dash ability, which dramatically changes X's mobility and thus the pace and approach for every boss fight. Highly recommended.

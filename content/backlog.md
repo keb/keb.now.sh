@@ -6,13 +6,12 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing
 
-* DOOM (2016)
+* Gunstar Heroes - *02h*
 
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
 
-* Gunstar Heroes - *02h*
 * Ghost Trick: Phantom Detective - *12h*
 * ReCore - *19h*
 * Cyberpunk 2077 - *70h*
@@ -321,6 +320,9 @@ date = 2019-06-02T14:21:19.433Z
 * METAL GEAR RISING: REVENGEANCE
 
 ## Completed
+
+### DOOM (2016)
+  * **4/5** - DOOM is pure video game. Great fun, good challenge, nice visuals, cool music. Some sections are confusingly long-winded, and some of the platforming can feel unncessary. Otherwise, a perfect revival of a classic.
 
 ### Divinity: Original Sin 2
   * **4/5** - Divinity: Original Sin 2 is a flawed game, but it's a game that wears its flaws on its sleeve. The first chapter can be a slog, and the amount of players in your party affect the experience greatly. Combat, while difficult from the onset, lures you into a false sense of security midway through the game before the difficulty curve spikes in the penultimate chapter to the point where you're wondering if you can even finish the game. So while DOS2 is still a messy, unbalanced, unforgiving Eurogame like its predecessors, its polish, clever gameplay, and sheer ambition make it shine above other modern RPGs.

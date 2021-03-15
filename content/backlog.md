@@ -6,13 +6,12 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing
 
-* Gunstar Heroes - *02h*
+* Ghost Trick: Phantom Detective - *12h*
 
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
 
-* Ghost Trick: Phantom Detective - *12h*
 * ReCore - *19h*
 * Cyberpunk 2077 - *70h*
 * Sonic the Hedgehog - *03h*
@@ -320,6 +319,9 @@ date = 2019-06-02T14:21:19.433Z
 * METAL GEAR RISING: REVENGEANCE
 
 ## Completed
+
+### Gunstar Heroes
+  * **3/5** - I know I'll be tarred and feathered for this -- I honestly believe this game to be one of the most overrated games of the 16-bit era. I commend Treasure for the spectacle and exhilirating gunplay of Gunstar Heroes, not to mention the fantastic visuals and music. But this game is greatly hindered by a frustrating control scheme, and weird imprecise inputs. The levels are laid out Megaman-style, but vary greatly in difficulty. Some of the boss fights and level checkpoints are just flat out unfair. Better enjoyed with a second player.
 
 ### DOOM (2016)
   * **4/5** - DOOM is pure video game. Great fun, good challenge, nice visuals, cool music. Some sections are confusingly long-winded, and some of the platforming can feel unnecessary. Otherwise, a perfect revival of a classic.

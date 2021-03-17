@@ -72,6 +72,7 @@ date = 2019-06-02T14:21:19.433Z
 * Beyond Oasis - *06h*
 * Wizorb - *06h*
 * RUINER - *06h*
+* Little King's Story - *32h*
 * Haunting Ground - *09h*
 * Marlow Briggs - *07h*
 * Resident Evil 3 - *08h*

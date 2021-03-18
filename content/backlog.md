@@ -169,6 +169,10 @@ date = 2019-06-02T14:21:19.433Z
 * Ori and the Will of the Wisps - *14h*
 * Phoenix Wright: Ace Attorney − Trials and Tribulations - *24h*
 * Apollo Justice: Ace Attorney - *22h*
+* Ace Attorney Investigations: Miles Edgeworth - *23h*
+* Ace Attorney Investigations: Miles Edgeworth 2 - *41h*
+* Phoenix Wright: Ace Attorney – Dual Destinies - *32h*
+* Phoenix Wright: Ace Attorney − Spirit of Justice - *38h*
 * The Evil Within - *20h*
 * The Evil Within 2 - *19h*
 * Mario & Luigi: Superstar Saga - *21h*
@@ -264,6 +268,8 @@ date = 2019-06-02T14:21:19.433Z
 * Metroid: Samus Returns - *13h*
 * Energy Breaker (Japan) - *35h*
 * Death Stranding - *58h*
+* Danganronpa 2: Goodbye Despair - *41h*
+* Danganronpa V3: Killing Harmony - *51h*
 * OMORI
 * Knuckle Sandwich
 * Final Fantasy XV - *53h*

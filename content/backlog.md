@@ -12,7 +12,6 @@ date = 2019-06-02T14:21:19.433Z
 
 *Numbers in italics are estimated hours to complete.*
 
-* Cyberpunk 2077 - *70h*
 * Sonic the Hedgehog - *03h*
 * Sonic the Hedgehog 2 - *04h*
 * Sonic the Hedgehog 3 - *04h*
@@ -30,6 +29,7 @@ date = 2019-06-02T14:21:19.433Z
 * Bloodstained: Curse of the Moon - *04h*
 * Bloodstained: Ritual of the Night - *20h*
 * Bloodstained: Curse of the Moon 2 - *10h*
+* Cyberpunk 2077 - *70h*
 * Anodyne - *07h*
 * Anodyne 2 - *10h*
 * Absolute Drift - *04h*

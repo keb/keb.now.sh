@@ -6,13 +6,12 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing
 
-* Ghost Trick: Phantom Detective - *12h*
+* ReCore - *19h*
 
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
 
-* ReCore - *19h*
 * Cyberpunk 2077 - *70h*
 * Sonic the Hedgehog - *03h*
 * Sonic the Hedgehog 2 - *04h*
@@ -326,6 +325,9 @@ date = 2019-06-02T14:21:19.433Z
 * METAL GEAR RISING: REVENGEANCE
 
 ## Completed
+
+### Ghost Trick: Phantom Detective
+  * **4/5** - A story-driven puzzle/adventure detective story that weaves together themes of mystery, poltergeist, time travel, and the love between owners and their pets. Surprisingly heartfelt for a goofy, anime detective story, but about as contrived and convoluted as you'd expect from the director of the Phoenix Wright games. All of the puzzles (with the exception of 2 of them...) are clever and satisfying to solve. The characters are all distinct and likable in their own respects. The ending -- while it certainly threw me for a loop -- made me want to hug my cat.
 
 ### Gunstar Heroes
   * **3/5** - I know I'll be tarred and feathered for this -- I honestly believe this game to be one of the most overrated games of the 16-bit era. I commend Treasure for the spectacle and exhilirating gunplay of Gunstar Heroes, not to mention the fantastic visuals and music. But this game is greatly hindered by a frustrating control scheme, and weird imprecise inputs. The levels are laid out Megaman-style, but vary greatly in difficulty. Some of the boss fights and level checkpoints are just flat out unfair. Better enjoyed with a second player.

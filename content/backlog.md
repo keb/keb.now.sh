@@ -57,6 +57,7 @@ date = 2019-06-02T14:21:19.433Z
 * Yoku's Island Express - *08h*
 * Donkey Kong Country 2: Diddy's Kong Quest  - *07h*
 * Donkey Kong Country 3: Dixie Kong's Double Trouble! - *08h*
+* Donkey Kong Jungle Beat - *7h*
 * Super House of Dead Ninjas - *07h*
 * Hob - *10h*
 * Quake 4 - *10h*

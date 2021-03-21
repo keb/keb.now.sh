@@ -219,6 +219,7 @@ date = 2019-06-02T14:21:19.433Z
 * Fire Emblem Fates - *43h*
 * Fire Emblem Echoes: Shadows of Valentia - *46h*
 * Sekiro: Shadows Die Twice - *42h*
+* The World Ends with You - *46h*
 * Risen - *36h*
 * Valkyria Chronicles - *39h*
 * Valkyria Chronicles 4 - *40h*
@@ -269,6 +270,16 @@ date = 2019-06-02T14:21:19.433Z
 * Death Stranding - *58h*
 * Danganronpa 2: Goodbye Despair - *41h*
 * Danganronpa V3: Killing Harmony - *51h*
+* Professor Layton and the Curious Village - *14h*
+* Professor Layton and the Diabolical Box - *15h*
+* Professor Layton and the Unwound Future - *18h*
+* Professor Layton and the Last Specter - *18h*
+* Professor Layton and the Miracle Mask - *24h*
+* Professor Layton vs. Phoenix Wright: Ace Attorney - *28h*
+* Professor Layton and the Azran Legacy - *26h*
+* Layton's Mystery Journey - *25h*
+* Golden Sun: The Lost Age - *40h*
+* Golden Sun: Dark Dawn - *31h*
 * OMORI
 * Knuckle Sandwich
 * Final Fantasy XV - *53h*

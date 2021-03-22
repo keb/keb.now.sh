@@ -6,13 +6,12 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing
 
-* ReCore - *19h*
+* Sonic the Hedgehog
 
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
 
-* Sonic the Hedgehog - *03h*
 * Sonic the Hedgehog 2 - *04h*
 * Sonic the Hedgehog 3 - *04h*
 * Sonic CD - *04h*
@@ -420,6 +419,9 @@ date = 2019-06-02T14:21:19.433Z
   * **5/5** - The definitive way to play the greatest survival horror game of all time.
 
 ## Abandoned
+
+### ReCore
+  * A thoroughly mediocre experience directed and designed by some of the minds behind the hailed Metroid Prime trilogy. I'm not sure what happened here -- there are good ideas that are half-implemented all over the place. Production values are also wildly inconsistent. The main character is about as bland and generic as they come for video games. My only guess is that they ran out of budget and time. It's strange; ReCore is not *bad*, but it's very *not good*. Might revisit in the future, but not looking forward to it.
 
 ### Ganpuru: Gunman's Proof
   * Ganpuru is a game released late in the Super Famicom's lifespan. A Japan-only game, Ganpuru's visuals draw heavily from The Legend of Zelda: A Link to the Past. And by "heavily" I mean it straight rips off the visuals from Zelda. Despite it's Zelda-esque appearance, Ganpuru actually plays very little like Zelda's RPG-lite gameplay, and instead feels more like a retro twin-stick shooter. My issue with Ganpuru is its minimal gameplay loop is stretched ridiculously thin. By the second dungeon, the game already feels stale, despite it introducing more weapons for the player to use. Despite its shortcomings, Ganpuru seems like a game designed and targeted toward children, and that's likely the audience that would enjoy this game the most.

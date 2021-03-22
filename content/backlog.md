@@ -328,6 +328,7 @@ date = 2019-06-02T14:21:19.433Z
 * Tactics Ogre: Let Us Cling Together
 * Super Mario RPG: Legend of the Seven Stars
 * Super Mario Galaxy
+* Super Mario Sunshine
 * Super Metroid
 * Jak 3
 * Celeste (finish B-Sides)

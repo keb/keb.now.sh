@@ -105,6 +105,7 @@ date = 2019-06-02T14:21:19.433Z
 * Snatcher - *09h*
 * Super Puzzle Platformer Deluxe - *09h*
 * Rayman 2: The Great Escape - *09h*
+* Maximo: Ghosts to Glory - *08h*
 * The Cat Lady - *09h*
 * Due Process (Multiplayer)
 * Marvelous: Another Treasure Island - *13h*
@@ -115,6 +116,7 @@ date = 2019-06-02T14:21:19.433Z
 * Wuppo: Definitive Edition - *11h*
 * Metal Arms: Glitch in the System - *14h*
 * Fight'N Rage - *10h*
+* Viewtiful Joe 2
 * Killer is Dead - *10h*
 * Resident Evil 2 Remake - *14h*
 * Samorost 3 - *05h*
@@ -219,11 +221,14 @@ date = 2019-06-02T14:21:19.433Z
 * Fire Emblem Fates - *43h*
 * Fire Emblem Echoes: Shadows of Valentia - *46h*
 * Sekiro: Shadows Die Twice - *42h*
+* Dragon's Crown - *21h*
 * The World Ends with You - *46h*
 * Risen - *36h*
 * Valkyria Chronicles - *39h*
 * Valkyria Chronicles 4 - *40h*
 * Okami - *42h*
+* Ninja Gaiden Black - *17h*
+* Ninja Gaiden 2 - *18h*
 * Chrono Cross - *43h*
 * Final Fantasy VII - *52h*
 * Final Fantasy VIII - *58h*
@@ -270,6 +275,10 @@ date = 2019-06-02T14:21:19.433Z
 * Death Stranding - *58h*
 * Danganronpa 2: Goodbye Despair - *41h*
 * Danganronpa V3: Killing Harmony - *51h*
+* Ni no Kuni: Wrath of the White Witch - *56h*
+* Ni no Kuni II: Revenant Kingdom - *54h*
+* Onimusha 2: Samurai's Destiny - *12h*
+* Onimusha 3: Demon Siege - *14h*
 * Professor Layton and the Curious Village - *14h*
 * Professor Layton and the Diabolical Box - *15h*
 * Professor Layton and the Unwound Future - *18h*
@@ -280,6 +289,7 @@ date = 2019-06-02T14:21:19.433Z
 * Layton's Mystery Journey - *25h*
 * Golden Sun: The Lost Age - *40h*
 * Golden Sun: Dark Dawn - *31h*
+* Legacy of Kain: Defiance - *15h*
 * OMORI
 * Knuckle Sandwich
 * Final Fantasy XV - *53h*
@@ -290,6 +300,7 @@ date = 2019-06-02T14:21:19.433Z
 * Dead Rising 2: Off the Record - *18h*
 * Deus Ex: Mankind Divided - *30h*
 * My Time At Portia - *98h*
+* Eternal Sonata - *40h*
 * Stardew Valley
 
 ## Co-Op (No particular order)
@@ -335,6 +346,10 @@ date = 2019-06-02T14:21:19.433Z
 * Bastion
 * Dead Space
 * METAL GEAR RISING: REVENGEANCE
+* Viewtiful Joe
+* God of War II
+* Drakengard
+* Maximo vs. Army of Zin
 
 ## Completed
 

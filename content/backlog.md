@@ -6,13 +6,12 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing
 
-* Sonic the Hedgehog
+* Sonic the Hedgehog 2 - *04h*
 
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
 
-* Sonic the Hedgehog 2 - *04h*
 * Sonic the Hedgehog 3 - *04h*
 * Sonic CD - *04h*
 * Sonic Mania - *09h*
@@ -352,6 +351,9 @@ date = 2019-06-02T14:21:19.433Z
 * Maximo vs. Army of Zin
 
 ## Completed
+
+### Sonic the Hedgehog
+  * **2/5** - Sonic the Hedgehog contradicts itself regularly. Sonic is supposed to go *fast*, but the screen is so tiny, this results in the player regularly running into spikes or enemies, or a gap where you fall to your death. Fine, Sonic wants me to slow down for some precise platforming. Or maybe not.. because Sonic controls so slippery and the jumping is floaty as all hell. The music is also all over the place. There are probably three *good* tracks on here, while the rest ranges from forgettable to downright obnoxious. This game has not aged well, to say the least.
 
 ### Ghost Trick: Phantom Detective
   * **4/5** - A story-driven puzzle/adventure detective story that weaves together themes of mystery, poltergeist, time travel, and the love between owners and their pets. Surprisingly heartfelt for a goofy, anime detective story, but about as contrived and convoluted as you'd expect from the director of the Phoenix Wright games. All of the puzzles (with the exception of 2 of them...) are clever and satisfying to solve. The characters are all distinct and likable in their own respects. The ending -- while it certainly threw me for a loop -- made me want to hug my cat.

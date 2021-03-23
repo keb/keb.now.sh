@@ -16,6 +16,7 @@ date = 2019-06-02T14:21:19.433Z
 * Sonic CD - *04h*
 * Sonic Mania - *09h*
 * Sonic Generations - *11h*
+* Sonic Colors (DS) - *07h*
 * Freedom Planet - *08h*
 * Brutal Doom
 * Katamari Damacy REROLL - *05h*

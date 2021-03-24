@@ -6,11 +6,12 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing
 
+* Sonic the Hedgehog 3 - *04h*
+
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
 
-* Sonic the Hedgehog 3 - *04h*
 * Sonic CD - *04h*
 * Sonic Mania - *09h*
 * Sonic Generations - *11h*

@@ -12,6 +12,7 @@ date = 2019-06-02T14:21:19.433Z
 
 *Numbers in italics are estimated hours to complete.*
 
+* Sonic & Knuckles - *04h*
 * Sonic CD - *04h*
 * Sonic Mania - *09h*
 * Sonic Generations - *11h*

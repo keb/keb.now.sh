@@ -6,8 +6,6 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing
 
-* Sonic the Hedgehog 2 - *04h*
-
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
@@ -352,6 +350,9 @@ date = 2019-06-02T14:21:19.433Z
 * Maximo vs. Army of Zin
 
 ## Completed
+
+### Sonic the Hedgehog 2
+  * **3/5** - While it suffers from a lot of the same issues as its predecessor, Sonic 2 is much more accessible, entertaining, and diverse than the original. The levels are much more forgiving and receptive to players who just wanna "go fast." The OST is also significantly improved. A couple of awful levels (Sky Chase Zone) and boring (easy) bosses. Multiplayer is a welcome addition, if not, barebones.
 
 ### Sonic the Hedgehog
   * **2/5** - Sonic the Hedgehog contradicts itself regularly. Sonic is supposed to go *fast*, but the screen is so tiny, this results in the player regularly running into spikes or enemies, or a gap where you fall to your death. Fine, Sonic wants me to slow down for some precise platforming. Or maybe not.. because Sonic controls so slippery and the jumping is floaty as all hell. The music is also all over the place. There are probably three *good* tracks on here, while the rest ranges from forgettable to downright obnoxious. This game has not aged well, to say the least.

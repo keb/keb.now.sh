@@ -27,6 +27,7 @@ date = 2019-06-02T14:21:19.433Z
 * Bloodstained: Curse of the Moon - *04h*
 * Bloodstained: Ritual of the Night - *20h*
 * Bloodstained: Curse of the Moon 2 - *10h*
+* Hollow Knight - *32h*
 * Cyberpunk 2077 - *70h*
 * Anodyne - *07h*
 * Anodyne 2 - *10h*
@@ -192,7 +193,6 @@ date = 2019-06-02T14:21:19.433Z
 * The Surge - *28h*
 * Earthbound - *32h*
 * Mother 3 - *30h*
-* Hollow Knight - *32h*
 * Thronebreaker: The Witcher Tales - *32h*
 * Alundra - *32h*
 * Vagrant Story - *33h*

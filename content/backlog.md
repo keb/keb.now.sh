@@ -6,7 +6,7 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing
 
-* Sonic the Hedgehog 3 - *04h*
+* Brutal Doom
 
 ## In order of intended play
 
@@ -18,7 +18,6 @@ date = 2019-06-02T14:21:19.433Z
 * Sonic Generations - *11h*
 * Sonic Colors (DS) - *07h*
 * Freedom Planet - *08h*
-* Brutal Doom
 * Katamari Damacy REROLL - *05h*
 * Axelay - *02h*
 * Super Castlevania IV - *05h*
@@ -352,6 +351,9 @@ date = 2019-06-02T14:21:19.433Z
 * Maximo vs. Army of Zin
 
 ## Completed
+
+### Sonic the Hedgehog 3
+  * **4/5** - 2D Sonic at its best on the Genesis. The level design guides the player and actually encourages exploration and for the player to slow down. Roller coaster sections are less frustrating and filled with much less cheap deaths & enemy placements. Level transitions are a great addition, and the OST is significantly better than the previous two entries.
 
 ### Sonic the Hedgehog 2
   * **3/5** - While it suffers from a lot of the same issues as its predecessor, Sonic 2 is much more accessible, entertaining, and diverse than the original. The levels are much more forgiving and receptive to players who just wanna "go fast." The OST is also significantly improved. A couple of awful levels (Sky Chase Zone) and boring (easy) bosses. Multiplayer is a welcome addition, if not, barebones.

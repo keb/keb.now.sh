@@ -17,6 +17,7 @@ date = 2019-06-02T14:21:19.433Z
 * Sonic Mania - *09h*
 * Sonic Generations - *11h*
 * Sonic Colors (DS) - *07h*
+* Sonic Robo Blast 2 - *05h*
 * Freedom Planet - *08h*
 * Katamari Damacy REROLL - *05h*
 * Axelay - *02h*

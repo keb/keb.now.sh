@@ -354,6 +354,9 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Completed
 
+### Donkey Kong Country
+  * **5/5** - Donkey Kong Country is not a perfect game, but it nears perfection so often, I can't help but heap mountains of praise on it. The pre-rendered sprites have aged remarkably well, due in part to some impeccable character and level design by Rare & co. Despite rumors that Miyamoto was bitter about DKC and Rare's handling of his beloved franchise, the opposite is actually true; Miyamoto played a crucial role in DKC's production and gave his blessings to the British development studio. And you can tell -- Donkey Kong Country is distinctively a Nintendo platformer. The soundtrack by David Wise is also an ambient/synthwave masterpiece.
+
 ### Sonic the Hedgehog 3
   * **4/5** - 2D Sonic at its best on the Genesis. The level design guides the player and actually encourages exploration and for the player to slow down. Roller coaster sections are less frustrating and filled with much less cheap deaths & enemy placements. Level transitions are a great addition, and the OST is significantly better than the previous two entries.
 

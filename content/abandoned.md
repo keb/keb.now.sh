@@ -5,6 +5,8 @@ date = 2021-03-30T14:21:19.433Z
 
 # abandoned
 
+[← backlog](/backlog)
+
 ## ReCore
   * A thoroughly mediocre experience directed and designed by some of the minds behind the hailed Metroid Prime trilogy. I'm not sure what happened here -- there are good ideas that are half-implemented all over the place. Production values are also wildly inconsistent. The main character is about as bland and generic as they come for video games. My only guess is that they ran out of budget and time. It's strange; ReCore is not *bad*, but it's very *not good*. Might revisit in the future, but not looking forward to it.
 

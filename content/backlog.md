@@ -14,25 +14,47 @@ date = 2019-06-02T14:21:19.433Z
 
 * Hagane: The Final Conflict - *02h*
 * Sonic & Knuckles - *04h*
+* Super Castlevania IV - *05h*
+* Castlevania: Symphony of the Night - *13h*
 * Sonic CD - *04h*
 * Sonic Mania - *09h*
+* Donkey Kong Country 2: Diddy's Kong Quest  - *07h*
+* Donkey Kong Country 3: Dixie Kong's Double Trouble! - *08h*
+* Monolith - *17h*
+* Hollow Knight - *32h*
 * Sonic Generations - *11h*
 * Sonic Colors (DS) - *07h*
 * Sonic Robo Blast 2 - *05h*
+* Anodyne - *07h*
+* Anodyne 2 - *10h*
+* Silent Hill 4 - *09h*
+* Resident Evil 3 - *08h*
+* Resident Evil: Code Veronica - *15h*
+* Resident Evil 2 Remake - *14h*
+* Rayman 2: The Great Escape - *09h*
+* Maximo: Ghosts to Glory - *08h*
+* Super Mario Odyssey - *15h*
+* Chrono Trigger - *30h*
+* Metal Arms: Glitch in the System - *14h*
+* Front Mission Series: Gun Hazard - *18h*
+* Geometry Wars 3: Dimensions Evolved - *14h*
+* FTL - *12h*
+* Into the Breach - *17h*
+* Rogue Legacy - *17h*
+* Dead Cells - *26h*
+* Bayonetta 2 - *13h*
+* Mario & Luigi: Superstar Saga - *21h*
+* Mario & Luigi: Partners in Time - *20h*
+* Mario & Luigi: Bowser's Inside Story - *25h*
 * Freedom Planet - *08h*
 * Katamari Damacy REROLL - *05h*
 * Axelay - *02h*
-* Super Castlevania IV - *05h*
 * Castlevania: Bloodlines - *04h*
-* Castlevania: Symphony of the Night - *13h*
 * Castlevania: Aria of Sorrow - *08h*
 * Bloodstained: Curse of the Moon - *04h*
 * Bloodstained: Ritual of the Night - *20h*
 * Bloodstained: Curse of the Moon 2 - *10h*
-* Hollow Knight - *32h*
 * Cyberpunk 2077 - *70h*
-* Anodyne - *07h*
-* Anodyne 2 - *10h*
 * Absolute Drift - *04h*
 * Misao - *03h*
 * Piku Niku - *03h*
@@ -56,19 +78,15 @@ date = 2019-06-02T14:21:19.433Z
 * Ganbare Goemon 3: Shishijyūrokubei no Karakuri Manji Katame - *08h*
 * Ganbare Goemon Kirakira Douchū: Boku ga Dancer ni Natta Wake - *05h*
 * Yoku's Island Express - *08h*
-* Donkey Kong Country 2: Diddy's Kong Quest  - *07h*
-* Donkey Kong Country 3: Dixie Kong's Double Trouble! - *08h*
 * Donkey Kong Jungle Beat - *7h*
 * Super House of Dead Ninjas - *07h*
 * Hob - *10h*
 * Quake 4 - *10h*
 * Tokyo 42 - *11h*
-* Monolith - *17h*
 * Hellbade - *08h*
 * Transistor - *09h*
 * Frogger: Helmet Chaos (PSP/DS)
 * Infested Planet - *10h*
-* Silent Hill 4 - *09h*
 * Out There Somewhere - *02h*
 * Beyond Oasis - *06h*
 * Wizorb - *06h*
@@ -76,8 +94,6 @@ date = 2019-06-02T14:21:19.433Z
 * Little King's Story - *32h*
 * Haunting Ground - *09h*
 * Marlow Briggs - *07h*
-* Resident Evil 3 - *08h*
-* Resident Evil: Code Veronica - *15h*
 * Resident Evil: Revelations - *13h*
 * Resident Evil: Revelations 2 - *15h*
 * Resident Evil 7 - *12h*
@@ -106,8 +122,6 @@ date = 2019-06-02T14:21:19.433Z
 * Mana Spark - *10h*
 * Snatcher - *09h*
 * Super Puzzle Platformer Deluxe - *09h*
-* Rayman 2: The Great Escape - *09h*
-* Maximo: Ghosts to Glory - *08h*
 * The Cat Lady - *09h*
 * Due Process (Multiplayer)
 * Marvelous: Another Treasure Island - *13h*
@@ -116,16 +130,13 @@ date = 2019-06-02T14:21:19.433Z
 * Rocket: Robot on Wheels - *10h*
 * They Bleed Pixels - *11h*
 * Wuppo: Definitive Edition - *11h*
-* Metal Arms: Glitch in the System - *14h*
 * Fight'N Rage - *10h*
 * Viewtiful Joe 2
 * Killer is Dead - *10h*
-* Resident Evil 2 Remake - *14h*
 * Samorost 3 - *05h*
 * Trine 4 - *10h*
 * Valfaris - *09h*
 * Yooka-Laylee and the Impossible Lair - *15h*
-* Super Mario Odyssey - *15h*
 * A Hat in Time - *13h*
 * VA-11 Hall-A - *13h*
 * Illusion of Gaia - *14h*
@@ -135,13 +146,6 @@ date = 2019-06-02T14:21:19.433Z
 * Thumper - *15h*
 * Dishonored II - *16h*
 * Moon Remix RPG - *17h*
-* Front Mission Series: Gun Hazard - *18h*
-* Geometry Wars 3: Dimensions Evolved - *14h*
-* FTL - *12h*
-* Into the Breach - *17h*
-* Rogue Legacy - *17h*
-* Dead Cells - *26h*
-* Bayonetta 2 - *13h*
 * Kirby Mass Attack - *13h*
 * Robotrek - *15h*
 * Volgarr the Viking - *14h*
@@ -178,13 +182,9 @@ date = 2019-06-02T14:21:19.433Z
 * Phoenix Wright: Ace Attorney − Spirit of Justice - *38h*
 * The Evil Within - *20h*
 * The Evil Within 2 - *19h*
-* Mario & Luigi: Superstar Saga - *21h*
-* Mario & Luigi: Partners in Time - *20h*
-* Mario & Luigi: Bowser's Inside Story - *25h*
 * Wargroove - *20h*
 * Treasure Hunter G - *22h*
 * Brigador - *24h*
-* Chrono Trigger - *30h*
 * Rain World - *29h*
 * Secret of Mana - *25h*
 * Trials of Mana (1996) - *24h*

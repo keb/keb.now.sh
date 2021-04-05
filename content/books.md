@@ -22,6 +22,8 @@ A collection of (free) web books, guides, and references by category.
 
 * [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
 	* *"This document should give the average competent C programmer the edge s/he needs to get a grip on this networking noise."*
+* [Ethernet and IP Networking 101](https://iximiuz.com/en/posts/computer-networking-101/)
+	* *A software engineer's attempt at understanding and explaining networking in basic terms.*
 
 ## HTML/CSS
 * [MarkSheet](https://marksheet.io/)

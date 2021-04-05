@@ -6,6 +6,9 @@ date = 2021-03-30T14:21:19.433Z
 
 [← backlog](/backlog)
 
+## Brutal DOOM (Ultimate DOOM)
+  * **3/5** - A ridiculously fun mod and twist on the original DOOM Engine games. I played most of Ultimate DOOM with the Brutal DOOM mod using GZDoom. While I loved almost all of the new additions, the level design of DOOM 1 has not aged the greatest. Having been designed with aiming restricted to a single axis of motion, most of the levels feel frustratingly flat when compared to modern shooters. Even with auto-aim turned off, I found it surprisingly easy to mow down enemies until their HP levels got comically high in what felt like artificial difficulty hikes. Otherwise, highly recommended.
+
 ## Donkey Kong Country
   * **5/5** - Donkey Kong Country is not a perfect game, but it nears perfection so often, I can't help but heap mountains of praise on it. The pre-rendered sprites have aged remarkably well, due in part to some impeccable character and level design by Rare & co. Despite rumors that Miyamoto was bitter about DKC and Rare's handling of his beloved franchise, the opposite is actually true; Miyamoto played a crucial role in DKC's production and gave his blessings to the British development studio. And you can tell -- Donkey Kong Country is distinctively a Nintendo platformer. The soundtrack by David Wise is also an ambient/synthwave masterpiece.
 

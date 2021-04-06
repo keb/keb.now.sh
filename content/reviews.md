@@ -7,7 +7,7 @@ date = 2021-03-30T14:21:19.433Z
 [← backlog](/backlog)
 
 ## Hagane: The Final Conflict
-  * **2/5** - Fantastic combat and art direction. Frustratingly imprecise and tedious platforming, which unfortunately, makes up for most of this game's challenge. Recommended if you absolutely love punching your TV.
+  * **2/5** - Fantastic combat and art direction. Frustratingly imprecise and tedious platforming, which unfortunately, makes up for most of this game's challenge. Most of the bosses, while fun, are *far* too easy. Recommended if you absolutely love punching your TV.
 
 ## Brutal DOOM (Ultimate DOOM)
   * **3/5** - A ridiculously fun mod and twist on the original DOOM Engine games. I played most of Ultimate DOOM with the Brutal DOOM mod using GZDoom. While I loved almost all of the new additions, the level design of DOOM 1 has not aged the greatest. Having been designed with aiming restricted to a single axis of motion, most of the levels feel frustratingly flat when compared to modern shooters. Even with auto-aim turned off, I found it surprisingly easy to mow down enemies until their HP levels got comically high in what felt like artificial difficulty hikes. Otherwise, highly recommended.

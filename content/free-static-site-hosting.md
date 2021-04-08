@@ -17,3 +17,6 @@ Consider this a sister blog post to my last, but here is a list of free static s
 * [neocities.org](https://neocities.org)
 * [glitch.me](https://glitch.com/)
 * [clodui](https://www.clodui.com/)
+* [render](https://render.com/)
+* [cloudflare pages](https://pages.cloudflare.com/)
+* [codeberg pages](https://docs.codeberg.org/codeberg-pages/)

@@ -4,6 +4,9 @@ date = 2019-06-02T14:21:19.433Z
 +++
 # game backlog
 
+[Reviews (Completed)](/reviews)
+[Abandoned](/abandoned)
+
 ## Currently playing
 
 * Sonic & Knuckles - *04h*
@@ -350,9 +353,3 @@ date = 2019-06-02T14:21:19.433Z
 * God of War II
 * Drakengard
 * Maximo vs. Army of Zin
-
-## Completed
-*[See Reviews](/reviews)*
-
-## Abandoned
-*[See Abandoned](/abandoned)*

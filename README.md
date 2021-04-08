@@ -1,8 +1,8 @@
-# [keb.now.sh](https://keb.now.sh)
-
 Homepage.
 
-mirrors:
+[keb.github.io](https://keb.github.io)
+
+[keb.vercel.app](https://keb.vercel.app)
 
 [keb.netlify.app](https://keb.netlify.app)
 

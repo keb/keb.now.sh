@@ -6,6 +6,9 @@ date = 2021-03-30T14:21:19.433Z
 
 [← backlog](/backlog)
 
+## Super Mario World 2: Yoshi's Island
+  * **5/5** - About as perfect as 2D platformers get, with arguably the best level design seen in a Nintendo game. Everything here is Miyamoto/Tezuka/Kondo at their absolute peak. Plain masterpiece.
+
 ## Hagane: The Final Conflict
   * **2/5** - Fantastic combat and art direction. Frustratingly imprecise and tedious platforming, which unfortunately, makes up for most of this game's challenge. Most of the bosses, while fun, are *far* too easy. Recommended if you absolutely love punching your TV.
 

@@ -6,7 +6,10 @@ date = 2021-03-30T14:21:19.433Z
 
 [← backlog](/backlog)
 
-## Super Mario World 2: Yoshi's Island
+## Tactics Ogre: Let Us Cling Together (Classic Review)
+  * **5/5** - The gold standard of tactical role-playing games, and the Matsuno/Sakamoto/Yoshida trifecta in full force -- masterclass art direction, music, and combat design. Branching story paths and multiple endings that are radically different, where team composition and story choices have real and dire consequences. PSP remake highly recommended.
+
+## Super Mario World 2: Yoshi's Island (Classic Review)
   * **5/5** - About as perfect as 2D platformers get, with arguably the best level design seen in a Nintendo game. Everything here is Miyamoto/Tezuka/Kondo at their absolute peak. Plain masterpiece.
 
 ## Hagane: The Final Conflict
@@ -15,7 +18,7 @@ date = 2021-03-30T14:21:19.433Z
 ## Brutal DOOM (Ultimate DOOM)
   * **3/5** - A ridiculously fun mod and twist on the original DOOM Engine games. I played most of Ultimate DOOM with the Brutal DOOM mod using GZDoom. While I loved almost all of the new additions, the level design of DOOM 1 has not aged the greatest. Having been designed with aiming restricted to a single axis of motion, most of the levels feel frustratingly flat when compared to modern shooters. Even with auto-aim turned off, I found it surprisingly easy to mow down enemies until their HP levels got comically high in what felt like artificial difficulty hikes. Otherwise, highly recommended.
 
-## Donkey Kong Country
+## Donkey Kong Country (Classic Review)
   * **5/5** - Donkey Kong Country is not a perfect game, but it nears perfection so often, I can't help but heap mountains of praise on it. The pre-rendered sprites have aged remarkably well, due in part to some impeccable character and level design by Rare & co. Despite rumors that Miyamoto was bitter about DKC and Rare's handling of his beloved franchise, the opposite is actually true; Miyamoto played a crucial role in DKC's production and gave his blessings to the British development studio. And you can tell -- Donkey Kong Country is distinctively a Nintendo platformer. The soundtrack by David Wise is also an ambient/synthwave masterpiece.
 
 ## Sonic the Hedgehog 3

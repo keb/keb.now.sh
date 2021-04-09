@@ -15,7 +15,6 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * SNES Classic (Get from [here](https://store.nintendo.com/ng3/browse/subcategory.jsp?categoryId=cat990247))
 * TurboGrafx-16 mini
 * Xperia XZ1 Compact or Galaxy S10e
-* KVM Switch to switch between desktop & laptop for workstation
 * Sony Trinitron
 * PS3 Slim or Super Slim
 * Dualshock 3

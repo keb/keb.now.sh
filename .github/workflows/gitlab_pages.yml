@@ -3,7 +3,7 @@ name: Mirror and run GitLab CI
 on:
   push:
     branches:
-      - gh-pages
+      - master
 
 jobs:
   build:

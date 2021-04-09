@@ -1,6 +1,10 @@
 Homepage.
 
+[keb.sheev.net](https://keb.sheev.net)
+
 [keb.now.sh](https://keb.now.sh)
+
+[kebg.gitlab.io](https://kebg.gitlab.io)
 
 [keb.github.io](https://keb.github.io)
 

@@ -2,7 +2,7 @@ Homepage.
 
 [keb.sheev.net](https://keb.sheev.net)
 
-[keb.now.sh](https://keb.now.sh)
+[keb.vercel.app](https://keb.vercel.app)
 
 [kebg.gitlab.io](https://kebg.gitlab.io)
 

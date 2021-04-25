@@ -4,8 +4,38 @@
 	<link href="/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2021-04-10T14:21:19.433+00:00</updated>
+	<updated>2021-04-25T02:34:47.328+00:00</updated>
 	<id>/atom.xml</id>
+	<entry xml:lang="en">
+		<title>irc</title>
+		<published>2021-04-25T02:34:47.328+00:00</published>
+		<updated>2021-04-25T02:34:47.328+00:00</updated>
+		<link href="/irc/" type="text/html"/>
+		<id>/irc/</id>
+		<content type="html">&lt;h1 id=&quot;irc&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#irc&quot; aria-label=&quot;Anchor link for: irc&quot;&gt;#&lt;&#x2F;a&gt;irc&lt;&#x2F;h1&gt;
+&lt;p&gt;Below is one of my favorite IRC exchanges I&#x27;ve had.&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#2b303b;&quot;&gt;
+&lt;code&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;&amp;lt;keb&amp;gt; Is anyone familiar with MS Sql? I know this isn&amp;#39;t the right channel, but the general SQL and ASP.NET channels are rather inactive. Just need help making one query.
+&amp;lt;thumbs&amp;gt; keb: ask #sql
+&amp;lt;thumbs&amp;gt; keb: you&amp;#39;re very welcome.
+&amp;lt;keb&amp;gt; And I&amp;#39;m unfamiliar with ASP.NET and MS Sql.
+&amp;lt;thumbs&amp;gt; keb: ask #sql
+&amp;lt;keb&amp;gt; thumbs, lol I did.
+&amp;lt;keb&amp;gt; thumbs, you just said that lol
+&amp;lt;thumbs&amp;gt; keb: perfect. Then you&amp;#39;re done here.
+&amp;lt;keb&amp;gt; thumbs, lol, should I leave?
+&amp;lt;thumbs&amp;gt; keb: feel free to idle and ask questions related to MySQL.
+&amp;lt;keb&amp;gt; thumbs, who created MySQL?
+&amp;lt;thumbs&amp;gt; keb: you may not ask MSSQL questions here, however.
+&amp;lt;thumbs&amp;gt; keb: google it.
+&amp;lt;keb&amp;gt; thumbs, can I use MySQL with Sega Genesis?
+&amp;lt;thumbs&amp;gt; keb: sensible questions.
+&amp;lt;keb&amp;gt; thumbs, what&amp;#39;s the difference between MySQL and a ham sandwich?
+* ChanServ sets quiet on *!*keb@pool-72-69-37-68.nycmny.fios.verizon.net
+&amp;lt;keb&amp;gt; lol
+* #mysql :Cannot send to channel
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>new home &#x2F; mirrors</title>
 		<published>2021-04-10T14:21:19.433+00:00</published>

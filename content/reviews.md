@@ -6,6 +6,9 @@ date = 2021-03-30T14:21:19.433Z
 
 [← backlog](/backlog)
 
+## Sonic & Knuckles
+  * **3/5** - What was supposed to be the second half of Sonic 3 ends up feeling like a collection of cuts that didn't quite make it instead of an equal half. S&K starts out pretty strong, but starts to falter as the game struggles to the finish line. Some bosses are questionable (the first phase of that last boss?) as usual in Sonic games. Knuckles is a great joy to control and makes level traversal far more interesting. My suggestion to newcomers is to just start with the Knuckles campaign.
+
 ## Tactics Ogre: Let Us Cling Together (Classic Review)
   * **5/5** - The gold standard of tactical role-playing games, and the Matsuno/Sakamoto/Yoshida trifecta in full force -- masterclass art direction, music, and combat design. Branching story paths and multiple endings that are radically different, where team composition and story choices have real and dire consequences. PSP remake highly recommended.
 

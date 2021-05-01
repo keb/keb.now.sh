@@ -9,13 +9,12 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing
 
-* Super Castlevania IV - *05h*
+* Castlevania: Symphony of the Night - *13h*
 
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
 
-* Castlevania: Symphony of the Night - *13h*
 * Sonic CD - *04h*
 * Sonic Mania - *09h*
 * Donkey Kong Country 2: Diddy's Kong Quest  - *07h*

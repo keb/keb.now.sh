@@ -228,6 +228,7 @@ date = 2019-06-02T14:21:19.433Z
 * Final Fantasy V - *37h*
 * XCOM: Enemy Within - *38h*
 * Prey + DLC - *40h*
+* Tales of Vesperia: Definitive Edition - *70h*
 * Ogre Battle: The March of the Black Queen - *25h*
 * Ogre Battle 64: Person of Lordly Caliber - *66h*
 * Fire Emblem: Shadow Dragon - *25h*

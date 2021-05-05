@@ -81,6 +81,7 @@ date = 2019-06-02T14:21:19.433Z
 * Yakuza 0 - *60h*
 * Yakuza Kiwami - *30h*
 * Xenogears - *65h*
+* Indivisible - *22h*
 * Final Fantasy Tactics: Advance - *73h*
 * Super Mario Galaxy 2 - *20h*
 * Shining Force II - *31h*

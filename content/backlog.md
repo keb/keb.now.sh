@@ -31,6 +31,7 @@ date = 2019-06-02T14:21:19.433Z
 * Resident Evil 3 - *08h*
 * Resident Evil: Code Veronica - *15h*
 * Resident Evil 2 Remake - *14h*
+* Resident Evil 7 - *12h*
 * Rayman 2: The Great Escape - *09h*
 * Maximo: Ghosts to Glory - *08h*
 * Super Mario Odyssey - *15h*
@@ -45,7 +46,6 @@ date = 2019-06-02T14:21:19.433Z
 * Rogue Legacy - *17h*
 * Dead Cells - *26h*
 * Bayonetta 2 - *13h*
-* Resident Evil 7 - *12h*
 * Corpse Party - *12h*
 * Donkey Kong Country Returns (Wii U) - *20h*
 * Donkey Kong Country: Tropical Freeze - *20h*

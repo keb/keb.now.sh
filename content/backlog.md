@@ -201,6 +201,9 @@ date = 2019-06-02T14:21:19.433Z
 * Chroma Squad - *18h*
 * Contact - *18h*
 * Ori and the Will of the Wisps - *14h*
+* Ape Escape - *10h*
+* Ape Escape 2 - *10h*
+* Ape Escape 3 - *09h*
 * Phoenix Wright: Ace Attorney − Trials and Tribulations - *24h*
 * Apollo Justice: Ace Attorney - *22h*
 * Ace Attorney Investigations: Miles Edgeworth - *23h*

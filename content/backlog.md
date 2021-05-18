@@ -38,6 +38,7 @@ date = 2019-06-02T14:21:19.433Z
 * Chrono Trigger - *30h*
 * Terranigma - *19h*
 * Robotrek - *15h*
+* Okami - *42h*
 * Metal Arms: Glitch in the System - *14h*
 * Front Mission Series: Gun Hazard - *18h*
 * Geometry Wars 3: Dimensions Evolved - *14h*
@@ -68,7 +69,6 @@ date = 2019-06-02T14:21:19.433Z
 * Sekiro: Shadows Die Twice - *42h*
 * Final Fantasy VII - *52h*
 * Demon's Souls - *40h*
-* Okami - *42h*
 * Final Fantasy Tactics - *58h*
 * OMORI
 * Radiant Historia - *40h*

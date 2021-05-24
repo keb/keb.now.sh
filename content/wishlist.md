@@ -9,21 +9,19 @@ This is a wishlist of miscellaneous stuff I intend to get.
 ## Devices
 * Thinkpad x220 w/ i5-2540M & 8GB RAM **OR** ThinkPad X1 Carbon 4th Gen or 6th Gen & Laptop Stand
 * PolyMega Retro Game Station
-* Analogue Super NT
 * NVIDIA Shield TV
 * Sega Saturn
 * SNES Classic (Get from [here](https://store.nintendo.com/ng3/browse/subcategory.jsp?categoryId=cat990247))
 * TurboGrafx-16 mini
-* Xperia XZ1 Compact or Galaxy S10e
+* Xperia XZ1 Compact or Galaxy S10e or Pixel 3a
 * Sony Trinitron
-* PS3 Slim or Super Slim
-* Dualshock 3
 
 ## Books
 * Crafting Interpreters by Bob Nystrom
 
 ## Software
 * VPS Credit from Linode
+* Sublime Text 4 license
 * Sublime Merge license
 
 ## Games
@@ -52,6 +50,8 @@ This is a wishlist of miscellaneous stuff I intend to get.
 
 ## Acquired
 
+* ~~Analogue Super NT~~
+* ~~PS3 Slim or Super Slim~~
 * ~~XPOWER A-2 Airrow Pro Multi-Use Electric Computer Duster~~
 * ~~Sega Genesis Mini~~
 * ~~Physical copy of Infinite Jest by David Foster Wallace~~ Thanks Rob!

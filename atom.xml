@@ -4,8 +4,27 @@
 	<link href="/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2021-04-25T02:34:47.328+00:00</updated>
+	<updated>2021-05-28T14:21:19.433+00:00</updated>
 	<id>/atom.xml</id>
+	<entry xml:lang="en">
+		<title>songs</title>
+		<published>2021-05-28T14:21:19.433+00:00</published>
+		<updated>2021-05-28T14:21:19.433+00:00</updated>
+		<link href="/songs/" type="text/html"/>
+		<id>/songs/</id>
+		<content type="html">&lt;h1 id=&quot;songs&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#songs&quot; aria-label=&quot;Anchor link for: songs&quot;&gt;#&lt;&#x2F;a&gt;songs&lt;&#x2F;h1&gt;
+&lt;p&gt;Below is a list of songs that have had some profound effect on me. Will add more as I remember to.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conscious Life For Coma Boy - Aereogramme &lt;&#x2F;li&gt;
+&lt;li&gt;You&#x27;re Always Welcome - Aereogramme&lt;&#x2F;li&gt;
+&lt;li&gt;No Really, Everything&#x27;s Fine - Aereogramme&lt;&#x2F;li&gt;
+&lt;li&gt;Indescretion #243 - Aereogramme&lt;&#x2F;li&gt;
+&lt;li&gt;Post-Tour, Pre-Judgement - Aereogramme&lt;&#x2F;li&gt;
+&lt;li&gt;A Meaningful Existence - Aereogramme&lt;&#x2F;li&gt;
+&lt;li&gt;The Reason They HAte Me - Daughters&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>irc</title>
 		<published>2021-04-25T02:34:47.328+00:00</published>

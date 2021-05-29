@@ -13,7 +13,7 @@ Below is a list of songs that have had some profound effect on me. Will add more
 * Indescretion #243 - Aereogramme
 * Post-Tour, Pre-Judgement - Aereogramme
 * A Meaningful Existence - Aereogramme
-* The Reason They HAte Me - Daughters
+* The Reason They Hate Me - Daughters
 * Ocean Song - Daughters
 * E - Cloakroom
 * Bending - Cloakroom
@@ -32,3 +32,38 @@ Below is a list of songs that have had some profound effect on me. Will add more
 * Pancho Villa / Salvador Sanchez - Sun Kil Moon
 * Carnival - the pillows
 * Funny Bunny - the pillows
+* Octavarium - Dream Theater
+* Strange Deja Vu - Dream Theater
+* Space Dye-Vest - Dream Theater
+* Graveyard Mountain Home - Chroma Key
+* Colorblind - Chroma Key
+* Another Permanent Address - Chroma Key
+* Immunity - Jon Hopkins
+* Recovery - Jon Hopkins
+* C O S M - Jon Hopkins
+* Open Eye Signal - Jon Hopkins
+* Our Way To Fall - Yo La Tengo
+* Stupid Things - Yo La Tengo
+* Ashes of American Flags - Wilco
+* Kamera - Wilco
+* Last We Spoke - Jim Guthrie
+* The Rest Is Yet To Come - Jim Guthrie
+* Problem With Solutions - Jim Guthrie
+* Bedroom Talks - Fazerdaze
+* Bodysnatchers - Radiohead
+* No Surprises - Radiohead
+* Let Down - Radiohead
+* Reckoner - Radiohead
+* Present Tense - Radiohead
+* Everything in Its Right Place - Radiohead
+* Nude - Radiohead
+* Subterranean Homesick Alien - Radiohead
+* Radio Ballet - Eluvium
+* An Accidental Memory - Eluvium
+* Fishmans - Pokka Pokka
+* Fishmans - いかれたBaby
+* Fishmans - Long Season
+* Lamp - ひろがるなみだ
+* Lamp - 夜風
+* LCD Soundsystem - All My Friends
+* LCD Soundsystem - [This Is Happening #01] Dance Yrself Clean

@@ -30,3 +30,5 @@ Below is a list of songs that have had some profound effect on me. Will add more
 * Duk Koo Kim - Sun Kil Moon
 * Si, Paloma - Sun Kil Moon
 * Pancho Villa / Salvador Sanchez - Sun Kil Moon
+* Carnival - the pillows
+* Funny Bunny - the pillows

@@ -13,7 +13,6 @@ This is a wishlist of miscellaneous stuff I intend to get.
 * Sega Saturn
 * SNES Classic (Get from [here](https://store.nintendo.com/ng3/browse/subcategory.jsp?categoryId=cat990247))
 * TurboGrafx-16 mini
-* Xperia XZ1 Compact or Galaxy S10e or Pixel 3a
 * Sony Trinitron
 
 ## Books
@@ -32,7 +31,6 @@ This is a wishlist of miscellaneous stuff I intend to get.
 
 ## Vinyl
 * Diamond Mine by King Creosote & Jon Hopkins Vinyl
-* Yankee Hotel Foxtrot by Wilco Vinyl
 * Hounds of Love by Kate Bush Vinyl
 
 ## Misc
@@ -50,15 +48,18 @@ This is a wishlist of miscellaneous stuff I intend to get.
 
 ## Acquired
 
+* ~~Xperia XZ1 Compact or Galaxy S10e or Pixel 3a~~ *got a Pixel 5* Thanks Raf!
+* ~~FSF Hoodie~~ Thanks Iris!
+* ~~Yankee Hotel Foxtrot by Wilco Vinyl~~ Thanks Rob!
 * ~~Analogue Super NT~~
-* ~~PS3 Slim or Super Slim~~
+* ~~PS3 Slim or Super Slim~~ *purchased for $40 on OfferUp*
 * ~~XPOWER A-2 Airrow Pro Multi-Use Electric Computer Duster~~
 * ~~Sega Genesis Mini~~
 * ~~Physical copy of Infinite Jest by David Foster Wallace~~ Thanks Rob!
 * ~~Raspberry Pi 4~~
 * ~~Goodbye, Things by Fumio Sasaki~~
 * ~~Game Programming Patterns by Bob Nystrom~~
-* ~~* PSP2000 or Vita~~ Thanks Stevo!!
+* ~~* PSP2000 or Vita~~ Thanks Stevo!
 * ~~Buckwheat pillow~~ Thanks Iris!
 * ~~Under Color of Official Right by Protomartyr Vinyl~~
 * ~~Logitech G305~~

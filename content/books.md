@@ -5,7 +5,7 @@ date = 2020-01-14
 
 # books
 
-A collection of (free) web books, guides, and references by category that I've found over the years.
+A collection of (free) web books, guides, and references by category that I've found over the years. Suggestions welcome.
 
 ## General Programming
 

@@ -9,7 +9,7 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing
 
-* Rondo of Blood
+* Castlevania: Rondo of Blood
 
 ## In order of intended play
 

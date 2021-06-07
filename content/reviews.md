@@ -6,6 +6,9 @@ date = 2021-03-30T14:21:19.433Z
 
 [← backlog](/backlog)
 
+## Castlevania: Symphony of the Night
+  * **4/5** - An imperfect classic, I can clearly see how many of SOTN's flaws were overlooked on release and for years following its release. It is one of the most influential games of all time, and is far more ambitious than most of its contemporaries. Some of the best spritework I've ever seen.
+
 ## Super Castlevania IV
   * **3/5** - Unparalleled atmosphere meets antiquated platforming. Castlevania 4 suffers from a lot of the same platforming woes of other games of its era; in an age where Super Mario Bros. is the single most popular game of all time, how could you *not* have platforming in your videogame? Although C4 is far less stiff than its predecessors, it can't be denied that the platforming is still clunky. Simon moves as gracefully as a bag of sand. You can't jump while on stairs. You fall directly through stairs. For some reason, inputting left + up will still move you up the stairs even if "up the stairs" means going right. Putting all of this aside, Castlevania set the bar for action platformers at the time, and its music, visuals, and gothic flair have aged remarkably well.
 

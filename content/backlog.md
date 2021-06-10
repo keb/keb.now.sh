@@ -21,9 +21,6 @@ date = 2019-06-02T14:21:19.433Z
 * Donkey Kong Country 3: Dixie Kong's Double Trouble! - *08h*
 * Monolith - *17h*
 * Hollow Knight - *32h*
-* Sonic Generations - *11h*
-* Sonic Colors (DS) - *07h*
-* Sonic Robo Blast 2 - *05h*
 * Anodyne - *07h*
 * Anodyne 2 - *10h*
 * Silent Hill 4 - *09h*
@@ -65,6 +62,9 @@ date = 2019-06-02T14:21:19.433Z
 * Mother 3 - *30h*
 * Alundra - *32h*
 * Vagrant Story - *33h*
+* Sonic Generations - *11h*
+* Sonic Colors (DS) - *07h*
+* Sonic Robo Blast 2 - *05h*
 * Paper Mario: The Thousand-Year Door - *35h*
 * Sekiro: Shadows Die Twice - *42h*
 * Final Fantasy VII - *52h*

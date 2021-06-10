@@ -58,6 +58,7 @@ date = 2019-06-02T14:21:19.433Z
 * Secret of Mana - *25h*
 * Trials of Mana (1996) - *24h*
 * The Legend of Zelda: Majora's Mask - *30h*
+* Castlevania: Legacy of Darkness - *16h*
 * Toki Tori 2+ - *16h*
 * The Legend of Zelda: A Link Between Worlds - *20h*
 * Earthbound - *32h*

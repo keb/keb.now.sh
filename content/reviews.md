@@ -7,7 +7,7 @@ date = 2021-03-30T14:21:19.433Z
 [← backlog](/backlog)
 
 ## Castlevania: Rondo of Blood
-  * **3/5** - The prequel to Symphony of the Night, Rondo of Blood is the final "classic" Castlevania title before the series ventured into the exploration-focused Metroidvania design. Not to be confused with Dracula X Chronicles, Rondo of Blood is very similar to Super Castlevania IV although with a few notable improvements and extra features, including multiple playable characters, branching paths that lead to unlockable levels, and fully animated cutscenes. Maria is much more fun to play and less rigid than Richter, although that comes at the cost of making the game a bit too easy at times.
+  * **3/5** - The prequel to Symphony of the Night, Rondo of Blood is the final "classic" Castlevania title before the series ventured into the exploration-focused Metroidvania design. Not to be confused with Dracula X, Rondo of Blood is very similar to Super Castlevania IV although with a few notable improvements and extra features, including multiple playable characters, branching paths that lead to unlockable levels, and fully animated cutscenes. Maria is much more fun to play and less rigid than Richter, although that comes at the cost of making the game a bit too easy at times.
 
 ## Castlevania: Symphony of the Night
   * **4/5** - An imperfect classic, I can clearly see how many of SOTN's flaws were overlooked on release and for years following its release. It is one of the most influential games of all time, and is far more ambitious than most of its contemporaries. Some of the best spritework I've ever seen.

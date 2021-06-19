@@ -7,7 +7,7 @@ date = 2019-06-04T14:20:03.472Z
 This is a wishlist of miscellaneous stuff I intend to get.
 
 ## Devices
-* Thinkpad x220 w/ i5-2540M & 8GB RAM **OR** ThinkPad X1 Carbon 4th Gen or 6th Gen & Laptop Stand
+* Thinkpad x220 w/ i5-2540M & 8GB RAM **OR** ThinkPad X1 Carbon 4th Gen or 6th Gen & Laptop Stand. Maybe a T480? idk.
 * PolyMega Retro Game Station
 * NVIDIA Shield TV
 * Sega Saturn
@@ -36,20 +36,16 @@ This is a wishlist of miscellaneous stuff I intend to get.
 ## Misc
 * Deception: Murder in Hong Kong Board Game
 * Yamaha C-40 Guitar
-* Lapsang souchong
 * Mozilla shirt or mug
 * EFF shirt or mug
 * Wikimedia shirt or mug
-* All-Natural Japanese Futon + Tatami Mat
-* Olive Chinos
 * Inverted Umbrella
-* BUG-A-SALT
 * Sonicare Electric Toothbrush
 
 ## Acquired
 
 * ~~Xperia XZ1 Compact or Galaxy S10e or Pixel 3a~~ *got a Pixel 5* Thanks Raf!
-* ~~FSF Hoodie~~ Thanks Iris!
+* ~~Lapsang souchong~~ Thanks Iris!
 * ~~Yankee Hotel Foxtrot by Wilco Vinyl~~ Thanks Rob!
 * ~~Analogue Super NT~~
 * ~~PS3 Slim or Super Slim~~ *purchased for $40 on OfferUp*

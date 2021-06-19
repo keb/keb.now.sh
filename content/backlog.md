@@ -9,14 +9,12 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing
 
-* Sonic CD - *04h*
+* Donkey Kong Country 2: Diddy's Kong Quest  - *07h*
 
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
 
-* Sonic Mania - *09h*
-* Donkey Kong Country 2: Diddy's Kong Quest  - *07h*
 * Donkey Kong Country 3: Dixie Kong's Double Trouble! - *08h*
 * Monolith - *17h*
 * Hollow Knight - *32h*
@@ -69,6 +67,7 @@ date = 2019-06-02T14:21:19.433Z
 * Final Fantasy VII - *52h*
 * Demon's Souls - *40h*
 * Final Fantasy Tactics - *58h*
+* Sonic Mania - *09h*
 * OMORI
 * Radiant Historia - *40h*
 * Chrono Cross - *43h*

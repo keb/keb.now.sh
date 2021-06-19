@@ -6,6 +6,9 @@ date = 2021-03-30T14:21:19.433Z
 
 [← backlog](/backlog)
 
+## Sonic CD
+  * **3/5** - A solid Sonic entry, and a flawless PC port by Christian Whitehead. More in line with Sonic 1 & 2 than 3 & Knuckles. Has some really impressive animations and sprite work, as well as the best music in any Sonic game.
+
 ## Castlevania: Rondo of Blood
   * **3/5** - The prequel to Symphony of the Night, Rondo of Blood is the final "classic" Castlevania title before the series ventured into the exploration-focused Metroidvania design. Not to be confused with Dracula X, Rondo of Blood is very similar to Super Castlevania IV although with a few notable improvements and extra features, including multiple playable characters, branching paths that lead to unlockable levels, and fully animated cutscenes. Maria is much more fun to play and less rigid than Richter, although that comes at the cost of making the game a bit too easy at times.
 

@@ -270,6 +270,7 @@ date = 2019-06-02T14:21:19.433Z
 * Treasure of the Rudras - *30h*
 * Castlevania: Portrait of Ruin - *13h*
 * Castlevania: Order of Ecclesia - *13h*
+* MUSHA - *03h*
 * Renowned Explorers: International Society - *20h*
 * The Legend of Zelda: Phantom Hourglass - *20h*
 * The Legend of Zelda: Spirit Tracks - *26h*

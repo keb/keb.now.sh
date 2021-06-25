@@ -3,15 +3,21 @@
     const $gameSearchInput = document.querySelector('.gamesearch-input');
     const $gameSearchForm = document.querySelector('.gamesearch-form');
 
-    const res = await fetch('https://api.github.com/gists/1402e96b5f5cb46e7f6a6604f847857b');
-    const json = await res.json();
+    let res = await fetch('https://api.github.com/gists/1402e96b5f5cb46e7f6a6604f847857b');
+    let json = await res.json();
+    
     let library;
+    let isError = false;
 
     try {
         library = JSON.parse(json.files['library.json'].content);
     } catch {
+        isError = true;
         console.error('Could not parse JSON.');
-        return;
+    } finally {
+        res = undefined;
+        json = undefined;
+        if (isError) return;
     }
 
     let allGamesHtml = '';

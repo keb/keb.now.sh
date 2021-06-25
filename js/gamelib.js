@@ -14,6 +14,7 @@
         return;
     }
 
+    let allGamesHtml = '';
     const slugMap = {};
 
     const idx = lunr(function() {
@@ -33,15 +34,11 @@
             });
 
             slugMap[slug] = library.games[i];
-
-            gamesHtml +=
-                `<article class="game">` +
-                    `<header>${library.games[i].name}</header>` +
-                    `<aside>${library.games[i].store}</aside>` +
-                `</article>`;
+            gamesHtml += GameHtml(library.games[i]);
         }
 
-        $gameLib.innerHTML = gamesHtml;
+        allGamesHtml = gamesHtml;
+        $gameLib.innerHTML = allGamesHtml;
     });
 
     $gameSearchForm.addEventListener('submit', (ev) => {
@@ -55,24 +52,26 @@
             }
 
             const html = buildGamesHtml(games);
-            $gameLib.innerHTML = html.trim() ? html : '<em class="my2">No games found</em>';
+            $gameLib.innerHTML = html.trim() ? html : '<article class="game"><em>No games found</em></article>';
         } else {
-            $gameLib.innerHTML = buildGamesHtml(library.games);
+            $gameLib.innerHTML = allGamesHtml;
         }
     });
 
     function buildGamesHtml(games) {
         let gamesHtml = '';
         for (let i = 0, len = games.length; i < len; i++) {
-
-            gamesHtml +=
-                `<article class="game">` +
-                    `<header>${games[i].name}</header>` +
-                    `<aside>${games[i].store}</aside>` +
-                `</article>`;
+            gamesHtml += GameHtml(games[i]);
         }
 
         return gamesHtml;
+    }
+
+    function GameHtml(game) {
+        return `<article class="game">` +
+            `<header>${game.name}</header>` +
+            `<aside>${game.store}</aside>` +
+        `</article>`;
     }
 
     function slugify(text) {

@@ -1,9 +1,11 @@
 (async function(lunr) {
+    const GIST_ID = '4369660d49048696510d34cb0e619c56';    
+
     const $gameLib = document.querySelector('.gamelib');
     const $gameSearchInput = document.querySelector('.gamesearch-input');
     const $gameSearchForm = document.querySelector('.gamesearch-form');
 
-    let res = await fetch('https://api.github.com/gists/1402e96b5f5cb46e7f6a6604f847857b');
+    let res = await fetch(`https://api.github.com/gists/${GIST_ID}`);
     let json = await res.json();
     
     let library;
@@ -74,8 +76,15 @@
     }
 
     function GameHtml(game) {
+        let header = '';
+        if (game.url) {
+            header = `<header><a href="${game.url}">${game.name}</a></header>`;
+        } else {
+            header = `<header>${game.name}</header>`   
+        }
+
         return `<article class="game">` +
-            `<header>${game.name}</header>` +
+            header +
             `<aside>${game.store}</aside>` +
         `</article>`;
     }

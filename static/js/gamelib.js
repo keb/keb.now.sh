@@ -3,6 +3,7 @@
 
     const $gameLib = document.querySelector('.gamelib');
     const $gameSearchInput = document.querySelector('.gamesearch-input');
+    const $gameClearBtn = document.querySelector('.gamesearch-clear');
     const $gameSearchForm = document.querySelector('.gamesearch-form');
 
     let res = await fetch(`https://api.github.com/gists/${GIST_ID}`);
@@ -49,6 +50,12 @@
         $gameLib.innerHTML = allGamesHtml;
     });
 
+    $gameClearBtn.addEventListener('click', (ev) => {
+       ev.preventDefault();
+       $gameSearchInput.value = '';
+       $gameLib.innerHTML = allGamesHtml;
+    });
+    
     $gameSearchForm.addEventListener('submit', (ev) => {
         ev.preventDefault();
         const value = $gameSearchInput.value.trim();

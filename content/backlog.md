@@ -15,7 +15,6 @@ date = 2019-06-02T14:21:19.433Z
 
 *Numbers in italics are estimated hours to complete.*
 
-* Donkey Kong Country 3: Dixie Kong's Double Trouble! - *08h*
 * Monolith - *17h*
 * Hollow Knight - *32h*
 * Anodyne - *07h*
@@ -25,6 +24,7 @@ date = 2019-06-02T14:21:19.433Z
 * Resident Evil: Code Veronica - *15h*
 * Resident Evil 2 Remake - *14h*
 * Resident Evil 7 - *12h*
+* Donkey Kong Country 3: Dixie Kong's Double Trouble! - *08h*
 * Rayman 2: The Great Escape - *09h*
 * Maximo: Ghosts to Glory - *08h*
 * Super Mario Odyssey - *15h*

@@ -70,12 +70,18 @@
 }
 .col {
     float: left;
-}
-.col {
     box-sizing: border-box;
 }
 .col-12 {
     width: 100%;
+}
+@media (min-width:52em) {
+    .md-col-3 {
+        width: 25%;
+    }
+    .md-col-6 {
+        width: 50%;
+    }
 }
 .flex {
     display: -webkit-box;

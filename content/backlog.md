@@ -9,7 +9,7 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing
 
-* Monolith - *17h*
+* Monolith: Relics of the Past - *17h*
 
 ## In order of intended play
 

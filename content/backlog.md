@@ -9,13 +9,12 @@ date = 2019-06-02T14:21:19.433Z
 
 ## Currently playing
 
-* Donkey Kong Country 2: Diddy's Kong Quest  - *07h*
+* Monolith - *17h*
 
 ## In order of intended play
 
 *Numbers in italics are estimated hours to complete.*
 
-* Monolith - *17h*
 * Hollow Knight - *32h*
 * Anodyne - *07h*
 * Anodyne 2 - *10h*

@@ -6,6 +6,9 @@ date = 2021-03-30T14:21:19.433Z
 
 [← backlog](/backlog)
 
+## Donkey Kong Country 2: Diddy's Kong Quest
+  * **4/5** - Faithful to the original and just as polished. DKC2 is considerably more difficult than the original, to the point where the hardest parts of DKC1 look like a cakewalk in comparison. Sometimes, the difficulty verges on straight-up BS. Level design is considerably more vertical in this entry, and this is enhanced with the added mobility of Dixie Kong who, while a tad slower than Diddy, has the invaluable glide ability.
+
 ## Sonic CD
   * **3/5** - A solid Sonic entry, and a flawless PC port by Christian Whitehead. More in line with Sonic 1 & 2 than 3 & Knuckles. Has some really impressive animations and sprite work, as well as the best music in any Sonic game.
 

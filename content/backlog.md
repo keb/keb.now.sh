@@ -139,6 +139,7 @@ date = 2019-06-02T14:21:19.433Z
 * Frogger: Helmet Chaos (PSP/DS)
 * Infested Planet - *10h*
 * Out There Somewhere - *02h*
+* Ihatovo Monogatari - *05h*
 * Beyond Oasis - *06h*
 * Wizorb - *06h*
 * RUINER - *06h*
@@ -148,6 +149,8 @@ date = 2019-06-02T14:21:19.433Z
 * Resident Evil: Revelations - *13h*
 * Resident Evil: Revelations 2 - *15h*
 * Oddworld: Abe's Oddysee (New & Tasty) - *10h*
+* Shadow of Memories - *06h*
+* Mario Golf: Advance Tour
 * Oddworld: Stranger's Wrath - *15h*
 * Odallus: The Dark Call - *07h*
 * Lucah: Born of a Dream - *11h*
